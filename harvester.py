@@ -2,7 +2,7 @@ import feedparser
 import json
 from datetime import datetime
 
-# Expanded list of free RSS feeds spanning all your categories
+# Expanded list combining Tech, AI, and major Global/Indian news outlets
 FEEDS = [
     # TECH & SYS
     {"url": "https://news.ycombinator.com/rss", "category": "TECH", "source": "Hacker News"},
@@ -18,9 +18,12 @@ FEEDS = [
     {"url": "https://github.blog/all.atom", "category": "DEV", "source": "GitHub Blog"},
     {"url": "https://dev.to/feed", "category": "DEV", "source": "DEV Community"},
     
-    # GLOBAL & MARKETS
+    # GLOBAL & MARKETS (Tech + News Outlets)
+    {"url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms", "category": "MARKETS", "source": "Times of India"},
+    {"url": "https://feeds.washingtonpost.com/rss/world", "category": "MARKETS", "source": "Washington Post"},
+    {"url": "https://www.news18.com/commonfeeds/v1/eng/rss/india.xml", "category": "MARKETS", "source": "News18"},
     {"url": "https://techcrunch.com/feed/", "category": "MARKETS", "source": "TechCrunch"},
-    {"url": "https://cointelegraph.com/rss", "category": "MARKETS", "source": "Crypto/Markets"}
+    {"url": "https://cointelegraph.com/rss", "category": "MARKETS", "source": "Crypto"}
 ]
 
 def fetch_trends():
@@ -32,7 +35,7 @@ def fetch_trends():
             # Parse the RSS feed
             parsed = feedparser.parse(feed["url"])
             
-            # INCREASED LIMIT: Now pulls up to 15 top stories per feed (was 4)
+            # Pulls up to 15 top stories per feed
             for entry in parsed.entries[:15]: 
                 # Clean up the summary text
                 summary = entry.get("summary", "")
@@ -55,9 +58,9 @@ def fetch_trends():
         except Exception as e:
             print(f"Skipping feed {feed['source']} due to error: {e}")
             
-    # Overwrite the whiteboard file (trends.json)
-    with open("trends.json", "w") as f:
-        json.dump(trends, f, indent=4)
+    # Overwrite the whiteboard file (trends.json) with UTF-8 encoding for international characters
+    with open("trends.json", "w", encoding="utf-8") as f:
+        json.dump(trends, f, indent=4, ensure_ascii=False)
     print(f"Successfully harvested {len(trends)} signals.")
 
 if __name__ == "__main__":

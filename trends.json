@@ -6,7 +6,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://www.anthropic.com/claude-opus-5-5",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://github.com/hsfzxjy/npunlock",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://foxscript.org/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://github.com/xCuri0/ReBarUEFI",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 12,
@@ -105,7 +105,7 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 13,
@@ -114,25 +114,25 @@
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 14,
-        "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-        "timestamp": "08:50 UTC"
-    },
-    {
-        "id": 15,
         "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
         "summary": "No summary provided by source.",
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
+    },
+    {
+        "id": 15,
+        "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnevnd/we_hacked_the_fbi_hackers_say_they_have_data_on/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wn5qva/epa_unlawfully_canceled_7b_solar_for_all_program/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wn7qdj/engineer_says_claude_code_has_made_his_job/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnj7ot/discord_reveals_agecheck_rollout_with_massive/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 20,
@@ -177,7 +177,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wn5syf/acer_ceo_says_pc_prices_could_fall_by_2027/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 21,
@@ -186,7 +186,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnii6k/it_mistake_erases_11_years_of_viewing_history_for/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 22,
@@ -195,7 +195,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnjcz2/lawsuit_openai_hid_mass_shooters_chat_logs_to/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 23,
@@ -204,7 +204,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnrf2z/stanford_violated_its_ai_policy_by_turning_a/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 24,
@@ -213,7 +213,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wn9o00/researchers_found_a_way_to_eavesdrop_on/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 25,
@@ -222,7 +222,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnfo05/jobless_tech_workers_are_being_left_out_of_san/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 26,
@@ -231,7 +231,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnb2qg/asml_has_zero_revenue_from_europe/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 27,
@@ -240,7 +240,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnm9oh/we_screwed_up_doordash_admits_underpaying_new/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 28,
@@ -249,7 +249,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnr8k4/a_12yearold_in_california_built_a_braille_printer/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 29,
@@ -258,7 +258,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnhri5/doordash_to_pay_131m_for_underpaying_delivery/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 30,
@@ -267,7 +267,7 @@
         "category": "TECH",
         "source": "r/Technology",
         "url": "https://www.reddit.com/r/technology/comments/1wnal03/highmileage_electric_cars_are_more_reliable_than/",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 31,
@@ -276,7 +276,7 @@
         "category": "TECH",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 32,
@@ -285,7 +285,7 @@
         "category": "TECH",
         "source": "The Verge",
         "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 33,
@@ -294,7 +294,7 @@
         "category": "TECH",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 34,
@@ -303,7 +303,7 @@
         "category": "TECH",
         "source": "The Verge",
         "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 35,
@@ -312,7 +312,7 @@
         "category": "TECH",
         "source": "The Verge",
         "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 36,
@@ -321,7 +321,7 @@
         "category": "TECH",
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 37,
@@ -330,7 +330,7 @@
         "category": "TECH",
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 38,
@@ -339,7 +339,7 @@
         "category": "TECH",
         "source": "The Verge",
         "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 39,
@@ -348,7 +348,7 @@
         "category": "TECH",
         "source": "The Verge",
         "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 40,
@@ -357,7 +357,7 @@
         "category": "TECH",
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
-        "timestamp": "08:50 UTC"
+        "timestamp": "08:55 UTC"
     },
     {
         "id": 41,
@@ -366,7 +366,7 @@
         "category": "AI",
         "source": "HN Artificial Intelligence",
         "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 42,
@@ -375,7 +375,7 @@
         "category": "AI",
         "source": "r/MachineLearning",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wn5uv9/understanding_and_enhancing_kimi_delta_attention_r/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 43,
@@ -384,7 +384,7 @@
         "category": "AI",
         "source": "r/MachineLearning",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 44,
@@ -393,7 +393,7 @@
         "category": "AI",
         "source": "r/MachineLearning",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wnctam/linearsolvebench_new_benchmark_for_linear_solvers/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 45,
@@ -402,7 +402,7 @@
         "category": "AI",
         "source": "r/MachineLearning",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 46,
@@ -411,7 +411,7 @@
         "category": "AI",
         "source": "r/MachineLearning",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wn9xqk/qontofaq_a_better_information_retrieval_benchmark/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 47,
@@ -420,7 +420,7 @@
         "category": "AI",
         "source": "r/MachineLearning",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wnzols/how_do_you_split_ai_models_across_ideation_math/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 48,
@@ -429,7 +429,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://til.simonwillison.net/llms/llama-cpp-python-grammars",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 49,
@@ -438,7 +438,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 50,
@@ -447,7 +447,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 51,
@@ -456,7 +456,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://github.com/rpm-software-management/microdnf",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 52,
@@ -465,7 +465,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://pytauri.github.io/pytauri/0.8/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 53,
@@ -474,7 +474,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://github.com/embedder-dev/pytrace",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 54,
@@ -483,7 +483,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://github.com/brmmm3/fastlogging-rs",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 55,
@@ -492,7 +492,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://blog.cloudflare.com/python-workers-ga/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 56,
@@ -501,7 +501,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://github.com/rafnixg/odoo-platform-ephemeral-environment",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 57,
@@ -510,7 +510,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://github.com/sumanmichael/jevlang",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 58,
@@ -519,7 +519,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://github.com/santibccc-sudo/enjambre-os",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 59,
@@ -528,7 +528,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://github.com/mini-software/MiniPdf",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 60,
@@ -537,7 +537,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://heymeraki.substack.com/p/aie_21-building-it",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 61,
@@ -546,7 +546,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://news.ycombinator.com/item?id=49765426",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 62,
@@ -555,7 +555,7 @@
         "category": "DEV",
         "source": "Python News",
         "url": "https://github.com/binuka200/package-doctor",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 63,
@@ -564,7 +564,7 @@
         "category": "DEV",
         "source": "GitHub Blog",
         "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 64,
@@ -573,7 +573,7 @@
         "category": "DEV",
         "source": "GitHub Blog",
         "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 65,
@@ -582,7 +582,7 @@
         "category": "DEV",
         "source": "GitHub Blog",
         "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 66,
@@ -591,7 +591,7 @@
         "category": "DEV",
         "source": "GitHub Blog",
         "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 67,
@@ -600,7 +600,7 @@
         "category": "DEV",
         "source": "GitHub Blog",
         "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 68,
@@ -609,7 +609,7 @@
         "category": "DEV",
         "source": "GitHub Blog",
         "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 69,
@@ -618,7 +618,7 @@
         "category": "DEV",
         "source": "GitHub Blog",
         "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 70,
@@ -627,7 +627,7 @@
         "category": "DEV",
         "source": "GitHub Blog",
         "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 71,
@@ -636,7 +636,7 @@
         "category": "DEV",
         "source": "GitHub Blog",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 72,
@@ -645,7 +645,7 @@
         "category": "DEV",
         "source": "GitHub Blog",
         "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 73,
@@ -654,7 +654,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4p0m",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 74,
@@ -663,7 +663,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/tspeedcobra/why-nextcloud-locked-me-out-of-my-own-server-and-how-trustedproxies-fixed-it-381e",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 75,
@@ -672,7 +672,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/jareer_nauman_ba24aa80b87/an-ai-front-desk-that-is-more-than-a-phone-agent-1k0j",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 76,
@@ -681,7 +681,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/decodo_official/selenium-keeps-getting-blocked-heres-what-cloudflare-actually-sees-21ai",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 77,
@@ -690,7 +690,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/bramverhagen/the-architect-who-said-he-never-left-engineering-1kfl",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 78,
@@ -699,7 +699,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/niladri_prasadpadhy_ccee/nuvyn-cli-120-spec-driven-net-maui-from-a-new-app-or-one-you-already-have-50nd",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 79,
@@ -708,7 +708,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/skyblueballykid/i-diffed-githubs-stripes-and-openais-openapi-specs-three-vendors-three-totally-different-3pe1",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 80,
@@ -717,7 +717,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/cuculhart/i-built-a-free-byok-ai-coding-agent-ide-that-runs-fully-offline-on-local-llms-4bdb",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 81,
@@ -726,7 +726,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/umer_abdullah/semantic-search-without-an-llm-build-blazing-fast-semantic-search-for-0-3cb7",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 82,
@@ -735,7 +735,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/koji_pandaas/i-kept-sending-files-from-my-phone-to-my-pc-just-to-edit-them-so-i-built-an-app-2o3j",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 83,
@@ -744,7 +744,7 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/listwright/1634-dev-posts-149-canonical-hosts-and-148-of-them-belong-to-exactly-one-person-58d5",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 84,
@@ -753,142 +753,142 @@
         "category": "DEV",
         "source": "DEV Community",
         "url": "https://dev.to/saahalla/getting-started-with-go-go-run-and-go-build-2k9h",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 85,
-        "title": "'Decision unanimous': EC counters report of internal differences over SIR",
+        "title": "'Differing views normal part of deliberation': EC responds after report flags rift over SIR",
         "summary": "No summary provided by source.",
         "category": "MARKETS",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/sir-decision-unanimous-ec-plays-down-report-of-internal-disagreement-over-roll-revision/articleshow/134426813.cms",
-        "timestamp": "08:51 UTC"
+        "url": "https://timesofindia.indiatimes.com/india/differing-views-normal-part-of-deliberation-ec-responds-after-report-flags-rift-over-sir/articleshow/134429923.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 86,
-        "title": "Mirabai Chanu wins maiden Asian Games medal, bags silver in 49kg category",
-        "summary": "Mirabai Chanu lifted a total of 198 kg in the event. She lifted 87 kg in the snatch before managing 111 kg in the clean ...",
+        "title": "'Strategic desperation': Iran on Trump's 'annihilate Islamic Republic' remark",
+        "summary": "Iranian military authorities said Trump's remarks showed the difficulties facing the US in its confrontation with Iran. ...",
         "category": "MARKETS",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/mirabai-chanu-wins-maiden-asian-games-medal-bags-silver-in-49kg-category/articleshow/134427306.cms",
-        "timestamp": "08:51 UTC"
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/strategic-desperation-iran-on-trumps-annihilate-islamic-republic-remark/articleshow/134426578.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 87,
-        "title": "Banks to open on Sunday ahead of 3-day nationwide strike: What customers should know",
-        "summary": "Banks will remain open on Sunday, September 27, to ensure public access to essential services and mitigate disruptions. ...",
+        "title": "'This is treason': Rahul Gandhi revives 'vote chori' charge after report of rift within EC",
+        "summary": "Rahul Gandhi has leveled grave accusations against the Election Commission, claiming treason in the wake of the electora...",
         "category": "MARKETS",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/to-safeguard-banking-needs-of-citizens-banks-to-remain-open-on-sunday-ahead-of-three-day-strike-sept-27/articleshow/134428877.cms",
-        "timestamp": "08:51 UTC"
+        "url": "https://timesofindia.indiatimes.com/india/this-is-treason-rahul-gandhi-revives-vote-chori-charge-after-report-of-rift-within-ec/articleshow/134429014.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 88,
-        "title": "Rats filmed running across tables at Rajkot McDonald's, civic body takes action",
-        "summary": "In Rajkot, a customer recorded a video of two rats in a McDonald's outlet. The civic food department confirmed the incid...",
+        "title": "Half-burnt body of woman found in UP, toddler found crying nearby",
+        "summary": "On Wednesday morning, a half-burnt body of a woman was discovered in a sugarcane field. Nearby, her nearly 18-month-old ...",
         "category": "MARKETS",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/rajkot/rats-filmed-running-across-tables-at-rajkot-mcdonalds-civic-body-takes-action/articleshow/134428396.cms",
-        "timestamp": "08:51 UTC"
+        "url": "https://timesofindia.indiatimes.com/city/meerut/half-burnt-body-of-woman-found-in-up-toddler-found-crying-nearby/articleshow/134428669.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 89,
-        "title": "A kidney wait since 2024 ends with an Army airlift and a rare double transplant",
-        "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/a-kidney-wait-since-2024-ends-with-an-army-airlift-and-a-rare-double-transplant-/articleshow/134429518.cms",
-        "timestamp": "08:51 UTC"
-    },
-    {
-        "id": 90,
         "title": "Google Brain founder does not agree that AI is coming to kill humans",
         "summary": "Andrew Ng addresses fears surrounding artificial intelligence, dismissing them as a result of misleading public relation...",
         "category": "MARKETS",
         "source": "Times of India",
         "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-brain-founder-andrew-ng-does-not-agree-that-ai-is-coming-to-kill-humans-blames-openai-for-hugging-face-mess/articleshow/134429278.cms",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
+    },
+    {
+        "id": 90,
+        "title": "Banks to open on Sunday ahead of 3-day nationwide strike: What customers should know",
+        "summary": "Banks will remain open on Sunday, September 27, to ensure public access to essential services and mitigate disruptions. ...",
+        "category": "MARKETS",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/to-safeguard-banking-needs-of-citizens-banks-to-remain-open-on-sunday-ahead-of-three-day-strike-sept-27/articleshow/134428877.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 91,
-        "title": "IIT-Bombay on boil: Professor sent on leave, student's parents 'driven' out of city",
-        "summary": "Sahil Wakode's parents were allegedly taken out of Mumbai against their wishes by unidentified individuals. They plan to...",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-on-boil-professor-sent-on-leave-students-parents-driven-out-of-mumbai-all-you-need-to-know/articleshow/134428426.cms",
-        "timestamp": "08:51 UTC"
-    },
-    {
-        "id": 92,
         "title": "Got 2 flats worth Rs 1.38cr for tenancy rights; taxman sent notice, what ITAT said",
         "summary": "He was a tenant in Mumbai in a housing society that was slated to undergo redevelopment. He received two flats in the re...",
         "category": "MARKETS",
         "source": "Times of India",
         "url": "https://timesofindia.indiatimes.com/business/india-business/he-surrendered-tenancy-rights-for-redevelopment-and-got-2-flats-worth-rs-1-38-crore-taxman-added-it-as-income-why-itat-mumbai-gave-him-relief/articleshow/134428280.cms",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
+    },
+    {
+        "id": 92,
+        "title": "‘Want to see him under pressure’: NZ coach's challenge for Vaibhav Sooryavanshi",
+        "summary": "Rob Walter has shown great enthusiasm in witnessing Vaibhav Sooryavanshi's adaptation to the challenging playing conditi...",
+        "category": "MARKETS",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-want-to-see-him-under-pressure-new-zealand-coach-lays-down-challenge-for-vaibhav-sooryavanshi/articleshow/134427261.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 93,
-        "title": "Peacemaker with a warning to annihilate: The major contradictions in Trump's UN speech",
-        "summary": "Trump used much of his address to the General Debate of the 81st session of the UN General Assembly to list his achievem...",
+        "title": "Rats filmed running across tables at Rajkot McDonald's, civic body takes action",
+        "summary": "In Rajkot, a customer recorded a video of two rats in a McDonald's outlet. The civic food department confirmed the incid...",
         "category": "MARKETS",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/peacemaker-with-a-warning-to-annihilate-the-major-contradictions-in-trumps-un-speech/articleshow/134425179.cms",
-        "timestamp": "08:51 UTC"
+        "url": "https://timesofindia.indiatimes.com/city/rajkot/rats-filmed-running-across-tables-at-rajkot-mcdonalds-civic-body-takes-action/articleshow/134428396.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 94,
-        "title": "Widow gets job after husband's death; Rajasthan HC orders 25% salary to mother-in-law",
-        "summary": "A widow employed through a compassionate appointment must allocate part of her salary to her mother-in-law. The Rajastha...",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/legal/news/widow-gets-job-after-husbands-death-rajasthan-hc-orders-25-salary-to-mother-in-law/articleshow/134429012.cms",
-        "timestamp": "08:51 UTC"
-    },
-    {
-        "id": 95,
-        "title": "Trump-Xi summit: $14 billion Taiwan arms deal hangs over Washington talks",
+        "title": "'Decision unanimous': EC counters report of internal differences over SIR",
         "summary": "No summary provided by source.",
         "category": "MARKETS",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/trump-xi-summit-14-billion-taiwan-arms-deal-hangs-over-washington-talks/articleshow/134428850.cms",
-        "timestamp": "08:51 UTC"
+        "url": "https://timesofindia.indiatimes.com/india/sir-decision-unanimous-ec-plays-down-report-of-internal-disagreement-over-roll-revision/articleshow/134426813.cms",
+        "timestamp": "08:56 UTC"
+    },
+    {
+        "id": 95,
+        "title": "Washington bridge carrying 90,000 vehicles a day gets $114m overhaul",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/a-1950-washington-bridge-carrying-about-90000-vehicles-a-day-is-getting-a-114-million-overhaul-engineers-will-replace-its-movable-span-with-a-fixed-one-floated-into-place-during-a-single-56-hour-closure/articleshow/134427928.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 96,
-        "title": "Seattle restores 2.8 acres of lost Duwamish habitat; fish are already returning",
-        "summary": "A remarkable $23 million settlement has paved the way for the revitalization of Seattle's Lower Duwamish River, leading ...",
+        "title": "Concrete oyster reefs boosted biomass 45-fold within 2 years, study finds",
+        "summary": "Innovative artificial oyster reefs have been created off Prince Edward Island to boost marine biodiversity and create ha...",
         "category": "MARKETS",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/science/nature/seattle-straightened-and-filled-the-lower-duwamish-until-97-of-its-original-habitat-was-gone-a-23-million-pollution-settlement-has-now-removed-contaminated-soil-and-rebuilt-2-8-acres-where-fish-are-already-returning/articleshow/134427995.cms",
-        "timestamp": "08:51 UTC"
+        "url": "https://timesofindia.indiatimes.com/science/nature/in-2021-researchers-began-placing-concrete-block-oyster-reefs-in-bare-eelgrass-patches-on-prince-edward-island-within-two-years-biomass-was-about-45-times-higher-and-45-taxa-had-colonised-the-structures/articleshow/134429364.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 97,
-        "title": "Newly built California waterfront home lists for $32 million within months",
-        "summary": "A mansion at 46 Cliff Road in Belvedere has been listed for $32 million after its completion. The home features four bed...",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/real-estate/news/a-four-bedroom-waterfront-home-was-completed-in-california-in-2026-within-months-the-belvedere-property-is-listed-for-32-million-the-newly-built-estate-comes-with-sweeping-bay-views-and-luxury-amenities/articleshow/134428692.cms",
-        "timestamp": "08:51 UTC"
-    },
-    {
-        "id": 98,
         "title": "Salesforce CEO blames Microsoft for not investing in OpenAI",
         "summary": "Salesforce CEO Marc Benioff says Microsoft's stake in OpenAI stopped his company from investing in the ChatGPT maker. Sp...",
         "category": "MARKETS",
         "source": "Times of India",
         "url": "https://timesofindia.indiatimes.com/technology/tech-news/marc-benioff-says-because-of-microsoft-salesforce-could-not-invest-in-openai-salesforce-ceo-says-i-knew-sam-altman-very-well-i-was-like-/articleshow/134426696.cms",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
+    },
+    {
+        "id": 98,
+        "title": "Phillip Island removed foxes; little penguin colony grew from 12,000 to 40,000",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/science/wildlife/in-2004-phillip-island-launched-a-campaign-to-eliminate-foxes-after-nine-of-its-10-little-penguin-colonies-had-vanished-alongside-habitat-restoration-the-surviving-colony-grew-from-12000-to-40000-birds/articleshow/134426152.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 99,
-        "title": "Why children who tear up their own work may be putting pressure on themselves",
-        "summary": "Children frequently demonstrate perfectionistic tendencies, where even minor errors result in intense emotional turmoil ...",
+        "title": "A kidney wait since 2024 ends with an Army airlift and a rare double transplant",
+        "summary": "No summary provided by source.",
         "category": "MARKETS",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/life-style/parenting/pregnancy/psychology-says-children-who-tear-up-their-own-drawings-or-homework-may-be-putting-more-pressure-on-themselves-than-parents-realize/articleshow/134428448.cms",
-        "timestamp": "08:51 UTC"
+        "url": "https://timesofindia.indiatimes.com/india/a-kidney-wait-since-2024-ends-with-an-army-airlift-and-a-rare-double-transplant-/articleshow/134429518.cms",
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 100,
@@ -897,7 +897,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/09/22/victories-by-far-left-far-right-show-germans-sick-politics-usual/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 101,
@@ -906,7 +906,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/politics/2026/09/22/us-iran-had-very-good-meeting-over-ongoing-war-trump-says/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 102,
@@ -915,7 +915,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/09/22/man-charged-over-rwanda-genocide-first-uk/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 103,
@@ -924,7 +924,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/09/22/shame-you-netanyahu-says-mamdani-ahead-trip-nyc/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 104,
@@ -933,7 +933,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/09/22/france-pushes-end-sanctions-alisher-usmanov-oligarch-tied-putin/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 105,
@@ -942,7 +942,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/national-security/2026/09/22/trump-pledges-open-new-arctic-military-bases-he-signs-greenland-deal/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 106,
@@ -951,7 +951,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 107,
@@ -960,7 +960,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/politics/2026/09/23/un-general-assembly-set-open-new-york-amid-wars-iran-ukraine/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 108,
@@ -969,7 +969,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/09/21/saudi-arabia-cancels-star-studded-film-fest-amid-middle-east-war/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 109,
@@ -978,7 +978,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/politics/2026/09/21/trump-seeks-fertilizer-deal-with-russia-ally-belarus-amid-canadian-tensions/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 110,
@@ -987,7 +987,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/09/21/putin-wins-parliamentary-election-ukraine-hits-moscow-area/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 111,
@@ -996,7 +996,7 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/09/21/iran-is-suffering-yet-surviving-under-trumps-economic-warfare/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 112,
@@ -1005,142 +1005,142 @@
         "category": "MARKETS",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/politics/2026/09/21/trump-speak-un-host-chinese-leader-has-alienated-allies/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 113,
+        "title": "'Differing Views Normal Part Of Decision-Making Process': EC Plays Down Reports Of Dissent Within",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "News18",
+        "url": "https://www.news18.com/india/election-commission-sir-row-differing-views-normal-part-of-decision-making-process-ec-reports-of-dissent-10348088.html",
+        "timestamp": "08:56 UTC"
+    },
+    {
+        "id": 114,
+        "title": "Surveillance At 'Dark Spots', Patrolling: How Delhi Police Is Stepping Up Security After Gang-Rape Near Kalkaji",
+        "summary": "A 17-year-old girl was allegedly gang-raped on Sunday by three men posing as Delhi Police personnel at a secluded spot i...",
+        "category": "MARKETS",
+        "source": "News18",
+        "url": "https://www.news18.com/india/surveillance-at-dark-spots-patrolling-how-delhi-police-is-stepping-up-security-after-gang-rape-near-kalkaji-ws-l-10347772.html",
+        "timestamp": "08:56 UTC"
+    },
+    {
+        "id": 115,
         "title": "‘Arrest Gyanesh Kumar, Re-Hold Recent Polls, Scrap SIR’: Kejriwal’s 3 Demands Amid Fresh EC Row",
         "summary": "Kejriwal called for recent elections held in Delhi, Bihar, Maharashtra, Bengal, Haryana, Madhya Pradesh and Chhattisgarh...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/india/arrest-gyanesh-kumar-re-hold-recent-polls-scrap-sir-kejriwals-3-demands-amid-fresh-ec-row-10347995.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 114,
+        "id": 116,
         "title": "'Pakistan Has A Habit Of...': India Calls Out Islamabad As IWT Suspension Reaches UNGA | Exclusive",
         "summary": "India has fiercely rejected Pakistan's attempts to bring the Indus Waters Treaty (IWT) dispute to UN, accusing Islamabad...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/india/india-pakistan-standoff-at-unga-indus-waters-treaty-triggers-another-war-of-words-exclusive-ws-klst-10347971.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 115,
+        "id": 117,
         "title": "Akhilesh Yadav Sounds Alarm On SIR, Says 2027 UP Polls Could Be ‘Last Election’",
         "summary": "Opposition stepped up their attack on SIR following a report claiming that two Election Commissioners had raised objecti...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/india/akhilesh-yadav-sounds-alarm-on-sir-says-2027-up-polls-could-be-last-election-ws-l-10347962.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 116,
+        "id": 118,
         "title": "Lady Shri Ram College To Resume Offline Classes Tomorrow, Days After Kalkaji Gang-Rape Case",
         "summary": "Lady Shri Ram College for Women will resume offline classes tomorrow, a day after suspension due to an alleged rape near...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/india/lady-shri-ram-college-to-resume-offline-classes-tomorrow-days-after-kalkaji-gang-rape-case-ws-l-10347957.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 117,
+        "id": 119,
         "title": "Election Commission Row | 14 Objections, Internal Dissent & New Questions | ECI Responds | News18",
         "summary": "The Election Commission of India is facing fresh scrutiny following an Indian Express report that says Election Commissi...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/videos/breaking-news/election-commission-row-14-objections-internal-dissent-new-questions-eci-responds-news18-10347993.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 118,
+        "id": 120,
         "title": "Rahul Gandhi's 'Justice Will Be Served' Post After Report Flags Poll Body-SIR Row",
         "summary": "Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi reportedly raised objections at least 14 times over 10 month...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/india/rahul-gandhis-justice-will-be-served-post-after-report-flags-poll-body-sir-row-ws-l-10347833.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 119,
+        "id": 121,
         "title": "Former CEC Calls ECI-SIR Row 'Very Unfortunate', Says Public Trust Breaking Down",
         "summary": "Former Election Commissioner OP Rawat has called the ECI-SIR row “very unfortunate” and says public trust in the Electio...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/india/op-rawat-eci-sir-row-public-trust-election-commission-ws-l-10347697.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 120,
+        "id": 122,
         "title": "Sahil Wakode Suicide: Students Divided Over Claims Of Discrimination Amid Casteism Debate At IIT-B",
         "summary": "Sahil, a second-year BTech student at IIT, was found hanging in his hostel room, hours after he was allegedly caught usi...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/india/sahil-wakode-suicide-students-divided-over-claims-of-discrimination-amid-casteism-debate-at-iit-b-ws-lt-10347786.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 121,
+        "id": 123,
         "title": "Cyclone Arnab To Make Landfall Today: What Time & Which States Will Be Worst Affected? All You Need To Know",
         "summary": "Cyclone Arnab: The system will make landfall along the north Andhra Pradesh and south Odisha coasts, specifically target...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/india/cyclone-arnab-what-time-will-cyclone-arnab-make-landfall-and-which-states-will-be-worst-affected-all-you-need-to-know-ws-klt-10347744.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 122,
+        "id": 124,
         "title": "'Invisible Hand Running EC': Opposition Guns For CEC Gyanesh Kumar's Impeachment Amid Fresh Row Over SIR",
         "summary": "Opposition parties have intensified attacks on the Election Commission after two poll commissioners reportedly raised 14...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/india/invisible-hand-running-ec-opposition-guns-for-cec-gyanesh-kumars-impeachment-amid-fresh-row-over-sir-10347745.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 123,
+        "id": 125,
         "title": "'Chef' Scindia's Dosa Video Goes Viral — Netizens' 'Gloves, Cap' Dig Revives Rameshwaram Cafe's Raid History",
         "summary": "Scindia's viral turn at the Rameshwaram Cafe griddle draws hygiene jibes online, reviving memories of the chain's past r...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/cities/bengaluru-news/chef-jyotiraditya-scindia-viral-dosa-video-rameshwaram-cafe-raid-history-watch-10347724.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 124,
+        "id": 126,
         "title": "ECI SIR Row: Sandhu & Joshi Raised 14 Objections In 10 Months | Decisions Unanimous | News18",
         "summary": "The Election Commission of India’s Special Intensive Revision (SIR) process has come under renewed scrutiny following a ...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/videos/breaking-news/eci-sir-row-sandhu-joshi-raised-14-objections-in-10-months-decisions-unanimous-news18-10347742.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
-        "id": 125,
+        "id": 127,
         "title": "ECI SIR Row: 14 Objections Reported, Poll Body Says All Decisions Were Unanimous | News18",
         "summary": "A fresh controversy has emerged around the Election Commission of India and its handling of the Special Intensive Revisi...",
         "category": "MARKETS",
         "source": "News18",
         "url": "https://www.news18.com/videos/breaking-news/eci-sir-row-14-objections-reported-poll-body-says-all-decisions-were-unanimous-news18-10347718.html",
-        "timestamp": "08:51 UTC"
-    },
-    {
-        "id": 126,
-        "title": "Carney Looks Forward To Hosting PM Modi In December; Says India, Canada Aim To Wrap Trade Talks By G20",
-        "summary": "PM Modi is expected to visit Canada in December, Mark Carney said, as India and Canada aim to wrap up trade talks around...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/india/pm-modi-canada-visit-december-mark-carney-india-canada-trade-talks-ws-bl-10347533.html",
-        "timestamp": "08:51 UTC"
-    },
-    {
-        "id": 127,
-        "title": "Sahil Wakode Case: Crime Branch Probes Exam Hall Exchange | CCTV & Eyewitness Accounts | News18",
-        "summary": "The Mumbai Crime Branch is intensifying its investigation into the death of IIT Bombay student Sahil Wakode, with invest...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/videos/breaking-news/sahil-wakode-case-crime-branch-probes-exam-hall-exchange-cctv-eyewitness-accounts-news18-10347688.html",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 128,
@@ -1149,7 +1149,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 129,
@@ -1158,7 +1158,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 130,
@@ -1167,7 +1167,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 131,
@@ -1176,7 +1176,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 132,
@@ -1185,7 +1185,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 133,
@@ -1194,7 +1194,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 134,
@@ -1203,7 +1203,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 135,
@@ -1212,7 +1212,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 136,
@@ -1221,7 +1221,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 137,
@@ -1230,7 +1230,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 138,
@@ -1239,7 +1239,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 139,
@@ -1248,7 +1248,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 140,
@@ -1257,7 +1257,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 141,
@@ -1266,7 +1266,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 142,
@@ -1275,7 +1275,7 @@
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 143,
@@ -1284,7 +1284,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 144,
@@ -1293,7 +1293,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 145,
@@ -1302,7 +1302,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 146,
@@ -1311,7 +1311,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 147,
@@ -1320,7 +1320,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 148,
@@ -1329,7 +1329,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 149,
@@ -1338,7 +1338,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 150,
@@ -1347,7 +1347,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 151,
@@ -1356,7 +1356,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 152,
@@ -1365,7 +1365,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 153,
@@ -1374,7 +1374,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 154,
@@ -1383,7 +1383,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 155,
@@ -1392,7 +1392,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 156,
@@ -1401,7 +1401,7 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     },
     {
         "id": 157,
@@ -1410,6 +1410,6 @@
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "08:51 UTC"
+        "timestamp": "08:56 UTC"
     }
 ]

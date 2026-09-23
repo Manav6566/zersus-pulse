@@ -1,74 +1,974 @@
 [
     {
         "id": 1,
+        "title": "Jev in 25 Lines of Python",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 2,
         "title": "GPT-6 Sol and Luna",
         "summary": "No summary provided by source.",
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-        "timestamp": "08:07 UTC"
+        "timestamp": "08:28 UTC"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Claude Opus 5.5",
         "summary": "No summary provided by source.",
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://www.anthropic.com/claude-opus-5-5",
-        "timestamp": "08:07 UTC"
+        "timestamp": "08:28 UTC"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Transit rewards",
         "summary": "No summary provided by source.",
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-        "timestamp": "08:07 UTC"
+        "timestamp": "08:28 UTC"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
         "summary": "No summary provided by source.",
         "category": "TECH",
         "source": "Hacker News",
         "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-        "timestamp": "08:07 UTC"
+        "timestamp": "08:28 UTC"
     },
     {
-        "id": 5,
+        "id": 6,
+        "title": "Data-only attacks are easier than you think (2024)",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 7,
+        "title": "Show HN: Npunlock \u2013 Run custom C kernels for Intel NPUs",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://github.com/hsfzxjy/npunlock",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 8,
+        "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 9,
+        "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://foxscript.org/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 10,
+        "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://github.com/xCuri0/ReBarUEFI",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 11,
+        "title": "What California is learning from solar panels built over irrigation canals",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 12,
+        "title": "SAML: A fractal of bad design",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 13,
+        "title": "How did AMD Ryzen get 50% faster in two years?",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 14,
+        "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 15,
+        "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 16,
+        "title": "\u2018We Hacked the FBI:\u2019 Hackers Say They Have Data on All FBI Employees",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnevnd/we_hacked_the_fbi_hackers_say_they_have_data_on/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 17,
+        "title": "EPA unlawfully canceled $7B Solar for All program, judge rules",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wn5qva/epa_unlawfully_canceled_7b_solar_for_all_program/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 18,
+        "title": "Engineer says Claude Code has made his job \"soul-sucking\" as workers spend 12-hour days pressing enter",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wn7qdj/engineer_says_claude_code_has_made_his_job/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 19,
+        "title": "Discord reveals age-check rollout with massive changes to how it works",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnj7ot/discord_reveals_agecheck_rollout_with_massive/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 20,
+        "title": "Acer CEO says PC prices could fall by 2027, accuses rivals of milking the RAM shortage for profit",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wn5syf/acer_ceo_says_pc_prices_could_fall_by_2027/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 21,
+        "title": "IT mistake erases 11 years of viewing history for hospitals\u2019 maternity records",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnii6k/it_mistake_erases_11_years_of_viewing_history_for/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 22,
+        "title": "Lawsuit: OpenAI hid mass shooter\u2019s chat logs to avoid outing other violent users",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnjcz2/lawsuit_openai_hid_mass_shooters_chat_logs_to/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 23,
+        "title": "Researchers found a way to eavesdrop on headphones from 30 meters away, and encryption can't stop it",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wn9o00/researchers_found_a_way_to_eavesdrop_on/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 24,
+        "title": "Stanford violated its AI policy by turning a Hispanic student into a fake Black woman in ad",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnrf2z/stanford_violated_its_ai_policy_by_turning_a/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 25,
+        "title": "Jobless tech workers are being left out of San Francisco\u2019s AI boom",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnfo05/jobless_tech_workers_are_being_left_out_of_san/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 26,
+        "title": "ASML has zero revenue from Europe",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnb2qg/asml_has_zero_revenue_from_europe/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 27,
+        "title": "'We screwed up': Doordash admits underpaying New York workers",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnm9oh/we_screwed_up_doordash_admits_underpaying_new/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 28,
+        "title": "DoorDash to pay $131M for underpaying delivery workers in New York City",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnhri5/doordash_to_pay_131m_for_underpaying_delivery/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 29,
+        "title": "A 12-year-old in California built a Braille printer from a $350 Lego robotics kit for a school science fair, at a time when the cheapest commercial machine cost about $2,000, and Intel invested in it",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnr8k4/a_12yearold_in_california_built_a_braille_printer/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 30,
+        "title": "High-mileage electric cars are more reliable than petrol ones, study finds",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "r/Technology",
+        "url": "https://www.reddit.com/r/technology/comments/1wnal03/highmileage_electric_cars_are_more_reliable_than/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 31,
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathem...",
+        "category": "TECH",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 32,
+        "title": "Paramount will need to release way more movies to make this merger work",
+        "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with War...",
+        "category": "TECH",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 33,
+        "title": "Rabbit\u2019s new AI agent doesn\u2019t need an R1 to run",
+        "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its har...",
+        "category": "TECH",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 34,
+        "title": "Saudi Arabia\u2019s new Exobot EVs make the Cybertruck look normal",
+        "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not ne...",
+        "category": "TECH",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 35,
+        "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+        "summary": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company desc...",
+        "category": "TECH",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 36,
+        "title": "Motorola\u2019s wild-looking Signature 27 runs Qualcomm\u2019s new Extreme chipset",
+        "summary": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The ...",
+        "category": "TECH",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 37,
+        "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones\u2019 cameras",
+        "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected...",
+        "category": "TECH",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 38,
+        "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+        "summary": "The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For...",
+        "category": "TECH",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 39,
+        "title": "Save $30 on Apple\u2019s Magic Keyboard with Touch ID and a numpad",
+        "summary": "Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $1...",
+        "category": "TECH",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 40,
+        "title": "San Francisco sues Trump Media for selling early access to Trump posts",
+        "summary": "San Francisco is suing the Trump Media &#38; Technology Group, the parent company behind Truth Social, for selling early...",
+        "category": "TECH",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 41,
+        "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+        "summary": "No summary provided by source.",
+        "category": "AI",
+        "source": "HN Artificial Intelligence",
+        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 42,
+        "title": "Jev in 25 Lines of Python",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 43,
+        "title": "Evaluating smolvm as a sandbox for untrusted Python and JavaScript",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 44,
+        "title": "Microdnf: Minimal Python-Free Dnf",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://github.com/rpm-software-management/microdnf",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 45,
+        "title": "PyTauri \u2013 Tauri Bindings for Python",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://pytauri.github.io/pytauri/0.8/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 46,
+        "title": "Pytrace: J-Trace Python SDK for hardware tracing",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://github.com/embedder-dev/pytrace",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 47,
+        "title": "Fastlogging-Rs: High-Performance Logging for Rust, Python, C, C++, Java, Go, C#",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://github.com/brmmm3/fastlogging-rs",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 48,
+        "title": "Python Workers are now generally available",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://blog.cloudflare.com/python-workers-ga/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 49,
+        "title": "Show HN: Mini-Runbot \u2013 Ephemeral Odoo Enviroments Using Python and Docker",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://github.com/rafnixg/odoo-platform-ephemeral-environment",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 50,
+        "title": "Show HN: Jevlang: Python with a Smart \"If\"",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://github.com/sumanmichael/jevlang",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 51,
+        "title": "Enjambre \u2013 a durable kernel for swarms of AI agents (Python, MCP)",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://github.com/santibccc-sudo/enjambre-os",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 52,
+        "title": "Built the first open source Python library \u2013 converting Word, Excel to PDF",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://github.com/mini-software/MiniPdf",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 53,
+        "title": "Building a conversation engine in Python that shows how LLMs fake memory",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://heymeraki.substack.com/p/aie_21-building-it",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 54,
+        "title": "TimeCodeSecurity \u2013 Deterministic AST SAST and Auto-Remediation for Python",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://news.ycombinator.com/item?id=49765426",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 55,
+        "title": "Show HN: An OSS Python dependency scanner for exploited, unmaintained packages",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://github.com/binuka200/package-doctor",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 56,
+        "title": "NeverLose \u2013 Crash-proof any Python function with one decorator",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "Python News",
+        "url": "https://github.com/neverlose-io/neverlose",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 57,
+        "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 58,
+        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 59,
+        "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 60,
+        "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 61,
+        "title": "GitHub availability report: August 2026",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 62,
+        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 63,
+        "title": "GitHub Copilot app for Beginners: Run several agents at once",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 64,
+        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 65,
+        "title": "How we make AI coding more cost efficient without sacrificing task quality",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 66,
+        "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 67,
+        "title": "1,634 DEV posts, 149 canonical hosts, and 148 of them belong to exactly one person",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/listwright/1634-dev-posts-149-canonical-hosts-and-148-of-them-belong-to-exactly-one-person-58d5",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 68,
+        "title": "Getting Started with Go: go run and go build",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/saahalla/getting-started-with-go-go-run-and-go-build-2k9h",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 69,
+        "title": "Separating Environments for an ML Platform on Snowflake",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/takimiko_gohan/separating-environments-for-an-ml-platform-on-snowflake-47ph",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 70,
+        "title": "INP and Partytown: give the main thread back to your users",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 71,
+        "title": "Getting YouTube transcripts without the Data API \u2014 and why \"translate to 100+ languages\" is usually broken",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/xixisuperman/getting-youtube-transcripts-without-the-data-api-and-why-translate-to-100-languages-is-usually-43m8",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 72,
+        "title": "Why AI-Generated Code Still Needs a Professional Developer",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/chaitanya_gondgire_f4b54a/why-ai-generated-code-still-needs-a-professional-developer-552i",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 73,
+        "title": "Before Daybreak \u2014 the promise is the branching point",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/ben_black_c5eb233a2cb53a2/before-daybreak-the-promise-is-the-branching-point-4f0o",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 74,
+        "title": "Can GPT-6 Astra and Claude Opus 5.5 Leave Simple Work Alone?",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/sara_mo/can-gpt-6-astra-and-claude-opus-55-leave-simple-work-alone-580n",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 75,
+        "title": "How Zalgo Glitch Text Works Behind the Scenes",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/thusharahe95/how-zalgo-glitch-text-works-behind-the-scenes-3n6l",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 76,
+        "title": "The knob I reached for first was the only one that hurt",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/pm_cheng_3f36acecfb9c59f5/the-knob-i-reached-for-first-was-the-only-one-that-hurt-b4p",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 77,
+        "title": "Why Java Still Makes Sense for Backend Development in 2026",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/harsh-camb/why-java-still-makes-sense-for-backend-development-in-2026-3k27",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 78,
+        "title": "Kuzu Is Deprecated. Here's How I Run Graphiti on One File With Ollama",
+        "summary": "No summary provided by source.",
+        "category": "DEV",
+        "source": "DEV Community",
+        "url": "https://dev.to/reneza/kuzu-is-deprecated-heres-how-i-run-graphiti-on-one-file-with-ollama-4bfk",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 79,
         "title": "\u2018We\u2019re already fighting yesterday\u2019s battle\u2019: Greece\u2019s prime minister gets candid about AI",
         "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this...",
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-        "timestamp": "08:08 UTC"
+        "timestamp": "08:28 UTC"
     },
     {
-        "id": 6,
+        "id": 80,
         "title": "Discord\u2019s age verification era is upon us, despite community backlash",
         "summary": "According to Discord, 90% of users will not have to verify their age.",
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
-        "timestamp": "08:08 UTC"
+        "timestamp": "08:28 UTC"
     },
     {
-        "id": 7,
+        "id": 81,
         "title": "TechCrunch Founder Summit\u2019s agenda revealed: Unlock\u00a0fundraising, hiring, and AI\u00a0insights in Boston on November 4",
         "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the ...",
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-        "timestamp": "08:08 UTC"
+        "timestamp": "08:28 UTC"
     },
     {
-        "id": 8,
+        "id": 82,
         "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
         "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
         "category": "MARKETS",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-        "timestamp": "08:08 UTC"
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 83,
+        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+        "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 84,
+        "title": "Apple could take on Whoop with a new fitness tracker, report says",
+        "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 85,
+        "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
+        "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw \u2014 down to so...",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 86,
+        "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents\u2019 and applicants\u2019 data",
+        "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their famil...",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 87,
+        "title": "a16z is challenging Silicon Valley\u2019s love for drop-outs by launching a school",
+        "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellow...",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 88,
+        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+        "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 89,
+        "title": "Waymo\u2019s latest expansion strategy: teenagers",
+        "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 90,
+        "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+        "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 91,
+        "title": "Stolen passwords are exposing America\u2019s water providers to hackers",
+        "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 92,
+        "title": "Noble Carbon will show how it\u2019s making EV charger installs painless at TechCrunch Disrupt",
+        "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel ...",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 93,
+        "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+        "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders...",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 94,
+        "title": "BitMEX ends crypto trading, keeps withdrawals open after closure",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 95,
+        "title": "Zcash\u2019s November upgrade could freeze funds in legacy Sprout pool",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 96,
+        "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 97,
+        "title": "Here\u2019s what happened in crypto today",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 98,
+        "title": "US Treasury secretary emerges as frontrunner for Trump\u2019s AI czar role: Report",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 99,
+        "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 100,
+        "title": "AI potential to drive crypto demand remains \u2018underappreciated\u2019: BlackRock",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 101,
+        "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 102,
+        "title": "CFTC issues warning over risky prediction market \u2018mention\u2019 contracts",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 103,
+        "title": "Arch Lending eyes tokenized stocks as next collateral market",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 104,
+        "title": "Republican senator calls for probe into US presidents\u2019 sons, citing crypto ventures",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 105,
+        "title": "Canada\u2019s six largest banks explore tokenized Canadian dollar deposits",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 106,
+        "title": "Zcash gets first European ETP following US ETF launch",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 107,
+        "title": "Bitcoin price seeks $86K as new support after oil dips below $90",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
+    },
+    {
+        "id": 108,
+        "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
+        "summary": "No summary provided by source.",
+        "category": "MARKETS",
+        "source": "Crypto/Markets",
+        "url": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "08:28 UTC"
     }
 ]

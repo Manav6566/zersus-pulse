@@ -122,6 +122,9 @@
 
                 <!-- Refresh Trigger -->
                 <div class="flex items-center gap-3">
+                    <a href="#connect" class="hidden md:flex items-center gap-2 border border-brand/40 text-brand hover:bg-brand hover:text-black px-4 py-2 rounded-lg text-xs font-mono font-bold transition-all shadow-neon hover:shadow-neon-strong mr-2">
+                        CONTACT
+                    </a>
                     <button id="manual-refresh-btn" class="flex items-center gap-2 border border-brand/40 text-brand hover:bg-brand hover:text-black px-4 py-2 rounded-lg text-xs font-mono font-bold transition-all shadow-neon hover:shadow-neon-strong">
                         <svg id="refresh-icon" class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
@@ -134,32 +137,6 @@
         </div>
     </nav>
 
-    
-    <!-- Live Indian Markets Ticker Tape -->
-    <div class="fixed w-full z-40 top-20 bg-[#05070a]/90 backdrop-blur-xl border-b border-brand-border overflow-hidden">
-        <div class="tradingview-widget-container">
-            <div class="tradingview-widget-container__widget"></div>
-            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
-            {
-            "symbols": [
-                { "proName": "BSE:SENSEX", "title": "SENSEX" },
-                { "proName": "NSE:NIFTY", "title": "NIFTY 50" },
-                { "proName": "NSE:BANKNIFTY", "title": "BANK NIFTY" },
-                { "proName": "NSE:CNXIT", "title": "NIFTY IT" },
-                { "proName": "NSE:CNXFMCG", "title": "NIFTY FMCG" },
-                { "proName": "NSE:CNXAUTO", "title": "NIFTY AUTO" },
-                { "proName": "NSE:CNXMETAL", "title": "NIFTY METAL" },
-                { "proName": "NSE:RELIANCE", "title": "RELIANCE" }
-            ],
-            "showSymbolLogo": true,
-            "isTransparent": true,
-            "displayMode": "regular",
-            "colorTheme": "dark",
-            "locale": "in"
-            }
-            </script>
-        </div>
-    </div>
     <!-- Live Crypto Ticker Tape -->
     <div class="fixed w-full z-40 top-20 bg-[#05070a]/90 backdrop-blur-xl border-b border-brand-border overflow-hidden">
         <div class="tradingview-widget-container">
@@ -186,7 +163,7 @@
     </div>
 
     <!-- Main Content Pushed Down for Ticker (pt-40) -->
-    <main class="relative z-10 pt-40 pb-20">
+    <main class="relative z-10 pt-40 pb-10">
         
         <!-- Hero & Telemetry Section -->
         <section class="max-w-7xl mx-auto px-6 lg:px-8 pt-8 pb-12">
@@ -312,6 +289,67 @@
             </div>
         </section>
 
+        <!-- Connect To Zersus Form Section -->
+        <section id="connect" class="max-w-7xl mx-auto px-6 lg:px-8 mt-24 mb-10">
+            <div class="mb-10 text-center">
+                <h2 class="font-tech text-3xl md:text-4xl font-bold mb-4">Connect To <span class="text-brand">Zersus</span></h2>
+                <p class="text-gray-400 font-mono text-sm max-w-xl mx-auto">Establish a secure link to transmit your message directly to the admin terminal.</p>
+            </div>
+
+            <div class="bg-brand-surface/90 border border-brand-border p-8 rounded-2xl shadow-2xl relative group backdrop-blur-xl max-w-3xl mx-auto">
+                <form id="zersusContactForm" class="space-y-6 relative z-10">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <!-- Name Field -->
+                        <div class="space-y-2">
+                            <label for="c_name" class="block text-xs font-mono text-gray-400 uppercase tracking-wider">Full Name</label>
+                            <input type="text" id="c_name" required class="w-full bg-[#0a0d14] border border-brand-border rounded-lg px-4 py-3 text-white text-sm font-mono focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand transition-colors placeholder-gray-600" placeholder="John Doe">
+                        </div>
+
+                        <!-- Age Field -->
+                        <div class="space-y-2">
+                            <label for="c_age" class="block text-xs font-mono text-gray-400 uppercase tracking-wider">Age</label>
+                            <input type="number" id="c_age" required min="1" class="w-full bg-[#0a0d14] border border-brand-border rounded-lg px-4 py-3 text-white text-sm font-mono focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand transition-colors placeholder-gray-600" placeholder="25">
+                        </div>
+                    </div>
+
+                    <!-- Email Field -->
+                    <div class="space-y-2">
+                        <label for="c_email" class="block text-xs font-mono text-gray-400 uppercase tracking-wider">Email Address</label>
+                        <input type="email" id="c_email" required class="w-full bg-[#0a0d14] border border-brand-border rounded-lg px-4 py-3 text-white text-sm font-mono focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand transition-colors placeholder-gray-600" placeholder="john@example.com">
+                    </div>
+
+                    <!-- Message Field -->
+                    <div class="space-y-2">
+                        <label for="c_message" class="block text-xs font-mono text-gray-400 uppercase tracking-wider">Message</label>
+                        <textarea id="c_message" rows="4" required class="w-full bg-[#0a0d14] border border-brand-border rounded-lg px-4 py-3 text-white text-sm font-mono focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand transition-colors placeholder-gray-600 resize-y" placeholder="Enter your transmission here..."></textarea>
+                    </div>
+
+                    <!-- Captcha Verification -->
+                    <div class="space-y-2 border-t border-brand-border/60 pt-4">
+                        <label class="block text-xs font-mono text-gray-400 uppercase tracking-wider">Security Verification</label>
+                        <div class="flex items-center gap-4">
+                            <div id="captcha-question" class="bg-brand/10 border border-brand/30 text-brand px-4 py-3 rounded-lg font-mono text-sm font-bold tracking-widest select-none">
+                                X + Y = ?
+                            </div>
+                            <input type="number" id="c_captcha" required class="w-24 bg-[#0a0d14] border border-brand-border rounded-lg px-4 py-3 text-white text-sm font-mono focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand transition-colors text-center" placeholder="?">
+                        </div>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <button type="submit" id="c_submitBtn" class="w-full bg-transparent border border-brand text-brand font-mono font-bold tracking-widest uppercase px-6 py-4 rounded-lg hover:bg-brand hover:text-black transition-all duration-300 shadow-neon hover:shadow-neon-strong group relative overflow-hidden flex justify-center items-center gap-2 mt-4">
+                        <span id="c_btnText">Transmit</span>
+                        <svg id="c_btnIcon" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 relative z-10 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                        <svg id="c_loadingIcon" class="animate-spin -ml-1 mr-3 h-4 w-4 text-current hidden absolute" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                        </svg>
+                    </button>
+                </form>
+            </div>
+        </section>
+
     </main>
 
     <!-- Minimalist Footer -->
@@ -428,8 +466,7 @@
                 category: "AI",
                 source: "github.com/deepseek-ai",
                 url: "https://github.com",
-                timestamp: "2h ago",
-                score: "992 pts"
+                timestamp: "2h ago"
             },
             {
                 id: 2,
@@ -438,8 +475,7 @@
                 category: "TECH",
                 source: "blog.cloudflare.com",
                 url: "https://blog.cloudflare.com",
-                timestamp: "4h ago",
-                score: "640 pts"
+                timestamp: "4h ago"
             },
             {
                 id: 3,
@@ -448,38 +484,7 @@
                 category: "DEV",
                 source: "news.ycombinator.com",
                 url: "https://news.ycombinator.com",
-                timestamp: "6h ago",
-                score: "815 pts"
-            },
-            {
-                id: 4,
-                title: "Semiconductor supply indices rally on next-gen compute packaging",
-                summary: "Global markets reflect rising demand for dense interposer packaging and low-power memory controllers.",
-                category: "MARKETS",
-                source: "bloomberg.com",
-                url: "https://bloomberg.com",
-                timestamp: "7h ago",
-                score: "410 pts"
-            },
-            {
-                id: 5,
-                title: "Next.js updates core compilation pipeline for instant client hydration",
-                summary: "Zero-bundle overhead and automated prerender caching deliver sub-millisecond local response timings.",
-                category: "DEV",
-                source: "vercel.com/blog",
-                url: "https://vercel.com",
-                timestamp: "9h ago",
-                score: "520 pts"
-            },
-            {
-                id: 6,
-                title: "Autonomous browser agents gain standardized tool-calling protocols",
-                summary: "W3C and AI research groups collaborate on secure sandboxing specifications for background Web automation.",
-                category: "AI",
-                source: "arxiv.org",
-                url: "https://arxiv.org",
-                timestamp: "11h ago",
-                score: "730 pts"
+                timestamp: "6h ago"
             }
         ];
 
@@ -493,7 +498,6 @@
             refreshIcon.classList.add('animate-spin');
 
             try {
-                // Attempts to load from the static JSON file your Python script overwrites
                 const response = await fetch('trends.json', { cache: 'no-store' });
                 if (response.ok) {
                     const data = await response.json();
@@ -577,9 +581,8 @@
         function updateMarquee() {
             const marquee = document.getElementById('marquee-stream');
             if (!activeTrends || activeTrends.length === 0) return;
-            
             const tickerItems = activeTrends.slice(0, 6).map(t => `<span>✦ [${t.category}] ${t.title}</span>`).join(' ');
-            marquee.innerHTML = tickerItems + tickerItems; // Duplicate for smooth infinite scroll
+            marquee.innerHTML = tickerItems + tickerItems;
         }
 
         // --- 8. Filter and Search Handlers ---
@@ -591,7 +594,6 @@
                 });
                 btn.classList.add('active', 'bg-brand', 'text-black', 'font-bold');
                 btn.classList.remove('bg-brand-surface', 'text-gray-400');
-                
                 currentFilter = btn.dataset.category;
                 renderTrends();
             });
@@ -606,7 +608,84 @@
             fetchTrendData();
         });
 
-        // --- 9. Toast Notification Helper ---
+        // --- 9. Connect Form & Captcha Logic ---
+        const contactForm = document.getElementById('zersusContactForm');
+        const captchaQuestion = document.getElementById('captcha-question');
+        const captchaInput = document.getElementById('c_captcha');
+        let expectedCaptchaAnswer = 0;
+
+        function generateCaptcha() {
+            const num1 = Math.floor(Math.random() * 10) + 1;
+            const num2 = Math.floor(Math.random() * 10) + 1;
+            expectedCaptchaAnswer = num1 + num2;
+            captchaQuestion.innerText = `${num1} + ${num2} = ?`;
+            captchaInput.value = '';
+        }
+        
+        // Initialize captcha on load
+        generateCaptcha();
+
+        contactForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const name = document.getElementById('c_name').value.trim();
+            const age = document.getElementById('c_age').value.trim();
+            const email = document.getElementById('c_email').value.trim();
+            const messageText = document.getElementById('c_message').value.trim();
+            const userAnswer = parseInt(captchaInput.value, 10);
+
+            if (userAnswer !== expectedCaptchaAnswer) {
+                showToast('Security verification failed. Try again.', 'error');
+                generateCaptcha();
+                return;
+            }
+
+            const submitBtn = document.getElementById('c_submitBtn');
+            const btnText = document.getElementById('c_btnText');
+            const btnIcon = document.getElementById('c_btnIcon');
+            const loadingIcon = document.getElementById('c_loadingIcon');
+
+            // Set loading state
+            submitBtn.disabled = true;
+            btnText.textContent = 'Transmitting...';
+            btnIcon.classList.add('hidden');
+            loadingIcon.classList.remove('hidden');
+
+            const botToken = '8378484137:AAF5yrzqZMGszdh81Ojj31DrgPvUy1U-27k';
+            const chatId = '5370787633';
+            
+            const telegramMessage = `🚨 <b>ZERSUS SECURE TRANSMISSION</b> 🚨\n\n<b>Name:</b> ${name}\n<b>Age:</b> ${age}\n<b>Email:</b> ${email}\n\n<b>Message:</b>\n${messageText}`;
+
+            try {
+                const response = await fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        chat_id: chatId,
+                        text: telegramMessage,
+                        parse_mode: 'HTML'
+                    })
+                });
+
+                if (response.ok) {
+                    showToast('Transmission successful. Channel closed.', 'success');
+                    contactForm.reset();
+                    generateCaptcha();
+                } else {
+                    showToast('Transmission failed. Endpoint error.', 'error');
+                }
+            } catch (error) {
+                showToast('Transmission failed. Network error.', 'error');
+            } finally {
+                // Restore button state
+                submitBtn.disabled = false;
+                btnText.textContent = 'Transmit';
+                btnIcon.classList.remove('hidden');
+                loadingIcon.classList.add('hidden');
+            }
+        });
+
+        // --- 10. Toast Notification Helper ---
         function showToast(message, type = 'success') {
             const container = document.getElementById('toastContainer');
             const toast = document.createElement('div');

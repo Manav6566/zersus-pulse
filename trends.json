@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "GPT-6 Sol and Luna",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+        "timestamp": "08:07 UTC"
+    },
+    {
+        "id": 2,
+        "title": "Claude Opus 5.5",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "timestamp": "08:07 UTC"
+    },
+    {
+        "id": 3,
+        "title": "Transit rewards",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+        "timestamp": "08:07 UTC"
+    },
+    {
+        "id": 4,
+        "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+        "timestamp": "08:07 UTC"
+    },
+    {
+        "id": 5,
+        "title": "\u2018We\u2019re already fighting yesterday\u2019s battle\u2019: Greece\u2019s prime minister gets candid about AI",
+        "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this...",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+        "timestamp": "08:08 UTC"
+    },
+    {
+        "id": 6,
+        "title": "Discord\u2019s age verification era is upon us, despite community backlash",
+        "summary": "According to Discord, 90% of users will not have to verify their age.",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+        "timestamp": "08:08 UTC"
+    },
+    {
+        "id": 7,
+        "title": "TechCrunch Founder Summit\u2019s agenda revealed: Unlock\u00a0fundraising, hiring, and AI\u00a0insights in Boston on November 4",
+        "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the ...",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+        "timestamp": "08:08 UTC"
+    },
+    {
+        "id": 8,
+        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+        "timestamp": "08:08 UTC"
+    }
+]

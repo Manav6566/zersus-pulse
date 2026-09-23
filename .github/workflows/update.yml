@@ -1,0 +1,36 @@
+name: Daily Intelligence Harvester
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at Midnight UTC
+  workflow_dispatch: # This adds a button so you can trigger it manually right now!
+
+jobs:
+  update-trends:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants permission to overwrite the trends.json file
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install Feedparser
+      run: pip install feedparser
+
+    - name: Run Harvester Script
+      run: python harvester.py
+
+    - name: Save New Data (Erase Yesterday's)
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Zersus Automated Bot"
+        git add trends.json
+        # If there are new trends, commit them. If not, do nothing.
+        git commit -m "Automated daily intelligence purge and refresh" || echo "No changes to commit"
+        git push

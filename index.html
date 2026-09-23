@@ -134,7 +134,31 @@
         </div>
     </nav>
 
-    <main class="relative z-10 pt-28 pb-20">
+    <!-- Live Indian Markets Ticker Tape -->
+    <div class="fixed w-full z-40 top-20 bg-[#05070a]/90 backdrop-blur-xl border-b border-brand-border overflow-hidden">
+        <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+            {
+            "symbols": [
+                { "proName": "BSE:SENSEX", "title": "BSE SENSEX" },
+                { "proName": "NSE:NIFTY", "title": "NIFTY 50" },
+                { "proName": "NSE:BANKNIFTY", "title": "BANK NIFTY" },
+                { "proName": "NSE:NIFTYIT", "title": "NIFTY IT" },
+                { "proName": "BSE:BSE500", "title": "BSE 500" }
+            ],
+            "showSymbolLogo": true,
+            "isTransparent": true,
+            "displayMode": "regular",
+            "colorTheme": "dark",
+            "locale": "en"
+            }
+            </script>
+        </div>
+    </div>
+
+    <!-- Main Content Pushed Down for Ticker (pt-40) -->
+    <main class="relative z-10 pt-40 pb-20">
         
         <!-- Hero & Telemetry Section -->
         <section class="max-w-7xl mx-auto px-6 lg:px-8 pt-8 pb-12">

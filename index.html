@@ -160,6 +160,30 @@
             </script>
         </div>
     </div>
+    <!-- Live Crypto Ticker Tape -->
+    <div class="fixed w-full z-40 top-20 bg-[#05070a]/90 backdrop-blur-xl border-b border-brand-border overflow-hidden">
+        <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+            {
+            "symbols": [
+                { "proName": "BINANCE:BTCUSDT", "title": "BITCOIN" },
+                { "proName": "BINANCE:ETHUSDT", "title": "ETHEREUM" },
+                { "proName": "BINANCE:SOLUSDT", "title": "SOLANA" },
+                { "proName": "BINANCE:BNBUSDT", "title": "BNB" },
+                { "proName": "BINANCE:XRPUSDT", "title": "XRP" },
+                { "proName": "BINANCE:DOGEUSDT", "title": "DOGECOIN" },
+                { "proName": "BINANCE:ADAUSDT", "title": "CARDANO" }
+            ],
+            "showSymbolLogo": true,
+            "isTransparent": true,
+            "displayMode": "regular",
+            "colorTheme": "dark",
+            "locale": "en"
+            }
+            </script>
+        </div>
+    </div>
 
     <!-- Main Content Pushed Down for Ticker (pt-40) -->
     <main class="relative z-10 pt-40 pb-20">

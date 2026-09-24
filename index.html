@@ -583,17 +583,34 @@
                     </div>
 
                     <div class="pt-4 border-t border-brand-border/60 flex items-center justify-between text-xs font-mono">
-                        <span class="text-gray-500 truncate max-w-[150px]">${item.source}</span>
-                        <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="text-brand inline-flex items-center gap-1 hover:underline">
-                            Read Wire 
-                            <svg class="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
-                            </svg>
-                        </a>
+                        <!-- Left: Source -->
+                        <span class="text-gray-500 truncate w-1/3">${item.source}</span>
+                        
+                        <!-- Center: Personal Reaction Toggles -->
+                        <div class="flex items-center gap-5 text-gray-600 justify-center w-1/3">
+                            <button onclick="toggleReaction(${item.id}, 'like')" id="btn-like-${item.id}" class="hover:text-brand transition-all duration-300 flex items-center focus:outline-none scale-100 hover:scale-110">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10h4.764a2 2 0 011.789 2.894l-3.5 7A2 2 0 0115.263 21h-4.017c-.163 0-.326-.02-.485-.06L7 20m7-10V5a2 2 0 00-2-2h-.095c-.5 0-.905.405-.905.905 0 .714-.211 1.412-.608 2.006L7 11v9m7-10h-2M7 20H5a2 2 0 01-2-2v-6a2 2 0 012-2h2.5"></path></svg>
+                            </button>
+                            <button onclick="toggleReaction(${item.id}, 'dislike')" id="btn-dislike-${item.id}" class="hover:text-red-500 transition-all duration-300 flex items-center focus:outline-none scale-100 hover:scale-110">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5"></path></svg>
+                            </button>
+                        </div>
+
+                        <!-- Right: Link -->
+                        <div class="w-1/3 flex justify-end">
+                            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="text-brand inline-flex items-center gap-1 hover:underline">
+                                Read Wire 
+                                <svg class="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+                                </svg>
+                            </a>
+                        </div>
                     </div>
                 `;
                 grid.appendChild(card);
             });
+
+            applySavedReactions();
         }
 
         // --- 7. Dynamic Marquee Update ---
@@ -713,6 +730,51 @@
                 toast.classList.add('opacity-0', 'translate-y-2');
                 setTimeout(() => toast.remove(), 300);
             }, 3500);
+        }
+
+        // --- 11. Personal Reaction Engine (Local Memory) ---
+        function toggleReaction(articleId, type) {
+            // Load memory or start fresh
+            let reactions = JSON.parse(localStorage.getItem('zersus_personal_reactions')) || {};
+            
+            // If clicking the same button twice, remove the reaction. Otherwise, set it.
+            if (reactions[articleId] === type) {
+                delete reactions[articleId];
+            } else {
+                reactions[articleId] = type;
+            }
+
+            // Save back to browser memory
+            localStorage.setItem('zersus_personal_reactions', JSON.stringify(reactions));
+
+            // Instantly update the colors
+            updateReactionUI(articleId, reactions[articleId]);
+        }
+
+        function updateReactionUI(articleId, state) {
+            const likeBtn = document.getElementById(`btn-like-${articleId}`);
+            const dislikeBtn = document.getElementById(`btn-dislike-${articleId}`);
+            
+            if (!likeBtn || !dislikeBtn) return;
+
+            // Reset both buttons to default gray
+            likeBtn.classList.remove('text-brand', 'fill-brand/20');
+            dislikeBtn.classList.remove('text-red-500', 'fill-red-500/20');
+            
+            // Apply cyber neon glow to the active choice
+            if (state === 'like') {
+                likeBtn.classList.add('text-brand', 'fill-brand/20');
+            } else if (state === 'dislike') {
+                dislikeBtn.classList.add('text-red-500', 'fill-red-500/20');
+            }
+        }
+
+        // Run this function every time the feed loads to restore your saved colors
+        function applySavedReactions() {
+            let reactions = JSON.parse(localStorage.getItem('zersus_personal_reactions')) || {};
+            Object.keys(reactions).forEach(articleId => {
+                updateReactionUI(articleId, reactions[articleId]);
+            });
         }
 
         // Initialize dashboard feed

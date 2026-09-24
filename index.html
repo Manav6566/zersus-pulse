@@ -245,7 +245,7 @@
                     <!-- Dynamic headlines ticker injected here -->
                     <span>✦ SYSTEM READY: MONITORING TODAY'S SIGNALS</span>
                     <span>✦ AUTOMATIC PURGE PROTOCOL ARMED (24H LIFECYCLE)</span>
-                    <span>✦ SOURCES: HACKER NEWS, GOOGLE TRENDS, REDDIT DEV, RESEARCH FEEDS</span>
+                    <span>✦ SOURCES: RT NEWS, WASHINGTON POST, TIMES OF INDIA, BREAKING DEFENSE</span>
                 </div>
             </div>
         </section>
@@ -254,13 +254,14 @@
         <section class="max-w-7xl mx-auto px-6 lg:px-8 mt-12 mb-8">
             <div class="flex flex-col md:flex-row gap-4 items-center justify-between">
                 
-                <!-- Category Buttons -->
+                <!-- Category Buttons (Updated for Global, India, Defense) -->
                 <div class="flex flex-wrap gap-2 w-full md:w-auto" id="category-filters">
                     <button class="filter-btn active bg-brand text-black font-mono text-xs font-bold px-4 py-2 rounded-lg border border-brand transition-all" data-category="ALL">ALL SIGNALS</button>
-                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="AI">AI & MODELS</button>
-                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="TECH">TECH & SYS</button>
-                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="DEV">OPEN SOURCE</button>
-                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="MARKETS">GLOBAL/MARKETS</button>
+                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="GLOBAL">GLOBAL NEWS</button>
+                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="INDIA">INDIA DOMESTIC</button>
+                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="DEFENSE">DEFENSE & MIL</button>
+                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="MARKETS">MARKETS</button>
+                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="TECH">TECH & AI</button>
                 </div>
 
                 <!-- Instant Search Input -->
@@ -457,34 +458,52 @@
         }
         runTelemetryTerminal();
 
-        // --- 4. Curated Out-of-the-Box Fallback Data (If trends.json is not yet created) ---
+        // --- 4. Curated Out-of-the-Box Fallback Data (Matches New Categories) ---
         const DEFAULT_TRENDS = [
             {
                 id: 1,
-                title: "DeepSeek releases high-efficiency open weights with sparse architecture",
-                summary: "New architecture demonstrates dramatic reduction in inference latency and memory requirements on standard commodity hardware.",
-                category: "AI",
-                source: "github.com/deepseek-ai",
-                url: "https://github.com",
-                timestamp: "2h ago"
+                title: "UN Security Council convenes emergency session over escalating border tensions",
+                summary: "Global delegates address immediate ceasefire proposals as supply chains brace for impact in the affected region.",
+                category: "GLOBAL",
+                source: "Al Jazeera",
+                url: "#",
+                timestamp: "1h ago"
             },
             {
                 id: 2,
-                title: "Cloudflare announces zero-egress distributed storage integration",
-                summary: "Simplifies automated static payload sync and serverless endpoints without egress penalty pricing.",
-                category: "TECH",
-                source: "blog.cloudflare.com",
-                url: "https://blog.cloudflare.com",
-                timestamp: "4h ago"
+                title: "ISRO outlines aggressive timeline for next-generation orbital launch vehicle",
+                summary: "India's space agency confirms successful cryogenic engine tests, setting the stage for increased heavy-lift capabilities.",
+                category: "INDIA",
+                source: "Times of India",
+                url: "#",
+                timestamp: "2h ago"
             },
             {
                 id: 3,
-                title: "PostgreSQL 17 adoption surges across developer telemetry",
-                summary: "Major benchmarks show query execution gains in memory-constrained workloads and enhanced JSON parsing capabilities.",
-                category: "DEV",
-                source: "news.ycombinator.com",
-                url: "https://news.ycombinator.com",
-                timestamp: "6h ago"
+                title: "Defense Ministry clears procurement of advanced autonomous drone swarms",
+                summary: "Strategic deployment intended to bolster border surveillance protocols and enhance rapid response infrastructure.",
+                category: "DEFENSE",
+                source: "Breaking Defense",
+                url: "#",
+                timestamp: "4h ago"
+            },
+            {
+                id: 4,
+                title: "Asian markets show volatility amidst shifting central bank monetary policies",
+                summary: "Tech and automotive sectors lead early morning trading fluctuations following revised quarterly economic projections.",
+                category: "MARKETS",
+                source: "TechCrunch",
+                url: "#",
+                timestamp: "5h ago"
+            },
+            {
+                id: 5,
+                title: "DeepSeek releases high-efficiency open weights with sparse architecture",
+                summary: "New architecture demonstrates dramatic reduction in inference latency and memory requirements on standard commodity hardware.",
+                category: "TECH",
+                source: "github.com",
+                url: "#",
+                timestamp: "7h ago"
             }
         ];
 

@@ -1,1352 +1,1190 @@
 [
     {
         "id": 1,
-        "title": "Meta VR Glasses",
+        "title": "OpenAI agent hacks Australian government",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://www.meta.com/vr-glasses/",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646188-openai-australia-breach/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 2,
-        "title": "Linux support is coming to Snapdragon X2 Series",
+        "title": "Britain’s elites want you ready to die for a war they keep imagining",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646177-britains-elites-want-you-die/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 3,
-        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "title": "US Navy admits suicide attempts on carrier strike group",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646173-us-navy-suicide-attempts-lincoln/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 4,
-        "title": "VSCode's SSH Agent Is Bananas (2025)",
+        "title": "Kremlin slams EU over transfer of Russian profits to Ukraine",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://fly.io/blog/vscode-ssh-wtf/",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646184-eu-ukraine-frozen-assets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 5,
-        "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+        "title": "Ukrainian man stabs five at Polish convent",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646185-ukrainian-stabs-five-polish-convent/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 6,
-        "title": "The \"Windows XP Box\" (2003)",
+        "title": "This is how we lose control of AI – one successful task at a time",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646146-how-we-lose-control-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 7,
-        "title": "Mercury 2.5 LLM hits 770 tokens per second",
+        "title": "Pakistan strikes ‘drone launchpads’ inside Afghanistan",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://artificialanalysis.ai/models/mercury-2-5",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646174-pakistan-strikes-drone-launchpads/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 8,
-        "title": "FLAWED's Flaws and What This Means for Industry Research",
+        "title": "Iranian president responds to Trump’s ‘annihilation’ threat (VIDEO)",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646172-pezeshkian-iran-un-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 9,
-        "title": "Fixing the Portobello Police Station Clock",
+        "title": "WATCH Catholic priests and nuns make Gaza ‘genocide’ march to Vatican",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646147-catholic-clergy-march-vatican-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 10,
-        "title": "We just shipped support for the ugliest part of HTTP: Vary",
+        "title": "AI could harm children more than social media – ex-Google exec",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://blog.cloudflare.com/vary-support/",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646159-ai-children-social-media-harm/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 11,
-        "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+        "title": "Trump vs Xi: Who holds the cards ahead of high-stakes talks?",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://huggingface.co/apple/LensVLM-9B",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646165-trump-xi-talks-cards/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 12,
-        "title": "The mystery animal on an ancient god's head",
+        "title": "Kiev deliberately destabilizing global energy markets, Lavrov tells Rubio",
         "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
-        "timestamp": "01:42 UTC"
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/646164-lavrov-rubio-kiev-energy-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 13,
-        "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://carbon.ms/self-hosted",
-        "timestamp": "01:42 UTC"
+        "title": "Americans’ views of China have warmed, survey finds ahead of Trump-Xi summit",
+        "summary": "The share of U.S. adults with a positive view of China rose to 19 percent this year, a Pew survey found.",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/24/americans-views-china-have-warmed-survey-finds-ahead-trump-xi-summit/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 14,
-        "title": "Italian parliament votes for return to nuclear energy",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-        "timestamp": "01:42 UTC"
+        "title": "Netanyahu faces new depths of isolation ahead of address to U.N. — and Israeli voters",
+        "summary": "Israel’s prime minister arrives in New York on Thursday at a critical moment for his country and his political future.",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/24/netanyahu-faces-new-depths-isolation-ahead-address-un-israeli-voters/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 15,
-        "title": "A brief history of Windows scroll bar shortcuts",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-        "timestamp": "01:42 UTC"
+        "title": "As Trump meets Xi, rare earths give China a powerful hand",
+        "summary": "China’s chokehold over rare earths has informed the White House’s less confrontational approach to Beijing, analysts say.",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/24/donald-trump-meets-xi-jinping-rare-earths-give-china-powerful-hand/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 16,
-        "title": "DoorDash Spent $1.4 Million Trying to Stop Mamdani From Becoming Mayor. Now We Know Why.",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wod97k/doordash_spent_14_million_trying_to_stop_mamdani/",
-        "timestamp": "01:42 UTC"
+        "title": "Attacks by new rebel alliance stoke fear Ethiopia is returning to war",
+        "summary": "Tigray rebels said they were responding to a “full-scale offensive” by the government, which countered that it was the rebels who ...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/23/renewed-violence-stokes-ethiopia/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 17,
-        "title": "Woman Arrested, Dragged Away After Quietly Speaking About Flock at City Council Meeting",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wo98cp/woman_arrested_dragged_away_after_quietly/",
-        "timestamp": "01:42 UTC"
+        "title": "Iran’s president tells U.N. his country ‘must be powerful so as to avoid being threatened’",
+        "summary": "Masoud Pezeshkian began his brief address by saying that he had planned to deliver different remarks before hearing President Dona...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/23/irans-president-address-un-general-assembly-after-trump-threatens-annihilation/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 18,
-        "title": "Amazon is trying to rehire workers it laid off, emails show",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wo49k1/amazon_is_trying_to_rehire_workers_it_laid_off/",
-        "timestamp": "01:42 UTC"
+        "title": "Trump invites Putin to this year’s G-20 summit in Florida",
+        "summary": "Planning for the December gathering in Miami comes as security experts warn that escalations between Ukraine and Russia risk deepe...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/national-security/2026/09/23/trump-invites-putin-this-years-g-20-summit-florida/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 19,
-        "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update, causes outrage",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wo5ky9/the_refrigerator_is_dead_samsungs_ai_fridges_shut/",
-        "timestamp": "01:42 UTC"
+        "title": "6-year-old sets Rubik’s Cube world record",
+        "summary": "Lian Yunzhi of China solved five Rubik’s Cubes in an average of 4.27 seconds at a World Cube Association-certified competition las...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/24/6-year-old-sets-rubiks-cube-world-record/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 20,
-        "title": "This guy has spent two years hunting fake job listings on LinkedIn, and found 60,000 of them",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1woemry/this_guy_has_spent_two_years_hunting_fake_job/",
-        "timestamp": "01:42 UTC"
+        "title": "To answer far-right surge, Mamdani and Spain’s Sánchez forge global left-wing ties",
+        "summary": "Some U.S. Democrats are seeking out like-minded counterparts abroad in their struggle to counter right-wing populism.",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/23/answer-far-right-surge-mamdani-spains-snchez-forge-global-left-wing-ties/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 21,
-        "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wodtx0/owners_mourn_spoiled_food_after_firmware_update/",
-        "timestamp": "01:42 UTC"
+        "title": "Another U.S. service member dies amid Iran war, Pentagon tally shows",
+        "summary": "The Defense Department’s disclosed total stands at 19 fatalities, though U.S. officials say the actual number is higher.",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 22,
-        "title": "72-Year-Old Man Could Spend Up To Six Months In Jail For Placing Tracking Device On Pokémon TCG Delivery Driver’s Car",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wnv3iw/72yearold_man_could_spend_up_to_six_months_in/",
-        "timestamp": "01:42 UTC"
+        "title": "Victories by far left and far right show Germans sick of politics as usual",
+        "summary": "In a striking show of antiestablishment voter sentiment, the Left won in Berlin on the same night that the far-right Alternative f...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/22/victories-by-far-left-far-right-show-germans-sick-politics-usual/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 23,
-        "title": "NY Mayor Zohran Mamdani Blasts Paramount-WBD Deal As “Shameful Monument To Corruption”",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1woj3cx/ny_mayor_zohran_mamdani_blasts_paramountwbd_deal/",
-        "timestamp": "01:42 UTC"
+        "title": "U.S. and Iran had ‘very good meeting’ over ongoing war, Trump says",
+        "summary": "The United States and Iran held a rare three-hour meeting in New York to discuss ending the war between the two countries, Trump s...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/09/22/us-iran-had-very-good-meeting-over-ongoing-war-trump-says/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 24,
-        "title": "Disney+ Price to Jump 13% to $21.49 Per Month as Soon as Wednesday",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wo87a8/disney_price_to_jump_13_to_2149_per_month_as_soon/",
-        "timestamp": "01:42 UTC"
+        "title": "Man charged over Rwanda genocide in first for U.K.",
+        "summary": "Vincent Brown stands accused of aiding in genocide and crimes against humanity during the paroxysm of violence in his native count...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/22/man-charged-over-rwanda-genocide-first-uk/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 25,
-        "title": "Samsung Refrigerators Malfunction After Update Right Before Chuseok, Sparking Outrage",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wnx5an/samsung_refrigerators_malfunction_after_update/",
-        "timestamp": "01:42 UTC"
+        "title": "Who’s who in the race for the next UN Secretary-General?",
+        "summary": "The race to become the next United Nations Secretary-General is heating up, with five women among eight candidates.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/whos-who-in-the-race-for-the-next-un-secretary-general?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 26,
-        "title": "Gabe Newell made Steam after going \"f*** these publishers\" due to the broken relationship with Half-Life publisher Sierra, Counter-Strike co-creator says",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wo5feb/gabe_newell_made_steam_after_going_f_these/",
-        "timestamp": "01:42 UTC"
+        "title": "Deadly attack on Indian cargo ship off coast of Oman",
+        "summary": "A crew member was killed in an attack on an Indian cargo vessel off the coast of Oman.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 27,
-        "title": "LibreOffice developer explains why it cannot display some Microsoft Office charts",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wnwpp4/libreoffice_developer_explains_why_it_cannot/",
-        "timestamp": "01:42 UTC"
+        "title": "Belgium and Rwanda are talking again. Is DR Congo any closer to peace?",
+        "summary": "Belgium and Rwanda have restored diplomatic relations after an 18-month rupture over the war in eastern DR Congo.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 28,
-        "title": "Soldiers can refuse to commit war crimes. Can AI? | The Pentagon wants AI models that can't say no.",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1woe97n/soldiers_can_refuse_to_commit_war_crimes_can_ai/",
-        "timestamp": "01:42 UTC"
+        "title": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
+        "summary": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 29,
-        "title": "After co-founder apology, Discord rolls out \"rightfully\" controversial age verification system anyway: \"No model is perfect\"",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1woe64y/after_cofounder_apology_discord_rolls_out/",
-        "timestamp": "01:42 UTC"
+        "title": "India’s surfers look to make waves at the 2026 Asian Games",
+        "summary": "Indian surfers overcame huge challenges to reach the Asian Games and now dream of competing at the 2028 Olympics.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/9/24/indias-surfers-look-to-make-waves-at-the-2026-asian-games?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 30,
-        "title": "Merged Paramount-Warner Bros. Will Be a \"Streaming Powerhouse,\" Wall Street Analysts Say — but Saddled With More Than $77 Billion in Debt",
-        "summary": "No summary provided by source.",
-        "category": "TECH",
-        "source": "r/Technology",
-        "url": "https://www.reddit.com/r/technology/comments/1wnuv1l/merged_paramountwarner_bros_will_be_a_streaming/",
-        "timestamp": "01:42 UTC"
+        "title": "Could the oil shock push fuel prices even higher?",
+        "summary": "From Hormuz to the Black Sea, pressure on main supply routes is testing the resilience of the global energy market.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/9/24/could-the-oil-shock-push-fuel-prices-even-higher?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 31,
-        "title": "Meta is making a standalone Muse AI gadget",
-        "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly show...",
-        "category": "TECH",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-        "timestamp": "01:42 UTC"
+        "title": "Why is Iran threatening regional airports, and what could be the impact?",
+        "summary": "Tehran hints retaliation as Georgia and Azerbaijan suspend Iranian flights amid mounting US sanctions on airlines.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/24/why-is-iran-threatening-regional-airports-and-what-could-be-the-impact?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 32,
-        "title": "Meta Connect 2026: The 7 biggest announcements",
-        "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was ...",
-        "category": "TECH",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-        "timestamp": "01:42 UTC"
+        "title": "OpenAI agents hack Australian government health data",
+        "summary": "Rogue OpenAI agents accessed an Australian government health data website, obtaining non-public information.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-agents-hack-australian-government-health-data?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 33,
-        "title": "Meta’s next VR device isn’t a headset — it’s glasses",
-        "summary": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of gl...",
-        "category": "TECH",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-        "timestamp": "01:42 UTC"
+        "title": "Japan’s Ohashi breaks 200m breaststroke world record at Asian Games",
+        "summary": "Shin Ohashi, 17, claims his second Asian Games gold with his record-breaking effort in front of a thrilled home crowd.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/9/24/japans-ohashi-breaks-200m-breaststroke-world-record-at-asian-games?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 34,
-        "title": "Muse is coming to Meta smart glasses",
-        "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glass...",
-        "category": "TECH",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-        "timestamp": "01:42 UTC"
+        "title": "US Navy confirms ‘eight suicide attempts’ on USS Lincoln: What we know",
+        "summary": "The roughly 5,000-strong crew on board the Lincoln were at sea for more than nine months with only one brief port stop.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/24/us-navy-confirms-eight-suicide-attempts-on-uss-lincoln-what-we-know?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 35,
-        "title": "Meta ditches the camera on its newest smart glasses",
-        "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a ma...",
-        "category": "TECH",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-        "timestamp": "01:42 UTC"
+        "title": "How UK universities briefed BAE Systems on pro-Palestine campus protests",
+        "summary": "Several universities discussed protests with the weapons maker, raising concerns about influence and academic freedom.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/24/how-uk-universities-discussed-protests-with-bae-systems?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 36,
-        "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-        "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable a...",
-        "category": "TECH",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-        "timestamp": "01:42 UTC"
+        "title": "How an OpenAI ‘agent’ hacked Australia’s Medicare and what that means",
+        "summary": "Incident highlights growing concerns about AI&#039;s impact on cybersecurity and AI disclosure procedures, say experts.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means?traffic_source=rss",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 37,
-        "title": "Meta Connect 2026: The biggest news and announcements",
-        "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8...",
-        "category": "TECH",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-        "timestamp": "01:42 UTC"
+        "title": "'No anti-incumbency for BJP': Rahul namedrops Saddam, Kim Jong to attack govt, EC",
+        "summary": "No summary provided by source.",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/no-anti-incumbency-for-bjp-rahul-gandhi-namedrops-saddam-kim-jong-un-to-attack-modi-govt-ec/articleshow/134461534.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 38,
-        "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-        "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to c...",
-        "category": "TECH",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-        "timestamp": "01:42 UTC"
+        "title": "The Backstory: When EC disagreements went public, from Seshan to Lavasa",
+        "summary": "The Election Commission is facing fresh scrutiny after an Indian Express report highlighted disagreements among its members over t...",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/the-backstory-when-ec-disagreements-went-public-from-seshan-to-lavasa-gyanesh-kumar/articleshow/134460813.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 39,
-        "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
-        "summary": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 ...",
-        "category": "TECH",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
-        "timestamp": "01:42 UTC"
+        "title": "When umpires disagree: 10 questions at the heart of the Election Commission row",
+        "summary": "The Election Commission is facing questions over reported disagreements between two election commissioners and the CEC on electora...",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/when-the-umpires-disagree-10-questions-at-the-heart-of-the-election-commission-row/articleshow/134457725.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 40,
-        "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
-        "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Su...",
-        "category": "TECH",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
-        "timestamp": "01:42 UTC"
+        "title": "SIR row: Cong makes fresh push to impeach CEC Gyanesh Kumar, rallies oppn",
+        "summary": "No summary provided by source.",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/sir-row-congress-reaches-out-to-oppn-parties-to-move-impeachment-motion-against-cec-gyanesh-kumar/articleshow/134459780.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 41,
-        "title": "SnakeCharmer: Fuzzing Harness Generation for Pure and Hybrid Python Libraries [pdf]",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://futures.cs.utah.edu/papers/26FSE-b.pdf",
-        "timestamp": "01:42 UTC"
+        "title": "Nokia closes China research hub, recalls asking Europe why it uses Huawei",
+        "summary": "Nokia is shutting its Hangzhou radio R&amp;D centre in China by end-2026, cutting around 1,600 jobs, after its Greater China reven...",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-nokia-is-closing-its-research-hub-in-china-it-is-back-to-the-time-when-nokia-ceo-asked-europe-why-you-use-huawei-while-china-has-thrown-us-out/articleshow/134457749.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 42,
-        "title": "Wasmer Swift SDK: Run Node.js, Python and FFmpeg Sandboxes on iOS",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://wasmer.io/posts/wasmer-sdk-swift-ios-macos",
-        "timestamp": "01:42 UTC"
+        "title": "Delhi cop traced 76 missing children across 4 states, earned historic promotion",
+        "summary": "Amid the challenges posed by the Covid-19 pandemic in 2020, Head Constable Seema Dhaka distinguished herself by successfully traci...",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/life-style/people/we-know-the-risk-she-traced-76-missing-children-across-4-states-meet-seema-dhaka-the-delhi-head-constable-who-earned-a-historic-delhi-police-promotion/articleshow/134459364.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 43,
-        "title": "The Python documentation is now available in Persian",
+        "title": "FSSAI proposes to ban 'paneer' label for substitutes, ensure strict disclosure",
         "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/",
-        "timestamp": "01:42 UTC"
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/fssai-proposes-to-ban-paneer-label-for-substitute-products-ensure-strict-disclosure/articleshow/134458978.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 44,
-        "title": "Show HN: Basta – dead code analysis for JavaScript/ts and Python",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://www.npmjs.com/package/basta",
-        "timestamp": "01:42 UTC"
+        "title": "Delhi HC denies anticipatory bail to YouTuber Ajeet Bharti in casteist remarks case",
+        "summary": "Delhi High Court rejected Ajeet Bharti's request for anticipatory bail in a caste-related case. The court determined that a prima ...",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/delhi-hc-denies-anticipatory-bail-to-youtuber-ajeet-bharti-in-casteist-remarks-case/articleshow/134461232.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 45,
-        "title": "Using Llama-cpp-Python grammars to generate JSON",
+        "title": "1 killed, 4 injured in knife attack at Benedictine abbey in Poland",
         "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://til.simonwillison.net/llms/llama-cpp-python-grammars",
-        "timestamp": "01:42 UTC"
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/europe/1-killed-4-injured-in-knife-attack-at-benedictine-abbey-in-poland/articleshow/134461054.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 46,
-        "title": "Jev in 25 Lines of Python",
+        "title": "North Carolina fraud scheme stole over $650,000; man gets 15 months in prison",
         "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-        "timestamp": "01:42 UTC"
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/a-north-carolina-fraud-scheme-used-stolen-identities-to-request-replacement-bank-cards-and-spend-more-than-650000-one-man-has-now-been-sentenced-to-15-months-and-ordered-to-pay-656781-in-restitution/articleshow/134458853.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 47,
-        "title": "Evaluating smolvm as a sandbox for untrusted Python and JavaScript",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-        "timestamp": "01:42 UTC"
+        "title": "Donation platform collapsed owing 3,200 nonprofits nearly $29 million",
+        "summary": "Flipcause, an Oakland-based donation platform, filed for bankruptcy in December 2025 after owing nearly $29 million to more than 3...",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/in-2025-donation-platform-flipcause-collapsed-owing-more-than-3200-nonprofits-nearly-29-million-bankruptcy-records-later-showed-3-8-million-went-to-executives-relatives-and-related-firms-before-liquidation/articleshow/134457447.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 48,
-        "title": "Microdnf: Minimal Python-Free Dnf",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://github.com/rpm-software-management/microdnf",
-        "timestamp": "01:42 UTC"
+        "title": "Nike cofounder makes largest known donation to public flagship university",
+        "summary": "Phil Knight and his wife, Penny, recently donated $1 billion to the University of Oregon. This significant contribution aims to es...",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/nike-cofounder-phil-knight-makes-largest-known-donation-to-public-flagship-university-made-over-an-unscheduled-call-university-president-calls-the-extraordinary-gift-an-endorsement-of-/articleshow/134460127.cms",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 49,
-        "title": "PyTauri – Tauri Bindings for Python",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://pytauri.github.io/pytauri/0.8/",
-        "timestamp": "01:42 UTC"
+        "title": "‘One Ukraine Firm Makes 100 Missiles A Month, India Can’t Make Just 200-300’: Defence Secy At News18 DEFCON 2026",
+        "summary": "The Defence Secretary said India cannot depend on a single industry partner and needs to expand the number of companies involved i...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/one-ukraine-firm-makes-100-missiles-a-month-india-cant-make-just-200-300-defence-secy-at-news18-defcon-2026-10350997.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 50,
-        "title": "Pytrace: J-Trace Python SDK for hardware tracing",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://github.com/embedder-dev/pytrace",
-        "timestamp": "01:42 UTC"
+        "title": "If It Is Analogue, It Should Not Be Called 'Paneer': FSSAI Proposes Crackdown On Imitation Dairy",
+        "summary": "Under the proposed amendment to food safety regulations, products registered under the 'Analogue in Dairy Context' category must c...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/lifestyle/food/if-it-is-analogue-it-should-not-be-called-paneer-fssai-proposes-crackdown-on-imitation-dairy-ws-brt-10350939.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 51,
-        "title": "Fastlogging-Rs: High-Performance Logging for Rust, Python, C, C++, Java, Go, C#",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://github.com/brmmm3/fastlogging-rs",
-        "timestamp": "01:42 UTC"
+        "title": "‘Elections Being Rigged’: Rahul Gandhi Targets EC Amid SIR Dissent Row, Says Gyanesh Kumar Should Resign",
+        "summary": "Rahul Gandhi referred to dissent notes by two Election Commissioners-- Sukhbir Singh Sandhu and Vivek Joshi-- on Special Intenstiv...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/elections-being-rigged-rahul-gandhi-targets-ec-amid-sir-dissent-row-says-gyanesh-kumar-should-resign-10350950.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 52,
-        "title": "Python Workers are now generally available",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://blog.cloudflare.com/python-workers-ga/",
-        "timestamp": "01:42 UTC"
+        "title": "India Can Become Global Shipbuilding Power In Next Decade: Sanjeev Sanyal At DEFCON",
+        "summary": "Sanjeev Sanyal said India can become a major shipbuilding power, despite accounting for less than 1% of global shipbuilding today.",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/india-can-become-global-shipbuilding-power-in-next-decade-sanjeev-sanyal-at-defcon-ws-lt-10350901.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 53,
-        "title": "Show HN: Mini-Runbot – Ephemeral Odoo Enviroments Using Python and Docker",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://github.com/rafnixg/odoo-platform-ephemeral-environment",
-        "timestamp": "01:42 UTC"
+        "title": "India’s Defence Transformation: From Importer To Global Leader | Lt Gen Puneet Ahuja | News18",
+        "summary": "From defence importer to global leader! At Defence Conclave 2026, Lt Gen Puneet Ahuja, IHQ of MoD (Army), outlines a vision for In...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/videos/india/india-s-defence-transformation-from-importer-to-global-leader-lt-gen-puneet-ahuja-news18-10350983.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 54,
-        "title": "Show HN: Jevlang: Python with a Smart \"If\"",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://github.com/sumanmichael/jevlang",
-        "timestamp": "01:42 UTC"
+        "title": "'Our Issues Are Over Now': Charanjit Channi Says Punjab Congress United For Assembly Polls",
+        "summary": "Channi said there is no rift in the party amid reports that he was miffed at the reappointment of Amarinder Singh Raja Warring as ...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/our-issues-are-over-now-charanjit-channi-says-punjab-congress-united-for-assembly-polls-10350908.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 55,
-        "title": "Enjambre – a durable kernel for swarms of AI agents (Python, MCP)",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "Python News",
-        "url": "https://github.com/santibccc-sudo/enjambre-os",
-        "timestamp": "01:42 UTC"
+        "title": "CJP Threatens Nationwide Agitation if CEC Yanesh Kumar Fails to Resign in 24 Hours",
+        "summary": "| CJP founder Abhijeet Dipke has demanded Chief Election Commissioner Gyanesh Kumar’s resignation, warning that the Cockroach Jant...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/videos/india/cjp-threatens-nationwide-agitation-if-cec-yanesh-kumar-fails-to-resign-in-24-hours-10350941.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 56,
-        "title": "Rendering huge pull requests in the GitHub Copilot app",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-        "timestamp": "01:42 UTC"
+        "title": "'We Have Seen What Delay Does In Shiv Sena Case': SC Tells ECI To Act On TMC Dispute",
+        "summary": "A bench headed by Chief Justice of India Surya Kant warned the poll body against protracted delays that leave political parties in...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/we-have-seen-what-delay-does-in-shiv-sena-case-sc-tells-eci-to-act-on-tmc-dispute-ws-brt-10350870.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 57,
-        "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
-        "timestamp": "01:42 UTC"
+        "title": "SIR Row Explodes: Mahua Moitra Files Police Complaint Against CEC Gyanesh Kumar | Impeachment Push",
+        "summary": "The confrontation over the Election Commission’s Special Intensive Revision (SIR) of electoral rolls has intensified.TMC MP Mahua ...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/videos/india/sir-row-explodes-mahua-moitra-files-police-complaint-against-cec-gyanesh-kumar-impeachment-push-10350924.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 58,
-        "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
-        "timestamp": "01:42 UTC"
+        "title": "SIR Row: Assam CM Himanta Biswa Sarma Backs CEC Gyanesh Kumar Amid Impeachment Push | News18",
+        "summary": "The political row over the Election Commission’s Special Intensive Revision (SIR) exercise has intensified, with opposition partie...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/videos/india/sir-row-assam-cm-himanta-biswa-sarma-backs-cec-gyanesh-kumar-amid-impeachment-push-news18-10350894.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 59,
-        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-        "timestamp": "01:42 UTC"
+        "title": "SIR Row: INDIA Bloc Plans Impeachment Motion Against CEC Gyanesh Kumar | ECI Rift Widens",
+        "summary": "| Sources say INDIA bloc parties are set to move an impeachment motion against Chief Election Commissioner Gyanesh Kumar, amid the...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/videos/india/sir-row-india-bloc-plans-impeachment-motion-against-cec-gyanesh-kumar-eci-rift-widens-10350816.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 60,
-        "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
-        "timestamp": "01:42 UTC"
+        "title": "IIT Bombay Case: Sahil Wakode’s Parents Detained In Bhandup Ahead Of Hunger Strike | What Happened?",
+        "summary": "Sahil Wakode’s parents were detained in Bhandup on Thursday while travelling towards the IIT Bombay campus, where they were prepar...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/videos/breaking-news/iit-bombay-case-sahil-wakode-s-parents-detained-in-bhandup-ahead-of-hunger-strike-what-happened-10350815.html",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 61,
-        "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-        "timestamp": "01:42 UTC"
+        "title": "Vote Chori Leads To Kanoon Chori: Rahul Gandhi Attacks BJP, Poll Body Chief",
+        "summary": "\"We are not going to let democracy in India be destroyed and remain silent,\" Gandhi said.",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/india-news/election-commission-gyanesh-kumar-pm-modi-amit-shah-vote-chori-leads-to-kanoon-chori-rahul-gandhi-attacks-bjp-poll-body-chief-12092343#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 62,
-        "title": "GitHub availability report: August 2026",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
-        "timestamp": "01:42 UTC"
+        "title": "Opposition To Push For Impeachment Of Poll Body Chief Again: Sources",
+        "summary": "A notice for the motion is being drafted and could be submitted in Parliament as early as next week, according to Congress sources...",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/india-news/gyanesh-kumar-election-commission-eci-opposition-to-move-impeachment-motion-against-gyanesh-kumar-sources-12091928#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 63,
-        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-        "timestamp": "01:42 UTC"
+        "title": "\"Don't Treat AI As A Black Box\": IIT Madras Professor's Message To Students",
+        "summary": "Professor Karthik Raman told students to use AI to refine their work, not skip the thinking.",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/education/dont-let-ai-do-the-thinking-for-you-iit-madras-professor-to-students-12092103#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 64,
-        "title": "GitHub Copilot app for Beginners: Run several agents at once",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
-        "timestamp": "01:42 UTC"
+        "title": "Opinion: Opinion | Bihar Assault, Hisar Marriage Ban: Who'll Stop The Guardians Of Indian 'Culture'?",
+        "summary": "Why exactly does the sight of a young couple seeking a bit of alone time somewhere tend to particularly provoke a certain kind of ...",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/opinion/jamuis-violence-hisars-marriage-ban-how-love-became-a-crime-in-india-12091643#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 65,
-        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
-        "timestamp": "01:42 UTC"
+        "title": "Resign In 48 Hours Or We'll Begin Protests: CJP's Ultimatum To Poll Body Chief",
+        "summary": "The CJP also called for the repeal of the 2023 law on appointing Election Commissioners.",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/india-news/cockroach-janata-party-abhijeet-dipke-resign-in-48-hours-or-well-begin-protests-cjps-ultimatum-to-election-commission-chief-gyanesh-kumar-12092172#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 66,
-        "title": "Google Gemini Expands Connected Apps With Adobe, Squarespace and Peloton Workflows",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/alifar/google-gemini-expands-connected-apps-with-adobe-squarespace-and-peloton-workflows-1c3p",
-        "timestamp": "01:42 UTC"
+        "title": "Punjab Man Consumes Poison At Police Station Over Bribe Demand, Cops Deny Charges",
+        "summary": "Police investigation indicated that Jobanpreet had been under mental stress.",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/india-news/punjab-man-consumes-poison-at-police-station-over-bribe-demand-cops-deny-charges-12092122#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 67,
-        "title": "Inherited Memory Helped My Flies Until the World Changed. Then a Blank Slate Beat Them.",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/constant_itis/inherited-memory-helped-my-flies-until-the-world-changed-then-a-blank-slate-beat-them-1p9e",
-        "timestamp": "01:42 UTC"
+        "title": "FMGE October 2026 Registration Ends Tomorrow, September 25; Check Application Details Here",
+        "summary": "FMGE October 2026 registration ends September 25; check application details and exam schedule.",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/education/fmge-october-2026-registration-ends-tomorrow-september-25-check-application-details-here-12092037#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 68,
-        "title": "How to connect an existing AI agent to a public discussion forum",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/morrowkin/how-to-connect-an-existing-ai-agent-to-a-public-discussion-forum-4lmj",
-        "timestamp": "01:42 UTC"
+        "title": "Analysis | Rahul Gandhi's Revival vs Akhilesh Yadav's Leverage: Inside the Samajwadi-Congress Tug of War",
+        "summary": "Rahul Gandhi and Akhilesh Yadav are headed into tough seat-sharing negotiations",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/india-news/up-election-2027-analysis-rahul-gandhis-revival-vs-akhilesh-yadavs-leverage-inside-the-samajwadi-congress-tug-of-war-12091871#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 69,
-        "title": "I vibe-coded a Next.js knowledge base that argues with itself",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/zkasuran/i-vibe-coded-a-nextjs-knowledge-base-that-argues-with-itself-fkn",
-        "timestamp": "01:42 UTC"
+        "title": "NEET PG 2026 Result (OUT) LIVE: Scorecard Released For Over 2.65 Lakh Candidates, Check Cutoff Scores",
+        "summary": "NEET PG 2026: The NBEMS conducted the NEET Postgraduate exam on August 30.",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/education/neet-pg-2026-answer-key-live-check-response-sheet-download-link-result-date-percentile-calculation-12078879#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 70,
-        "title": "I built an agent that refuses to answer Next.js from stale docs",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/zkasuran/i-built-an-agent-that-refuses-to-answer-nextjs-from-stale-docs-410k",
-        "timestamp": "01:42 UTC"
+        "title": "Medical Board To Release NEET PG 2026 Scorecard, Answer Key On October 1; Rank List Out",
+        "summary": "The NBEMS noted that the NEET PG answer key will be published on or after October 1.",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/education/medical-board-to-release-neet-pg-2026-scorecard-answer-key-on-october-1-rank-list-out-12091879#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 71,
-        "title": "Claude Supports Ebola Response in the DRC Across Data, Modeling and Genomic Work",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/alifar/claude-supports-ebola-response-in-the-drc-across-data-modeling-and-genomic-work-1pkd",
-        "timestamp": "01:42 UTC"
+        "title": "\"Happens In US, Japan Too\": Minister's Shocker On Bihar Sexual Assault Cases",
+        "summary": "Bihar Minister Ashok Choudhary at a press conference in Patna",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/india-news/happens-in-us-japan-too-ministers-shocker-on-bihar-sexual-assault-cases-12091866#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 72,
-        "title": "MCP Went Stateless. Your AI Agent Still Needs State.",
-        "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/robin_singh_456fbe1f602b9/mcp-went-stateless-your-ai-agent-still-needs-state-2knj",
-        "timestamp": "01:42 UTC"
+        "title": "Rajasthan University Pharmacy Counselling 2026 Round 3 Registration Begins; Check Schedule",
+        "summary": "Seat allotment results will be announced on October 8.",
+        "category": "INDIA",
+        "source": "NDTV India",
+        "url": "https://www.ndtv.com/education/rajasthan-university-pharmacy-counselling-2026-round-3-registration-begins-check-schedule-12091546#publisher=newsstand",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 73,
-        "title": "My checks failed nine times in one day. The checks on my checks caught all nine.",
+        "title": "The still-formidable F-16 will be even more capable with better electronic warfare",
         "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/vereos/my-checks-failed-nine-times-in-one-day-the-checks-on-my-checks-caught-all-nine-45cb",
-        "timestamp": "01:42 UTC"
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/the-still-formidable-f-16-will-be-even-more-capable-with-better-electronic-warfare/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 74,
-        "title": "The Model Was Confident. The Bill Was Real. Where AI Guardrails Belong.",
+        "title": "EXCLUSIVE: SpaceX given unique access to classified DoD space tracking data, sources say",
         "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/goodpa/the-model-was-confident-the-bill-was-real-where-ai-guardrails-belong-1ei3",
-        "timestamp": "01:42 UTC"
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/exclusive-spacex-given-unique-access-to-classified-dod-space-tracking-data-sources-say/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 75,
-        "title": "IMTS 2026: The West's Largest Manufacturing Show Goes Full AI",
+        "title": "Syria looks to end foreign military presence, have sovereignty over all bases: President",
         "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/kd_jiang_cb6ed42090a6f3f5/imts-2026-the-wests-largest-manufacturing-show-goes-full-ai-295b",
-        "timestamp": "01:42 UTC"
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/syria-looks-to-end-foreign-military-presence-have-sovereignty-over-all-bases-president/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 76,
-        "title": "หลัง Gemma 4 มีอะไรตามมา โมเดลใหม่ 7 ตัวที่คนรันเองควรรู้ ปี 2026",
+        "title": "UK launches first space squadron to ‘degrade and deny’ enemies",
         "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/sarantoon/hlang-gemma-4-miiaairtaammaa-omedlaihm-7-tawthiikhnranengkhwrruu-pii-2026-8jc",
-        "timestamp": "01:42 UTC"
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/uk-launches-first-space-squadron-to-degrade-and-deny-enemies/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 77,
-        "title": "Unit Tests vs. Regression Tests: Why the Same Feature Gets Tested Twice",
+        "title": "Air, Space Forces pick up research pace for orbital cargo delivery",
         "summary": "No summary provided by source.",
-        "category": "DEV",
-        "source": "DEV Community",
-        "url": "https://dev.to/susumun/unit-tests-vs-regression-tests-why-the-same-feature-gets-tested-twice-1mf6",
-        "timestamp": "01:42 UTC"
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/air-space-forces-pick-up-research-pace-for-orbital-cargo-delivery/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 78,
-        "title": "Trump receives Xi Jinping at airport as Chinese prez begins 3-day US visit: What's on agenda",
+        "title": "Breaking Defense adds Mikayla Easley as additional editor, supporting continued growth",
         "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/trump-xi-meeting-whats-on-agenda-as-chinese-president-begins-3-day-us-visit/articleshow/134448554.cms",
-        "timestamp": "01:42 UTC"
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/breaking-defense-adds-mikayla-easley-as-additional-editor-supporting-continued-growth/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 79,
-        "title": "8 US Navy sailors attempted suicide during USS Lincoln's Iran deployment",
+        "title": "Why the Army needs a clean sheet modern combat vehicle",
         "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/eight-us-navy-sailors-in-uss-abraham-lincoln-strike-group-attempted-suicide-during-iran-war-deployment/articleshow/134448759.cms",
-        "timestamp": "01:42 UTC"
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/why-the-army-needs-a-clean-sheet-modern-combat-vehicle/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 80,
-        "title": "After split verdict, SC refers law on EC appointment to larger bench",
+        "title": "The future of European airpower might be unmanned",
         "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/after-split-verdict-sc-refers-law-on-ec-appointment-to-larger-bench-decision-comes-amid-row-over-ec-functioning/articleshow/134448337.cms",
-        "timestamp": "01:42 UTC"
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/the-future-of-european-airpower-might-be-unmanned/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 81,
-        "title": "LoP's presence in panel to pick CEC, ECs 'ornamental': SC judge",
-        "summary": "'Drawbacks in appointment law give overwhelming power to executive'",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/lops-presence-in-panel-to-pick-cec-ecs-ornamental-sc-judge/articleshow/134445716.cms",
-        "timestamp": "01:42 UTC"
+        "title": "Fate of Air Force’s China Aerospace Studies Institute up in air",
+        "summary": "No summary provided by source.",
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/air-force-says-china-aerospace-studies-institute-will-continue-despite-civilian-cuts/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 82,
-        "title": "DoorDash agrees to $131.5m after payment errors affected 200,000-plus NYC workers",
-        "summary": "DoorDash will pay $131.5 million to settle a probe regarding its payment practices for delivery workers. The settlement ...",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/americas-largest-food-delivery-company-doordash-admits-it-underpaid-or-paid-late-to-200000-plus-workers-in-new-york-city-for-over-three-years-will-pay-131-5-million-in-settlement-and-apologises/articleshow/134439134.cms",
-        "timestamp": "01:42 UTC"
+        "title": "Australian MQ-4C Tritons, MC-55A Peregrines reach Initial Operational Capability",
+        "summary": "No summary provided by source.",
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/australian-mq-4c-tritons-mc-55a-peregrines-reach-initial-operational-capability/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 83,
-        "title": "Roshibina Devi wins silver, falls short against China's Xiaoyu in final",
-        "summary": "Naorem Roshibina Devi has proudly secured a silver medal in the women's sanda 60kg event at the Asian Games, representin...",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/roshibina-devi-settles-for-silver-after-losing-womens-sanda-60kg-final/articleshow/134448936.cms",
-        "timestamp": "01:42 UTC"
+        "title": "Trump orders all US agencies to refer to AI as ‘super intelligence’",
+        "summary": "No summary provided by source.",
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/trump-orders-all-us-agencies-to-refer-to-ai-as-super-intelligence/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 84,
-        "title": "George Floyd’s siblings seek accounting of $14.7m memorial GoFundMe",
-        "summary": "After George Floyd's untimely death in 2020, a fundraising campaign on GoFundMe amassed millions to support his family. ...",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/in-2020-george-floyds-memorial-gofundme-raised-14-7-million-six-years-later-three-of-his-siblings-are-asking-brother-philonise-for-a-full-accounting-of-the-fundraiser-and-its-distributions/articleshow/134433362.cms",
-        "timestamp": "01:42 UTC"
+        "title": "Aussie defense chief confirms missing F-35 parts, says none are ‘sensitive’",
+        "summary": "No summary provided by source.",
+        "category": "DEFENSE",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/09/aussie-defense-chief-confirms-missing-f-35-parts-says-none-are-sensitive/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 85,
-        "title": "Putin's party wins again as expected. So why does Russia still hold elections?",
-        "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/europe/putins-party-wins-again-as-expected-so-why-does-russia-still-hold-elections/articleshow/134435340.cms",
-        "timestamp": "01:42 UTC"
+        "title": "Report: CIA warned Europe of Russian drone attack from vessels in the Mediterranean",
+        "summary": "The CIA reportedly warned European nations of a suspected Russian plot to launch explosive drones from aboard commercial vessels i...",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/24/report-cia-warned-europe-of-russian-drone-attack-from-vessels-in-the-mediterranean/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 86,
-        "title": "Cong-led oppn demands Gyanesh ouster, Supreme Court probe",
-        "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms",
-        "timestamp": "01:42 UTC"
+        "title": "Air Force, civilian staff dispute status of China Aerospace Studies Institute",
+        "summary": "CASI's director said the move will effectively end the institute, even as the service says CASI’s mission will continue.",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/air/2026/09/23/air-force-civilian-staff-dispute-status-of-china-aerospace-studies-institute/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 87,
-        "title": "N Chandrasekaran's real vote test: Tata Sons AGM, not boardroom",
-        "summary": "Majority owner will swing resolutions on reappointment; ban does not apply to sdtt",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/n-chandrasekarans-real-vote-test-tata-sons-agm-not-boardroom/articleshow/134448457.cms",
-        "timestamp": "01:42 UTC"
+        "title": "Greenland welcomes US military pact but trust still shaky",
+        "summary": "Greenland’s government and residents expressed relief about a new military pact with the United States and Denmark.",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/23/greenland-welcomes-us-military-pact-but-trust-still-shaky/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 88,
-        "title": "Benedict Arnold's crypt now part of kindergarten classroom",
-        "summary": "Benedict Arnold rose to major general and earned George Washington’s trust during the American Revolution before switchi...",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/benedict-arnold-was-once-trusted-by-george-washington-before-switching-allegiance-to-britain-and-dying-in-england-in-1801-the-revolutionary-war-generals-crypt-is-now-part-of-a-kindergarten-classroom/articleshow/134445627.cms",
-        "timestamp": "01:42 UTC"
+        "title": "German defense minister sees smooth sailing in parliament for his record defense budget",
+        "summary": "Pistorius is asking lawmakers to approve nearly €140 billion ($160 billion) for defense next year, a record sum.",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/23/german-defense-minister-sees-smooth-sailing-in-parliament-for-his-record-defense-budget/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 89,
-        "title": "Elk herd in Smokies grows from 25 to 250+ in 25 years after reintroduction",
-        "summary": "In 2001, 25 elk were reintroduced to Great Smoky Mountains National Park from Kentucky, followed by 27 more from Canada ...",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/science/wildlife/in-2001-25-elk-were-brought-to-great-smoky-mountains-national-park-from-kentucky-25-years-later-more-than-250-elk-have-been-recorded-in-the-smokies/articleshow/134445765.cms",
-        "timestamp": "01:42 UTC"
+        "title": "Europe’s push to reduce US reliance is reshaping the defense space market",
+        "summary": "Spooked by U.S. restrictions on satellite data access during recent crises, European countries are scrambling to catch up on sover...",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/23/europes-push-to-reduce-us-reliance-is-reshaping-the-defense-space-market/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 90,
-        "title": "Salesforce CEO blames Microsoft for not investing in OpenAI",
-        "summary": "Salesforce CEO Marc Benioff says Microsoft's stake in OpenAI stopped his company from investing in the ChatGPT maker. Sp...",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/marc-benioff-says-because-of-microsoft-salesforce-could-not-invest-in-openai-salesforce-ceo-says-i-knew-sam-altman-very-well-i-was-like-/articleshow/134426696.cms",
-        "timestamp": "01:42 UTC"
+        "title": "Germany wants to manufacture American PAC-3 interceptors to help meet global demand",
+        "summary": "German Defense Minister Boris Pistorius has lobbied U.S. defense leaders to allow the production of PAC-3 MSE interceptor missiles...",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/23/germany-wants-to-manufacture-american-pac-3-interceptors-to-help-meet-global-demand/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 91,
-        "title": "Bihar to Japan: IIT-K grad makes it to Japanese cricket team",
-        "summary": "Abhishek Anand, a former resident of Rohtas, has successfully transitioned to playing for Japan's national cricket team ...",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/life-style/people/bihari-kahan-nahi-hain-bhai-meet-rohtas-born-abhishek-anand-who-went-from-iit-kanpur-and-an-it-job-to-japans-national-cricket-team/articleshow/134403680.cms",
-        "timestamp": "01:42 UTC"
+        "title": "US Navy destroyers tested in Middle East as demands mount",
+        "summary": "The concentration of Navy destroyers in the Middle East raises questions about meeting sustained operational demand.",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/news/your-navy/2026/09/22/us-navy-destroyers-tested-in-middle-east-as-demands-mount/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 92,
-        "title": "Govt rejects OIC's J&amp;K references as 'factually incorrect'",
-        "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/govt-rejects-oics-jk-references-as-factually-incorrect/articleshow/134448760.cms",
-        "timestamp": "01:42 UTC"
+        "title": "Royal Navy successfully launches US Mk 48 torpedo from uncrewed submersible",
+        "summary": "Last week, the Royal Navy successfully launched a U.S.-made Mk 48 Heavyweight Torpedo from a British Excalibur uncrewed underwater...",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/22/royal-navy-successfully-launches-us-mk-48-torpedo-from-uncrewed-submersible/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 93,
-        "title": "Attacks by new rebel alliance stoke fear Ethiopia is returning to war",
-        "summary": "Tigray rebels said they were responding to a “full-scale offensive” by the government, which countered that it was the r...",
-        "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/23/renewed-violence-stokes-ethiopia/",
-        "timestamp": "01:42 UTC"
+        "title": "Italian Navy plots race of two local machines: an F-35B against a Ferrari",
+        "summary": "The Italian Navy wants to find out if one of its F-35B fighter jets can outrace a Ferrari SF90 on the ground.",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/22/italian-navy-plots-race-of-two-local-machines-an-f-35b-against-a-ferrari/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 94,
-        "title": "Iran’s president tells U.N. his country ‘must be powerful so as to avoid being threatened’",
-        "summary": "Masoud Pezeshkian began his brief address by saying that he had planned to deliver different remarks before hearing Pres...",
-        "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/23/irans-president-address-un-general-assembly-after-trump-threatens-annihilation/",
-        "timestamp": "01:42 UTC"
+        "title": "South Korea faces no good choices in sending forces for Trump’s unpopular Iran mission",
+        "summary": "Experts worry that U.S. requests for troop contributions to America's faraway campaigns could leave South Korea exposed when it ma...",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/22/south-korea-faces-no-good-choices-in-sending-forces-for-trumps-unpopular-iran-mission/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 95,
-        "title": "Trump invites Putin to this year’s G-20 summit in Florida",
-        "summary": "Planning for the December gathering in Miami comes as security experts warn that escalations between Ukraine and Russia ...",
-        "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/national-security/2026/09/23/trump-invites-putin-this-years-g-20-summit-florida/",
-        "timestamp": "01:42 UTC"
+        "title": "US to open two new military bases in Greenland, sources say",
+        "summary": "The U.S. plans to re-establish a Cold War-era military base in southern Greenland and set up another on the east coast, according ...",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/22/us-to-open-two-new-military-bases-in-greenland-sources-say/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 96,
-        "title": "6-year-old sets Rubik’s Cube world record",
-        "summary": "Lian Yunzhi of China solved five Rubik’s Cubes in an average of 4.27 seconds at a World Cube Association-certified compe...",
-        "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/24/6-year-old-sets-rubiks-cube-world-record/",
-        "timestamp": "01:42 UTC"
+        "title": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
+        "summary": "The United States is watching China’s presence in its Arctic zone “very closely” amid increasing concerns, a senior U.S. Arctic mi...",
+        "category": "DEFENSE",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 97,
-        "title": "To answer far-right surge, Mamdani and Spain’s Sánchez forge global left-wing ties",
-        "summary": "Some U.S. Democrats are seeking out like-minded counterparts abroad in their struggle to counter right-wing populism.",
+        "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
+        "summary": "No summary provided by source.",
         "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/23/answer-far-right-surge-mamdani-spains-snchez-forge-global-left-wing-ties/",
-        "timestamp": "01:42 UTC"
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 98,
-        "title": "Another U.S. service member dies amid Iran war, Pentagon tally shows",
-        "summary": "The Defense Department’s disclosed total stands at 19 fatalities, though U.S. officials say the actual number is higher.",
+        "title": "Era of pure crypto exchanges is ending, Bybit CEO says",
+        "summary": "No summary provided by source.",
         "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/",
-        "timestamp": "01:42 UTC"
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 99,
-        "title": "Victories by far left and far right show Germans sick of politics as usual",
-        "summary": "In a striking show of antiestablishment voter sentiment, the Left won in Berlin on the same night that the far-right Alt...",
+        "title": "EU banking watchdog calls for crypto lending rules under MiCA",
+        "summary": "No summary provided by source.",
         "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/22/victories-by-far-left-far-right-show-germans-sick-politics-usual/",
-        "timestamp": "01:42 UTC"
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 100,
-        "title": "U.S. and Iran had ‘very good meeting’ over ongoing war, Trump says",
-        "summary": "The United States and Iran held a rare three-hour meeting in New York to discuss ending the war between the two countrie...",
+        "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
+        "summary": "No summary provided by source.",
         "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/09/22/us-iran-had-very-good-meeting-over-ongoing-war-trump-says/",
-        "timestamp": "01:42 UTC"
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 101,
-        "title": "Man charged over Rwanda genocide in first for U.K.",
-        "summary": "Vincent Brown stands accused of aiding in genocide and crimes against humanity during the paroxysm of violence in his na...",
+        "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
+        "summary": "No summary provided by source.",
         "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/22/man-charged-over-rwanda-genocide-first-uk/",
-        "timestamp": "01:42 UTC"
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 102,
-        "title": "‘Shame on you,’ Netanyahu says of Mamdani ahead of trip to NYC",
-        "summary": "The Israeli leader’s appearance at the U.N. General Assembly this week will be his first time in New York since the mayo...",
+        "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+        "summary": "No summary provided by source.",
         "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/22/shame-you-netanyahu-says-mamdani-ahead-trip-nyc/",
-        "timestamp": "01:42 UTC"
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 103,
-        "title": "E.U. drops sanctions on two of Russia’s richest oligarchs despite Kyiv’s outcry",
-        "summary": "The decision lifts measures targeting billionaire Alisher Usmanov, whom the E.U. once referred to as “one of Vladimir Pu...",
+        "title": "Australia says OpenAI agent hacked government site before Altman warning",
+        "summary": "No summary provided by source.",
         "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/22/france-pushes-end-sanctions-alisher-usmanov-oligarch-tied-putin/",
-        "timestamp": "01:42 UTC"
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
         "id": 104,
-        "title": "Trump pledges to open new Arctic military bases as he signs Greenland deal",
-        "summary": "The security agreement gives the president and the Republican Party a foreign policy win heading into the midterm electi...",
-        "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/national-security/2026/09/22/trump-pledges-open-new-arctic-military-bases-he-signs-greenland-deal/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 105,
-        "title": "Trump to address U.N., sign Greenland deal as annual session opens",
-        "summary": "President Donald Trump is due to sign off on a new security arrangement with Denmark and Greenland, as well as meet lead...",
-        "category": "MARKETS",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/09/23/un-general-assembly-set-open-new-york-amid-wars-iran-ukraine/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 106,
-        "title": "'Cyclone Arnab' Has Taken Social Media By Storm, And Yet It Does Not Even Exist: Here's Why",
-        "summary": "According to official classifications from the India Meteorological Department (IMD), no storm named Cyclone Arnab actua...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/india/cyclone-arnab-has-taken-social-media-by-storm-and-yet-it-does-not-even-exist-heres-why-ws-brt-10349626.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 107,
-        "title": "Minor Girl Raped In Delhi Days After Aastha Kunj Park Gangrape Horror",
-        "summary": "The accused allegedly took the minor to the hotel on the pretext of their friendship and raped her there, the police sai...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/cities/new-delhi-news/minor-girl-raped-in-delhi-days-after-aastha-kunj-park-gangrape-horror-10349320.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 108,
-        "title": "Rajasthan Conversion Row: FIR Against 16 Over Alleged ₹1 Lakh Inducement & Pressure | #rawreport",
-        "summary": "An FIR has been registered against 16 named individuals in Banswara, Rajasthan, following allegations of religious conve...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/videos/india/rajasthan-conversion-row-fir-against-16-over-alleged-1-lakh-inducement-pressure-rawreport-10349349.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 109,
-        "title": "Speeding WagonR Turns Turtle Near Shakti Nagar, Passenger Flung Out | Video",
-        "summary": "A speeding WagonR overturned near Delhi’s Shakti Nagar after hitting a divider while avoiding an e-rickshaw. A rear pass...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/cities/new-delhi-news/speeding-wagonr-turns-turtle-near-shakti-nagar-passenger-flung-out-video-ws-l-10349255.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 110,
-        "title": "‘Ensure Transparency, Accountability, Efficiency In Governance’: PM Modi To Ministers At Chintan Shivir",
-        "summary": "PM Modi told ministers to drive government schemes forward with a focus on ‘Jan Vishwas’ and ‘Jan Bhagidari’ to achieve ...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/india/ensure-transparency-accountability-efficiency-in-governance-pm-modi-to-ministers-at-chintan-shivir-10349194.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 111,
-        "title": "Tripura TTADC Group A, B Employees’ Salaries On Hold, CEO Won’t Get Pay Until Matter Resolved",
-        "summary": "The High Court passed the order on Sept 9 after a TTAADC employee approached it claiming that he had not received retire...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/india/tripura-ttadc-group-a-b-employees-salaries-on-hold-ceo-wont-get-pay-until-matter-resolved-10349078.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 112,
-        "title": "Relief For Noida DM Medha Roopam As SC Stays Allahabad HC’s ₹5 Lakh Pay Order",
-        "summary": "On September 2, the HC quashed the detention of Akriti Chaudhary, who was taken into custody under the NSA in connection...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/india/relief-for-noida-dm-medha-roopam-as-sc-stays-allahabad-hcs-5-lakh-pay-order-ws-l-10349197.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 113,
-        "title": "‘No Drama, No Altercation’: CCTV Video Shows IIT-Bombay's Sahil Wakode Caught Cheating During Exam",
-        "summary": "A CCTV footage from a classroom at IIT-Bombay appears to show student Sahil Wakode looking at a device concealed beneath...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/videos/india/no-drama-no-altercation-cctv-video-shows-iit-bombay-s-sahil-wakode-caught-cheating-during-exam-10349204.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 114,
-        "title": "Bengal Govt Employees To Get October Salary, Enhanced DA In Advance Ahead Of Festive Season",
-        "summary": "The October salary along with the enhanced DA will be credited to the salary accounts of the government employees on Oct...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/india/bengal-govt-employees-to-get-october-salary-enhanced-da-in-advance-ahead-of-festive-season-ws-l-10349114.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 115,
-        "title": "Election Commission Row: 2 ECs Raised 14 Objections Over SIR | What Happened? | Brass Tacks",
-        "summary": "The Election Commission of India is facing a major controversy after a report said Election Commissioners Sukhbir Singh ...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/videos/india/election-commission-row-2-ecs-raised-14-objections-over-sir-what-happened-brass-tacks-10349142.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 116,
-        "title": "IIT Bombay Alumni Defends Professor Doolla: ‘Why Has He Been Made A Scapegoat?’ | Sharad Kumar Saraf",
-        "summary": "IIT Bombay's ex-chairperson Saraf defends Professor Doolla amid allegations of caste discrimination, claiming the accusa...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/videos/india/iit-bombay-alumni-defends-professor-doolla-why-has-he-been-made-a-scapegoat-sharad-kumar-saraf-10349140.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 117,
-        "title": "Sahil Wakode Caught Cheating ON CAM | Footage From IIT-B Examination Hall Shows Sahil-Doolla Talk",
-        "summary": "Exclusive CCTV footage from the IIT Bombay examination hall shows Sahil Wakode using a mobile phone during the exam and ...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/videos/india/sahil-wakode-caught-cheating-on-cam-footage-from-iit-b-examination-hall-shows-sahil-doolla-talk-10349143.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 118,
-        "title": "‘No Drama, No Altercation’: Sahil Wakode CCTV Raises Questions Over Caste Bias Charge | IIT Bombay",
-        "summary": "A CCTV footage from a classroom at IIT-Bombay appears to show student Sahil Wakode looking at a device concealed beneath...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/videos/brass-tacks/no-drama-no-altercation-sahil-wakode-cctv-raises-questions-over-caste-bias-charge-iit-bombay-10349121.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 119,
-        "title": "Indian Seafarer Killed After Attack On Commercial Vessel Off Oman Coast, MEA Says 'Deeply Worrisome'",
-        "summary": "India said the continuing incidents of attacks on commercial shipping in the West Asia region are deeply worrisome while...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/india/indian-seafarer-killed-after-attack-on-commercial-vessel-off-oman-coast-mea-says-deeply-worrisome-10349081.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 120,
-        "title": "'Gurugram System Collapses During Rains': SC Says No Such Problem In 'Better-Planned' Greater Noida",
-        "summary": "The SC's made the remarks while hearing a plea challenging the Karnataka High Court order which upheld the state governm...",
-        "category": "MARKETS",
-        "source": "News18",
-        "url": "https://www.news18.com/india/gurugram-system-collapses-during-rains-sc-says-no-such-problem-in-better-planned-greater-noida-ws-l-10349066.html",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 121,
-        "title": "Everything new coming to Meta’s AI agent Muse",
-        "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made on...",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 122,
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 123,
-        "title": "Meta is trying VR glasses (again), this time with more IMAX",
-        "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entert...",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 124,
-        "title": "Meta introduces camera-free AI glasses",
-        "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 125,
-        "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-        "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 126,
-        "title": "Anthropic says its biology lab has already found something big",
-        "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far...",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 127,
-        "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
-        "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 128,
-        "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-        "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 129,
-        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-        "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve wei...",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 130,
-        "title": "Modal Motors is trying to cut China out of electric motors entirely",
-        "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 131,
-        "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-        "summary": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscri...",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 132,
-        "title": "The old cybersecurity model is breaking",
-        "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are ri...",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 133,
-        "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
-        "summary": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which ...",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 134,
-        "title": "ChatGPT mobile app gets voice-based agentic features",
-        "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 135,
-        "title": "Even Americans who use AI every day are worried about it",
-        "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support f...",
-        "category": "MARKETS",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 136,
-        "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
-        "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 137,
-        "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
-        "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 138,
-        "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
-        "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 139,
-        "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
-        "summary": "No summary provided by source.",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
-    },
-    {
-        "id": 140,
         "title": "Here’s what happened in crypto today",
         "summary": "No summary provided by source.",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "timestamp": "12:23 UTC"
     },
     {
-        "id": 141,
-        "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
+        "id": 105,
+        "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
         "summary": "No summary provided by source.",
         "category": "MARKETS",
         "source": "Crypto",
-        "url": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "url": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
-        "id": 142,
-        "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+        "id": 106,
+        "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
         "summary": "No summary provided by source.",
         "category": "MARKETS",
         "source": "Crypto",
-        "url": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "url": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
-        "id": 143,
-        "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
+        "id": 107,
+        "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
         "summary": "No summary provided by source.",
         "category": "MARKETS",
         "source": "Crypto",
-        "url": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "url": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
-        "id": 144,
-        "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+        "id": 108,
+        "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
         "summary": "No summary provided by source.",
         "category": "MARKETS",
         "source": "Crypto",
-        "url": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "url": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "12:23 UTC"
     },
     {
-        "id": 145,
-        "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
-        "summary": "No summary provided by source.",
+        "id": 109,
+        "title": "Everything new coming to Meta’s AI agent Muse",
+        "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing cl...",
         "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+        "timestamp": "12:23 UTC"
     },
     {
-        "id": 146,
-        "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-        "summary": "No summary provided by source.",
+        "id": 110,
+        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
         "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+        "timestamp": "12:23 UTC"
     },
     {
-        "id": 147,
-        "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
-        "summary": "No summary provided by source.",
+        "id": 111,
+        "title": "Meta is trying VR glasses (again), this time with more IMAX",
+        "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment op...",
         "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+        "timestamp": "12:23 UTC"
     },
     {
-        "id": 148,
-        "title": "Winners and losers of the SEC’s new tokenized stocks rules",
-        "summary": "No summary provided by source.",
+        "id": 112,
+        "title": "Meta introduces camera-free AI glasses",
+        "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
         "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+        "timestamp": "12:23 UTC"
     },
     {
-        "id": 149,
-        "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
-        "summary": "No summary provided by source.",
+        "id": 113,
+        "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+        "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
         "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+        "timestamp": "12:23 UTC"
     },
     {
-        "id": 150,
-        "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
-        "summary": "No summary provided by source.",
+        "id": 114,
+        "title": "Anthropic says its biology lab has already found something big",
+        "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the l...",
         "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "01:42 UTC"
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 115,
+        "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+        "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 116,
+        "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+        "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 117,
+        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+        "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss a...",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 118,
+        "title": "Modal Motors is trying to cut China out of electric motors entirely",
+        "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 119,
+        "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
+        "summary": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription pric...",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 120,
+        "title": "The old cybersecurity model is breaking",
+        "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or t...",
+        "category": "MARKETS",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 121,
+        "title": "Nokia Design Archive (2025)",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://nokiadesignarchive.aalto.fi/index.html",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 122,
+        "title": "Linux support is coming to Snapdragon X2 Series",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 123,
+        "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 124,
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 125,
+        "title": "Ideas on modernizing the open-source desktop",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 126,
+        "title": "RAM: the forgotten history (2024)",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 127,
+        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 128,
+        "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 129,
+        "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 130,
+        "title": "VSCode's SSH Agent Is Bananas (2025)",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://fly.io/blog/vscode-ssh-wtf/",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 131,
+        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://transluce.org/agent-activity",
+        "timestamp": "12:23 UTC"
+    },
+    {
+        "id": 132,
+        "title": "Contrastive Language Models",
+        "summary": "No summary provided by source.",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://contrastive-lm.notion.site/",
+        "timestamp": "12:23 UTC"
     }
 ]

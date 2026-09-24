@@ -2,28 +2,28 @@ import feedparser
 import json
 from datetime import datetime
 
-# Expanded list combining Tech, AI, and major Global/Indian news outlets
+# Heavily shifted focus to Global, Indian Domestic, and Defense news.
 FEEDS = [
-    # TECH & SYS
-    {"url": "https://news.ycombinator.com/rss", "category": "TECH", "source": "Hacker News"},
-    {"url": "https://www.reddit.com/r/technology/top/.rss?t=day", "category": "TECH", "source": "r/Technology"},
-    {"url": "https://www.theverge.com/rss/index.xml", "category": "TECH", "source": "The Verge"},
+    # GLOBAL NEWS
+    {"url": "https://www.rt.com/rss/news/", "category": "GLOBAL", "source": "RT News"},
+    {"url": "https://feeds.washingtonpost.com/rss/world", "category": "GLOBAL", "source": "Washington Post"},
+    {"url": "https://www.aljazeera.com/xml/rss/all.xml", "category": "GLOBAL", "source": "Al Jazeera"},
     
-    # AI & MODELS
-    {"url": "https://hnrss.org/frontpage?q=AI", "category": "AI", "source": "HN Artificial Intelligence"},
-    {"url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day", "category": "AI", "source": "r/MachineLearning"},
+    # INDIA DOMESTIC
+    {"url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms", "category": "INDIA", "source": "Times of India"},
+    {"url": "https://www.news18.com/commonfeeds/v1/eng/rss/india.xml", "category": "INDIA", "source": "News18"},
+    {"url": "https://feeds.feedburner.com/ndtvnews-india-news", "category": "INDIA", "source": "NDTV India"},
     
-    # OPEN SOURCE & DEV
-    {"url": "https://hnrss.org/newest?q=Python", "category": "DEV", "source": "Python News"},
-    {"url": "https://github.blog/all.atom", "category": "DEV", "source": "GitHub Blog"},
-    {"url": "https://dev.to/feed", "category": "DEV", "source": "DEV Community"},
+    # DEFENSE & MILITARY
+    {"url": "https://breakingdefense.com/feed/", "category": "DEFENSE", "source": "Breaking Defense"},
+    {"url": "https://www.defensenews.com/arc/outboundfeeds/rss/category/global/", "category": "DEFENSE", "source": "Defense News"},
     
-    # GLOBAL & MARKETS (Tech + News Outlets)
-    {"url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms", "category": "MARKETS", "source": "Times of India"},
-    {"url": "https://feeds.washingtonpost.com/rss/world", "category": "MARKETS", "source": "Washington Post"},
-    {"url": "https://www.news18.com/commonfeeds/v1/eng/rss/india.xml", "category": "MARKETS", "source": "News18"},
+    # MARKETS & ECONOMY
+    {"url": "https://cointelegraph.com/rss", "category": "MARKETS", "source": "Crypto"},
     {"url": "https://techcrunch.com/feed/", "category": "MARKETS", "source": "TechCrunch"},
-    {"url": "https://cointelegraph.com/rss", "category": "MARKETS", "source": "Crypto"}
+    
+    # TECH & AI (Reduced footprint)
+    {"url": "https://news.ycombinator.com/rss", "category": "TECH", "source": "Hacker News"}
 ]
 
 def fetch_trends():
@@ -32,17 +32,15 @@ def fetch_trends():
     
     for feed in FEEDS:
         try:
-            # Parse the RSS feed
             parsed = feedparser.parse(feed["url"])
             
-            # Pulls up to 15 top stories per feed
-            for entry in parsed.entries[:15]: 
-                # Clean up the summary text
+            # Pulling up to 12 top stories per feed to keep the dashboard packed
+            for entry in parsed.entries[:12]: 
                 summary = entry.get("summary", "")
-                if "<" in summary: # Strip basic HTML tags if present
+                if "<" in summary: 
                     summary = summary.split("<")[0]
-                if len(summary) > 120:
-                    summary = summary[:120] + "..."
+                if len(summary) > 130:
+                    summary = summary[:130] + "..."
                     
                 trends.append({
                     "id": id_counter,
@@ -58,7 +56,6 @@ def fetch_trends():
         except Exception as e:
             print(f"Skipping feed {feed['source']} due to error: {e}")
             
-    # Overwrite the whiteboard file (trends.json) with UTF-8 encoding for international characters
     with open("trends.json", "w", encoding="utf-8") as f:
         json.dump(trends, f, indent=4, ensure_ascii=False)
     print(f"Successfully harvested {len(trends)} signals.")

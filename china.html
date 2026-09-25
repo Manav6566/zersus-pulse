@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZERSUS PULSE // DRAGON STATION</title>
+    
+    <!-- Three.js for Particle Field -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        tech: ['Space Grotesk', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        brand: {
+                            DEFAULT: '#39FF14', // OpenClaw Cyber Neon
+                            glow: 'rgba(57, 255, 20, 0.4)',
+                            dark: '#05070a',
+                            surface: '#0a0d14',
+                            card: '#0e121c',
+                            border: '#1b2234'
+                        }
+                    },
+                    boxShadow: {
+                        'neon': '0 0 15px rgba(57, 255, 20, 0.25), 0 0 30px rgba(57, 255, 20, 0.1)',
+                        'neon-strong': '0 0 20px rgba(57, 255, 20, 0.5), 0 0 40px rgba(57, 255, 20, 0.25)',
+                    },
+                    animation: {
+                        'fade-in-up': 'fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards',
+                        'pulse-slow': 'pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                        'marquee': 'marquee 35s linear infinite',
+                        'reaction-like': 'reactionPop 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275)',
+                        'reaction-dislike': 'reactionDrop 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275)',
+                    },
+                    keyframes: {
+                        fadeInUp: {
+                            '0%': { opacity: '0', transform: 'translateY(16px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' },
+                        },
+                        marquee: {
+                            '0%': { transform: 'translateX(0%)' },
+                            '100%': { transform: 'translateX(-50%)' },
+                        },
+                        reactionPop: {
+                            '0%': { transform: 'scale(1)' },
+                            '50%': { transform: 'scale(1.4) rotate(-15deg)' },
+                            '100%': { transform: 'scale(1) rotate(0)' },
+                        },
+                        reactionDrop: {
+                            '0%': { transform: 'scale(1)' },
+                            '50%': { transform: 'scale(1.4) rotate(15deg)' },
+                            '100%': { transform: 'scale(1) rotate(0)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        body { background-color: #05070a; color: #f3f4f6; overflow-x: hidden; }
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #05070a; }
+        ::-webkit-scrollbar-thumb { background: #1b2234; border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background: #39FF14; }
+        .bg-grid {
+            background-size: 40px 40px;
+            background-image: linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+                              linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+            mask-image: radial-gradient(circle at center, black 60%, transparent 95%);
+            -webkit-mask-image: radial-gradient(circle at center, black 60%, transparent 95%);
+        }
+        .glow-text { text-shadow: 0 0 12px rgba(57, 255, 20, 0.45); }
+    </style>
+</head>
+<body class="antialiased selection:bg-brand selection:text-black">
+
+    <div id="canvas-container" class="fixed inset-0 pointer-events-none z-0 opacity-40"></div>
+
+    <!-- Navigation Bar -->
+    <nav class="fixed w-full z-50 top-0 bg-[#05070a]/80 backdrop-blur-xl border-b border-brand-border">
+        <div class="max-w-7xl mx-auto px-6 lg:px-8">
+            <div class="flex items-center justify-between h-20">
+                
+                <div class="flex items-center gap-3">
+                    <div class="w-3 h-3 rounded-full bg-brand shadow-neon animate-pulse"></div>
+                    <a href="#" class="font-tech text-2xl font-bold tracking-tight text-white flex items-center gap-1.5">
+                        ZERSUS <span class="text-brand text-xs font-mono px-2 py-0.5 rounded bg-brand/10 border border-brand/20">[DRAGON_STATION]</span>
+                    </a>
+                </div>
+
+                <div class="flex items-center gap-3">
+                    <a href="index.html" class="flex items-center gap-2 border border-brand/40 text-brand hover:bg-brand hover:text-black px-4 py-2 rounded-lg text-xs font-mono font-bold transition-all shadow-neon hover:shadow-neon-strong mr-2">
+                        ← GLOBAL FEED
+                    </a>
+                    <button id="manual-refresh-btn" class="flex items-center gap-2 border border-brand/40 text-brand hover:bg-brand hover:text-black px-4 py-2 rounded-lg text-xs font-mono font-bold transition-all shadow-neon hover:shadow-neon-strong">
+                        <svg id="refresh-icon" class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
+                        </svg>
+                        <span>POLL_NOW</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Live China Markets Ticker Tape -->
+    <div class="fixed w-full z-40 top-20 bg-[#05070a]/90 backdrop-blur-xl border-b border-brand-border overflow-hidden">
+        <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+            {
+            "symbols": [
+                { "proName": "SSE:000001", "title": "SHANGHAI COMP" },
+                { "proName": "SZSE:399001", "title": "SHENZHEN COMP" },
+                { "proName": "HSI:HSI", "title": "HANG SENG" },
+                { "proName": "FX_IDC:USDCNY", "title": "USD/CNY" },
+                { "proName": "NASDAQ:BABA", "title": "ALIBABA" },
+                { "proName": "NASDAQ:BIDU", "title": "BAIDU" }
+            ],
+            "showSymbolLogo": true,
+            "isTransparent": true,
+            "displayMode": "regular",
+            "colorTheme": "dark",
+            "locale": "en"
+            }
+            </script>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="relative z-10 pt-40 pb-10">
+        
+        <!-- Hero & Trend Identifier Section -->
+        <section class="max-w-7xl mx-auto px-6 lg:px-8 pt-8 pb-12">
+            <div class="absolute inset-0 bg-grid -z-10 h-[500px]"></div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch">
+                
+                <div class="lg:col-span-2 flex flex-col justify-center">
+                    <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand/10 border border-brand/20 text-brand text-xs font-mono font-semibold uppercase tracking-wider mb-5 w-max">
+                        <span class="w-1.5 h-1.5 rounded-full bg-brand animate-ping"></span>
+                        SCMP / Regional Synthesis
+                    </div>
+                    
+                    <h1 class="font-tech text-4xl sm:text-6xl font-bold tracking-tight text-white mb-4 leading-tight">
+                        China Intelligence. <br/>
+                        <span class="text-transparent bg-clip-text bg-gradient-to-r from-white via-gray-200 to-brand glow-text">Raw Regional Data.</span>
+                    </h1>
+                    
+                    <p class="text-gray-400 font-sans text-base sm:text-lg max-w-xl font-light mb-6">
+                        Automated monitoring of diplomacy, defense, science, and markets sourced directly from South China Morning Post and mainland indices.
+                    </p>
+                </div>
+
+                <!-- Right: Trend Identifier Terminal -->
+                <div class="bg-brand-surface/90 border border-brand-border rounded-2xl p-6 backdrop-blur-xl shadow-2xl flex flex-col justify-between">
+                    <div>
+                        <div class="flex items-center justify-between border-b border-brand-border pb-3 mb-4">
+                            <div class="flex items-center gap-2">
+                                <span class="w-2.5 h-2.5 rounded-full bg-red-500 animate-pulse"></span>
+                                <span class="text-xs font-mono text-gray-400">trend_identifier.sys</span>
+                            </div>
+                            <span class="text-[10px] font-mono text-red-500 bg-red-500/10 border border-red-500/30 px-2 py-0.5 rounded">SINA WEIBO / NEWS SCRAPE</span>
+                        </div>
+                        
+                        <!-- Dynamic Social Pulse injected via JS -->
+                        <div class="mb-5">
+                            <div class="text-[10px] text-gray-500 font-mono mb-2">HOT TREND KEYWORDS</div>
+                            <div id="social-pulse-tags" class="flex flex-wrap gap-2">
+                                <span class="text-xs font-mono text-gray-500">Awaiting payload...</span>
+                            </div>
+                        </div>
+
+                        <!-- Daily Figurements -->
+                        <div class="grid grid-cols-2 gap-3 text-xs font-mono border-t border-brand-border/60 pt-4">
+                            <div>
+                                <div class="text-gray-500 text-[10px]">WEIBO VOL</div>
+                                <div id="fig-weibo" class="text-white mt-1">--</div>
+                            </div>
+                            <div>
+                                <div class="text-gray-500 text-[10px]">SENTIMENT</div>
+                                <div id="fig-sentiment" class="text-brand mt-1">--</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Dashboard Filter & Search Bar -->
+        <section class="max-w-7xl mx-auto px-6 lg:px-8 mt-4 mb-8">
+            <div class="flex flex-col md:flex-row gap-4 items-center justify-between">
+                
+                <!-- Category Buttons (China Specific) -->
+                <div class="flex flex-wrap gap-2 w-full md:w-auto" id="category-filters">
+                    <button class="filter-btn active bg-brand text-black font-mono text-xs font-bold px-4 py-2 rounded-lg border border-brand transition-all" data-category="ALL">ALL SIGNALS</button>
+                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="DIPLOMACY">DIPLOMACY</button>
+                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="DEFENCE">DEFENCE</button>
+                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="SCIENCE">SCIENCE & TECH</button>
+                    <button class="filter-btn bg-brand-surface text-gray-400 hover:text-white font-mono text-xs px-4 py-2 rounded-lg border border-brand-border hover:border-brand/50 transition-all" data-category="MARKETS">MARKETS</button>
+                </div>
+
+                <div class="relative w-full md:w-80">
+                    <input type="text" id="feed-search" placeholder="Search today's stream..." 
+                        class="w-full bg-brand-surface border border-brand-border rounded-lg pl-10 pr-4 py-2 text-xs font-mono text-white placeholder-gray-500 focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand transition-all">
+                    <svg class="w-4 h-4 text-gray-500 absolute left-3.5 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+                    </svg>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Main Trend Feed Grid -->
+        <section class="max-w-7xl mx-auto px-6 lg:px-8">
+            <div id="trends-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+            <div id="empty-state" class="hidden text-center py-20">
+                <div class="w-12 h-12 rounded-full border border-brand/30 flex items-center justify-center mx-auto mb-4 text-brand font-mono">0</div>
+                <h3 class="font-tech text-lg text-white font-semibold mb-2">No Matching Signals Found</h3>
+                <p class="text-gray-500 text-xs font-mono">Try adjusting your query or category filter.</p>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-[#05070a] py-10 border-t border-brand-border relative z-10">
+        <div class="max-w-7xl mx-auto px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4">
+            <div class="flex items-center gap-3">
+                <div class="w-2 h-2 rounded-full bg-brand"></div>
+                <span class="font-tech font-bold text-lg tracking-tight text-white">ZERSUS PULSE</span>
+                <span class="text-xs font-mono text-gray-600">| AUTOMATED EPHEMERAL WIRE</span>
+            </div>
+            <p class="text-gray-500 text-xs font-mono">© 2026 Manav Vaghela. All data wiped 24 hours post-deployment.</p>
+        </div>
+    </footer>
+
+    <div id="toastContainer" class="fixed bottom-5 right-5 z-50 flex flex-col gap-2"></div>
+
+    <script>
+        // --- Three.js Background ---
+        const container = document.getElementById('canvas-container');
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        camera.position.z = 120;
+        const renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.setPixelRatio(window.devicePixelRatio);
+        container.appendChild(renderer.domElement);
+        let particles;
+        function initNetwork() {
+            if (particles) scene.remove(particles);
+            const geometry = new THREE.BufferGeometry();
+            const vertices = [];
+            for (let i = 0; i < 350; i++) {
+                vertices.push(
+                    THREE.MathUtils.randFloatSpread(500),
+                    THREE.MathUtils.randFloatSpread(500),
+                    THREE.MathUtils.randFloatSpread(500)
+                );
+            }
+            geometry.setAttribute('position', new THREE.Float32BufferAttribute(vertices, 3));
+            const material = new THREE.PointsMaterial({ color: 0x39FF14, size: 1.5, transparent: true, opacity: 0.35 });
+            particles = new THREE.Points(geometry, material);
+            scene.add(particles);
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        }
+        function drawNetwork() {
+            requestAnimationFrame(drawNetwork);
+            if (particles) { particles.rotation.x += 0.0002; particles.rotation.y += 0.0004; }
+            renderer.render(scene, camera);
+        }
+        window.addEventListener('resize', initNetwork);
+        initNetwork(); drawNetwork();
+
+        // --- Fetch Trend Identifier (Social Pulse) ---
+        async function fetchTrendIdentifier() {
+            try {
+                const res = await fetch('china_pulse.json', { cache: 'no-store' });
+                if (res.ok) {
+                    const data = await res.json();
+                    
+                    const tagsContainer = document.getElementById('social-pulse-tags');
+                    tagsContainer.innerHTML = '';
+                    data.social_pulse.forEach(word => {
+                        tagsContainer.innerHTML += `<span class="px-2 py-1 bg-brand/10 text-brand border border-brand/20 rounded text-[10px] uppercase font-bold tracking-wider">${word}</span>`;
+                    });
+
+                    document.getElementById('fig-weibo').innerText = data.daily_figurements.weibo_activity;
+                    
+                    const sentEl = document.getElementById('fig-sentiment');
+                    sentEl.innerText = data.daily_figurements.market_sentiment;
+                    if(data.daily_figurements.market_sentiment === 'CAUTIOUS' || data.daily_figurements.market_sentiment === 'NEGATIVE') {
+                        sentEl.className = 'text-red-500 mt-1';
+                    } else {
+                        sentEl.className = 'text-brand mt-1';
+                    }
+                }
+            } catch (err) {
+                console.log("Trend Identifier data offline.");
+            }
+        }
+
+        // --- Fetch & Render China Feed Data ---
+        let activeTrends = [];
+        let currentFilter = 'ALL';
+        let searchQuery = '';
+
+        async function fetchTrendData() {
+            const refreshIcon = document.getElementById('refresh-icon');
+            refreshIcon.classList.add('animate-spin');
+            
+            // Fetch the pulse widget simultaneously
+            fetchTrendIdentifier();
+
+            try {
+                const response = await fetch('china_trends.json', { cache: 'no-store' });
+                if (response.ok) {
+                    activeTrends = await response.json();
+                    showToast('Dragon Station intelligence loaded.', 'success');
+                }
+            } catch (err) {
+                console.log('Using fallback China data');
+                activeTrends = []; // You can add hardcoded fallback here if desired
+            } finally {
+                refreshIcon.classList.remove('animate-spin');
+                renderTrends();
+            }
+        }
+
+        function renderTrends() {
+            const grid = document.getElementById('trends-grid');
+            const emptyState = document.getElementById('empty-state');
+            grid.innerHTML = '';
+
+            const filtered = activeTrends.filter(item => {
+                const matchesCategory = (currentFilter === 'ALL') || (item.category.toUpperCase() === currentFilter);
+                const matchesSearch = item.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
+                                      item.summary.toLowerCase().includes(searchQuery.toLowerCase());
+                return matchesCategory && matchesSearch;
+            });
+
+            if (filtered.length === 0) {
+                emptyState.classList.remove('hidden');
+                return;
+            } else {
+                emptyState.classList.add('hidden');
+            }
+
+            filtered.forEach((item, index) => {
+                const delay = (index * 0.05).toFixed(2);
+                const card = document.createElement('div');
+                card.className = "bg-[#0e121c] border border-brand-border rounded-xl p-6 hover:border-brand/60 transition-all duration-300 hover:-translate-y-1 hover:shadow-neon group flex flex-col justify-between opacity-0 animate-fade-in-up";
+                card.style.animationDelay = `${delay}s`;
+
+                card.innerHTML = `
+                    <div>
+                        <div class="flex items-center justify-between mb-4">
+                            <span class="text-[10px] font-mono font-bold tracking-wider px-2.5 py-1 rounded bg-brand/10 border border-brand/20 text-brand uppercase">
+                                ${item.category}
+                            </span>
+                            <div class="flex items-center gap-2 text-gray-500 font-mono text-[11px]">
+                                <span class="w-1.5 h-1.5 rounded-full bg-brand/60"></span>
+                                <span>${item.timestamp}</span>
+                            </div>
+                        </div>
+
+                        <h3 class="font-tech text-lg font-bold text-white group-hover:text-brand transition-colors mb-2 leading-snug">
+                            <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+                        </h3>
+
+                        <p class="text-gray-400 text-xs font-sans font-light leading-relaxed mb-6">
+                            ${item.summary}
+                        </p>
+                    </div>
+
+                    <div class="pt-4 border-t border-brand-border/60 flex items-center justify-between text-xs font-mono">
+                        <span class="text-gray-500 truncate w-1/3">${item.source}</span>
+                        
+                        <div class="flex items-center gap-3 justify-center w-1/3">
+                            <button onclick="toggleReaction(${item.id}, 'like')" id="btn-like-${item.id}" class="relative p-2 rounded-full hover:bg-brand/10 transition-colors duration-300 flex items-center justify-center focus:outline-none group">
+                                <svg id="icon-like-${item.id}" class="w-4 h-4 text-gray-500 group-hover:text-brand transition-all duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10h4.764a2 2 0 011.789 2.894l-3.5 7A2 2 0 0115.263 21h-4.017c-.163 0-.326-.02-.485-.06L7 20m7-10V5a2 2 0 00-2-2h-.095c-.5 0-.905.405-.905.905 0 .714-.211 1.412-.608 2.006L7 11v9m7-10h-2M7 20H5a2 2 0 01-2-2v-6a2 2 0 012-2h2.5"></path></svg>
+                            </button>
+                            <button onclick="toggleReaction(${item.id}, 'dislike')" id="btn-dislike-${item.id}" class="relative p-2 rounded-full hover:bg-red-500/10 transition-colors duration-300 flex items-center justify-center focus:outline-none group">
+                                <svg id="icon-dislike-${item.id}" class="w-4 h-4 text-gray-500 group-hover:text-red-500 transition-all duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5"></path></svg>
+                            </button>
+                        </div>
+
+                        <div class="w-1/3 flex justify-end">
+                            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="text-brand inline-flex items-center gap-1 hover:underline">
+                                Read Wire 
+                                <svg class="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+
+            applySavedReactions();
+        }
+
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                document.querySelectorAll('.filter-btn').forEach(b => {
+                    b.classList.remove('active', 'bg-brand', 'text-black', 'font-bold');
+                    b.classList.add('bg-brand-surface', 'text-gray-400');
+                });
+                btn.classList.add('active', 'bg-brand', 'text-black', 'font-bold');
+                btn.classList.remove('bg-brand-surface', 'text-gray-400');
+                currentFilter = btn.dataset.category;
+                renderTrends();
+            });
+        });
+
+        document.getElementById('feed-search').addEventListener('input', (e) => {
+            searchQuery = e.target.value.trim();
+            renderTrends();
+        });
+
+        document.getElementById('manual-refresh-btn').addEventListener('click', () => {
+            fetchTrendData();
+        });
+
+        function showToast(message, type = 'success') {
+            const container = document.getElementById('toastContainer');
+            const toast = document.createElement('div');
+            toast.className = `min-w-[280px] px-4 py-3 rounded-lg shadow-2xl transition-all duration-300 transform translate-y-10 opacity-0 flex items-center gap-2.5 font-mono text-xs border ${
+                type === 'success' ? 'bg-[#0a0d14] border-brand text-white' : 'bg-[#0a0d14] border-red-500 text-white'
+            }`;
+            toast.innerHTML = `<span class="w-2 h-2 rounded-full ${type === 'success' ? 'bg-brand' : 'bg-red-500'}"></span> <span>${message}</span>`;
+            container.appendChild(toast);
+            requestAnimationFrame(() => toast.classList.remove('translate-y-10', 'opacity-0'));
+            setTimeout(() => {
+                toast.classList.add('opacity-0', 'translate-y-2');
+                setTimeout(() => toast.remove(), 300);
+            }, 3500);
+        }
+
+        // --- Personal Reaction Engine (Local Memory with 24H Reset) ---
+        function getReactionsMemory() {
+            let memory = JSON.parse(localStorage.getItem('zersus_china_reactions'));
+            const today = new Date().toISOString().split('T')[0];
+            
+            if (!memory || memory.date !== today) {
+                return { date: today, data: {} };
+            }
+            return memory;
+        }
+
+        function toggleReaction(articleId, type) {
+            let memory = getReactionsMemory();
+            
+            if (memory.data[articleId] === type) {
+                delete memory.data[articleId];
+            } else {
+                memory.data[articleId] = type;
+            }
+
+            localStorage.setItem('zersus_china_reactions', JSON.stringify(memory));
+            updateReactionUI(articleId, memory.data[articleId], true);
+        }
+
+        function updateReactionUI(articleId, state, isUserClick = false) {
+            const likeIcon = document.getElementById(`icon-like-${articleId}`);
+            const dislikeIcon = document.getElementById(`icon-dislike-${articleId}`);
+            
+            if (!likeIcon || !dislikeIcon) return;
+
+            likeIcon.classList.remove('text-brand', 'fill-brand/40', 'drop-shadow-[0_0_8px_rgba(57,255,20,0.8)]', 'animate-reaction-like');
+            likeIcon.classList.add('text-gray-500');
+            
+            dislikeIcon.classList.remove('text-red-500', 'fill-red-500/40', 'drop-shadow-[0_0_8px_rgba(239,68,68,0.8)]', 'animate-reaction-dislike');
+            dislikeIcon.classList.add('text-gray-500');
+            
+            if (state === 'like') {
+                likeIcon.classList.remove('text-gray-500');
+                likeIcon.classList.add('text-brand', 'fill-brand/40', 'drop-shadow-[0_0_8px_rgba(57,255,20,0.8)]');
+                if (isUserClick) {
+                    void likeIcon.offsetWidth; 
+                    likeIcon.classList.add('animate-reaction-like');
+                }
+            } else if (state === 'dislike') {
+                dislikeIcon.classList.remove('text-gray-500');
+                dislikeIcon.classList.add('text-red-500', 'fill-red-500/40', 'drop-shadow-[0_0_8px_rgba(239,68,68,0.8)]');
+                if (isUserClick) {
+                    void dislikeIcon.offsetWidth; 
+                    dislikeIcon.classList.add('animate-reaction-dislike');
+                }
+            }
+        }
+
+        function applySavedReactions() {
+            let memory = getReactionsMemory();
+            localStorage.setItem('zersus_china_reactions', JSON.stringify(memory));
+
+            Object.keys(memory.data).forEach(articleId => {
+                updateReactionUI(articleId, memory.data[articleId], false);
+            });
+        }
+
+        fetchTrendData();
+    </script>
+</body>
+</html>

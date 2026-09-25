@@ -44,6 +44,8 @@
                         'fade-in-up': 'fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards',
                         'pulse-slow': 'pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite',
                         'marquee': 'marquee 35s linear infinite',
+                        'reaction-like': 'reactionPop 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275)',
+                        'reaction-dislike': 'reactionDrop 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275)',
                     },
                     keyframes: {
                         fadeInUp: {
@@ -53,6 +55,16 @@
                         marquee: {
                             '0%': { transform: 'translateX(0%)' },
                             '100%': { transform: 'translateX(-50%)' },
+                        },
+                        reactionPop: {
+                            '0%': { transform: 'scale(1)' },
+                            '50%': { transform: 'scale(1.4) rotate(-15deg)' },
+                            '100%': { transform: 'scale(1) rotate(0)' },
+                        },
+                        reactionDrop: {
+                            '0%': { transform: 'scale(1)' },
+                            '50%': { transform: 'scale(1.4) rotate(15deg)' },
+                            '100%': { transform: 'scale(1) rotate(0)' },
                         }
                     }
                 }
@@ -586,13 +598,13 @@
                         <!-- Left: Source -->
                         <span class="text-gray-500 truncate w-1/3">${item.source}</span>
                         
-                        <!-- Center: Personal Reaction Toggles -->
-                        <div class="flex items-center gap-5 text-gray-600 justify-center w-1/3">
-                            <button onclick="toggleReaction(${item.id}, 'like')" id="btn-like-${item.id}" class="hover:text-brand transition-all duration-300 flex items-center focus:outline-none scale-100 hover:scale-110">
-                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10h4.764a2 2 0 011.789 2.894l-3.5 7A2 2 0 0115.263 21h-4.017c-.163 0-.326-.02-.485-.06L7 20m7-10V5a2 2 0 00-2-2h-.095c-.5 0-.905.405-.905.905 0 .714-.211 1.412-.608 2.006L7 11v9m7-10h-2M7 20H5a2 2 0 01-2-2v-6a2 2 0 012-2h2.5"></path></svg>
+                        <!-- Center: Dynamic Reaction Toggles with Hit-boxes -->
+                        <div class="flex items-center gap-3 justify-center w-1/3">
+                            <button onclick="toggleReaction(${item.id}, 'like')" id="btn-like-${item.id}" class="relative p-2 rounded-full hover:bg-brand/10 transition-colors duration-300 flex items-center justify-center focus:outline-none group">
+                                <svg id="icon-like-${item.id}" class="w-4 h-4 text-gray-500 group-hover:text-brand transition-all duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10h4.764a2 2 0 011.789 2.894l-3.5 7A2 2 0 0115.263 21h-4.017c-.163 0-.326-.02-.485-.06L7 20m7-10V5a2 2 0 00-2-2h-.095c-.5 0-.905.405-.905.905 0 .714-.211 1.412-.608 2.006L7 11v9m7-10h-2M7 20H5a2 2 0 01-2-2v-6a2 2 0 012-2h2.5"></path></svg>
                             </button>
-                            <button onclick="toggleReaction(${item.id}, 'dislike')" id="btn-dislike-${item.id}" class="hover:text-red-500 transition-all duration-300 flex items-center focus:outline-none scale-100 hover:scale-110">
-                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5"></path></svg>
+                            <button onclick="toggleReaction(${item.id}, 'dislike')" id="btn-dislike-${item.id}" class="relative p-2 rounded-full hover:bg-red-500/10 transition-colors duration-300 flex items-center justify-center focus:outline-none group">
+                                <svg id="icon-dislike-${item.id}" class="w-4 h-4 text-gray-500 group-hover:text-red-500 transition-all duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5"></path></svg>
                             </button>
                         </div>
 
@@ -732,12 +744,11 @@
             }, 3500);
         }
 
-        // --- 11. Personal Reaction Engine (Local Memory with 24H Reset) ---
+        // --- 11. Dynamic Personal Reaction Engine ---
         function getReactionsMemory() {
             let memory = JSON.parse(localStorage.getItem('zersus_personal_reactions'));
-            const today = new Date().toISOString().split('T')[0]; // Current UTC date (e.g., "2026-09-25")
+            const today = new Date().toISOString().split('T')[0];
             
-            // If no memory exists, or if the memory is from a previous day, wipe it clean
             if (!memory || memory.date !== today) {
                 return { date: today, data: {} };
             }
@@ -747,47 +758,56 @@
         function toggleReaction(articleId, type) {
             let memory = getReactionsMemory();
             
-            // Toggle logic: If clicking the active button, remove it. Otherwise, set it.
             if (memory.data[articleId] === type) {
                 delete memory.data[articleId];
             } else {
                 memory.data[articleId] = type;
             }
 
-            // Save back to browser memory
             localStorage.setItem('zersus_personal_reactions', JSON.stringify(memory));
 
-            // Instantly update the colors
-            updateReactionUI(articleId, memory.data[articleId]);
+            // Pass true to trigger the dynamic pop animations
+            updateReactionUI(articleId, memory.data[articleId], true);
         }
 
-        function updateReactionUI(articleId, state) {
-            const likeBtn = document.getElementById(`btn-like-${articleId}`);
-            const dislikeBtn = document.getElementById(`btn-dislike-${articleId}`);
+        function updateReactionUI(articleId, state, isUserClick = false) {
+            const likeIcon = document.getElementById(`icon-like-${articleId}`);
+            const dislikeIcon = document.getElementById(`icon-dislike-${articleId}`);
             
-            if (!likeBtn || !dislikeBtn) return;
+            if (!likeIcon || !dislikeIcon) return;
 
-            // Reset both buttons to default gray
-            likeBtn.classList.remove('text-brand', 'fill-brand/20');
-            dislikeBtn.classList.remove('text-red-500', 'fill-red-500/20');
+            // Reset both icons completely
+            likeIcon.classList.remove('text-brand', 'fill-brand/40', 'drop-shadow-[0_0_8px_rgba(57,255,20,0.8)]', 'animate-reaction-like');
+            likeIcon.classList.add('text-gray-500');
             
-            // Apply cyber neon glow to the active choice
+            dislikeIcon.classList.remove('text-red-500', 'fill-red-500/40', 'drop-shadow-[0_0_8px_rgba(239,68,68,0.8)]', 'animate-reaction-dislike');
+            dislikeIcon.classList.add('text-gray-500');
+            
+            // Apply neon styles and keyframe animations based on state
             if (state === 'like') {
-                likeBtn.classList.add('text-brand', 'fill-brand/20');
+                likeIcon.classList.remove('text-gray-500');
+                likeIcon.classList.add('text-brand', 'fill-brand/40', 'drop-shadow-[0_0_8px_rgba(57,255,20,0.8)]');
+                if (isUserClick) {
+                    void likeIcon.offsetWidth; // Trigger DOM reflow to restart animation
+                    likeIcon.classList.add('animate-reaction-like');
+                }
             } else if (state === 'dislike') {
-                dislikeBtn.classList.add('text-red-500', 'fill-red-500/20');
+                dislikeIcon.classList.remove('text-gray-500');
+                dislikeIcon.classList.add('text-red-500', 'fill-red-500/40', 'drop-shadow-[0_0_8px_rgba(239,68,68,0.8)]');
+                if (isUserClick) {
+                    void dislikeIcon.offsetWidth; // Trigger DOM reflow to restart animation
+                    dislikeIcon.classList.add('animate-reaction-dislike');
+                }
             }
         }
 
-        // Run this function every time the feed loads to restore your saved colors
+        // Restores states on load without triggering the pop animations
         function applySavedReactions() {
             let memory = getReactionsMemory();
-            
-            // Save the potentially reset memory back to storage immediately
             localStorage.setItem('zersus_personal_reactions', JSON.stringify(memory));
 
             Object.keys(memory.data).forEach(articleId => {
-                updateReactionUI(articleId, memory.data[articleId]);
+                updateReactionUI(articleId, memory.data[articleId], false);
             });
         }
 

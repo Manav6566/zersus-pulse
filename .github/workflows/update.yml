@@ -1,11 +1,13 @@
 name: Zersus Data Harvester
 
-# This tells the action to run automatically at midnight UTC, 
-# AND allows you to click the manual "Run workflow" button.
 on:
   schedule:
     - cron: '0 0 * * *' 
   workflow_dispatch: 
+
+# THIS IS THE NEW FIX: It grants the Action permission to save files.
+permissions:
+  contents: write
 
 jobs:
   update-feed:
@@ -31,7 +33,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "Zersus Automated Daemon"
           
-          # Explicitly add all three files so the China dashboard works
           git add trends.json china_trends.json china_pulse.json
           
           git commit -m "CRON: Daily intelligence streams updated" || echo "No changes to commit"

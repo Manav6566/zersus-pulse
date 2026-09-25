@@ -290,7 +290,7 @@
             </div>
         </section>
 
-        <!-- Connect To Zersus Form Section (Updated for Formspree) -->
+        <!-- Connect To Zersus Form Section -->
         <section id="connect" class="max-w-7xl mx-auto px-6 lg:px-8 mt-24 mb-10">
             <div class="mb-10 text-center">
                 <h2 class="font-tech text-3xl md:text-4xl font-bold mb-4">Connect To <span class="text-brand">Zersus</span></h2>
@@ -732,23 +732,33 @@
             }, 3500);
         }
 
-        // --- 11. Personal Reaction Engine (Local Memory) ---
-        function toggleReaction(articleId, type) {
-            // Load memory or start fresh
-            let reactions = JSON.parse(localStorage.getItem('zersus_personal_reactions')) || {};
+        // --- 11. Personal Reaction Engine (Local Memory with 24H Reset) ---
+        function getReactionsMemory() {
+            let memory = JSON.parse(localStorage.getItem('zersus_personal_reactions'));
+            const today = new Date().toISOString().split('T')[0]; // Current UTC date (e.g., "2026-09-25")
             
-            // If clicking the same button twice, remove the reaction. Otherwise, set it.
-            if (reactions[articleId] === type) {
-                delete reactions[articleId];
+            // If no memory exists, or if the memory is from a previous day, wipe it clean
+            if (!memory || memory.date !== today) {
+                return { date: today, data: {} };
+            }
+            return memory;
+        }
+
+        function toggleReaction(articleId, type) {
+            let memory = getReactionsMemory();
+            
+            // Toggle logic: If clicking the active button, remove it. Otherwise, set it.
+            if (memory.data[articleId] === type) {
+                delete memory.data[articleId];
             } else {
-                reactions[articleId] = type;
+                memory.data[articleId] = type;
             }
 
             // Save back to browser memory
-            localStorage.setItem('zersus_personal_reactions', JSON.stringify(reactions));
+            localStorage.setItem('zersus_personal_reactions', JSON.stringify(memory));
 
             // Instantly update the colors
-            updateReactionUI(articleId, reactions[articleId]);
+            updateReactionUI(articleId, memory.data[articleId]);
         }
 
         function updateReactionUI(articleId, state) {
@@ -771,9 +781,13 @@
 
         // Run this function every time the feed loads to restore your saved colors
         function applySavedReactions() {
-            let reactions = JSON.parse(localStorage.getItem('zersus_personal_reactions')) || {};
-            Object.keys(reactions).forEach(articleId => {
-                updateReactionUI(articleId, reactions[articleId]);
+            let memory = getReactionsMemory();
+            
+            // Save the potentially reset memory back to storage immediately
+            localStorage.setItem('zersus_personal_reactions', JSON.stringify(memory));
+
+            Object.keys(memory.data).forEach(articleId => {
+                updateReactionUI(articleId, memory.data[articleId]);
             });
         }
 

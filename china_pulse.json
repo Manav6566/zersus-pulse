@@ -3,8 +3,8 @@
         "TRUMP",
         "INDIA",
         "SUMMIT",
-        "PARTY",
-        "SOUTH",
+        "VISIT",
+        "HAPPENED",
         "AHEAD"
     ],
     "daily_figurements": {
@@ -12,5 +12,5 @@
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "60"
     },
-    "last_updated": "09:04 UTC"
+    "last_updated": "02:05 UTC"
 }

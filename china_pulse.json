@@ -2,15 +2,15 @@
     "social_pulse": [
         "TRUMP",
         "INDIA",
-        "JINPING",
-        "SUMMIT",
+        "TAIWAN",
         "CAPITAL",
-        "CRACKDOWN"
+        "CRACKDOWN",
+        "GLOBAL"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "60"
     },
-    "last_updated": "02:38 UTC"
+    "last_updated": "02:25 UTC"
 }

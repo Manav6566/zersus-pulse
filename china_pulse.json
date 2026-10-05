@@ -4,13 +4,13 @@
         "INDIA",
         "FIRST",
         "TAIWAN",
-        "CAPITAL",
-        "CRACKDOWN"
+        "FACES",
+        "CAPITAL"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "60"
     },
-    "last_updated": "02:54 UTC"
+    "last_updated": "02:27 UTC"
 }

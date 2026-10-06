@@ -1,16 +1,16 @@
 {
     "social_pulse": [
-        "TRUMP",
         "INDIA",
-        "FIRST",
+        "TRUMP",
         "TAIWAN",
-        "FACES",
-        "CAPITAL"
+        "FIRST",
+        "AGAINST",
+        "FACES"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "60"
     },
-    "last_updated": "02:27 UTC"
+    "last_updated": "03:23 UTC"
 }

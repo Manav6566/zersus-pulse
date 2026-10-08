@@ -1,10 +1,10 @@
 {
     "social_pulse": [
         "INDIA",
-        "TRUMP",
         "TAIWAN",
-        "AGAINST",
+        "TRUMP",
         "FIRST",
+        "AGAINST",
         "UKRAINE"
     ],
     "daily_figurements": {
@@ -12,5 +12,5 @@
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "60"
     },
-    "last_updated": "02:46 UTC"
+    "last_updated": "03:04 UTC"
 }

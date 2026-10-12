@@ -1,758 +1,839 @@
 [
     {
         "id": 1,
+        "title": "‘Bandera, get out!’ Protesters demand migration crackdown after Ukrainian kills Polish priest (VIDEO)",
+        "summary": " Protesters in Poland have demanded tighter immigration controls after a Ukrainian national admitted to stabbing a priest at a Jar...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647062-poland-protesters-bandera-priest-killer/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 2,
+        "title": "German opposition demands Trump-style diesel deal with Russia",
+        "summary": " AfD and BSW are pushing for an end to sanctions against Moscow as soaring fuel prices squeeze German consumers Read Full Article ...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647061-germany-opposition-diesel-deal-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 3,
+        "title": "Riyadh airport hit again day after deadly Houthi strike",
+        "summary": " A new attack on Riyadh’s international airport has killed a Pakistani national and injured 11 others, a day after a deadly Houthi...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647055-riyadh-airport-strike-day-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 4,
+        "title": "UK PM consoles Zelensky after Trump calls for his ouster",
+        "summary": " The UK has expressed solidarity with Ukraine’s Vladimir Zelensky after US President Donald Trump called for him to be replaced Re...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647054-uk-pm-zelensky-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 5,
+        "title": "ICC ignored ‘very well-documented’ NATO crimes – ex-Libyan minister",
+        "summary": " The ICC ignored allegations of NATO war crimes in Libya, former Libyan minister Moussa Ibrahim has told RT Read Full Article at R...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647051-icc-nato-war-crimes-ibrahim/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 6,
+        "title": "New floods sweep away buildings in Nepal (VIDEOS)",
+        "summary": " At least five people have been reported missing after flash floods swept away homes and bridges in Nepal’s Gorkha District Read F...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647050-five-missing-nepal-gorkha-floods/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 7,
+        "title": "EU anti-‘disinfo’ effort falls apart after trying to be honest about the US",
+        "summary": " When one panel dared name Washington, Brussels and its allies fled – because it has always been about power, not truth Read Full ...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647052-eu-anti-disinfo-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 8,
+        "title": "Russia and Ukraine agree to energy ceasefire – Trump",
+        "summary": " US President Donald Trump has announced an “immediate” energy ceasefire between Russia and Ukraine Read Full Article at RT.com",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647045-russia-ukraine-energy-ceasefire-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 9,
+        "title": "Ukraine’s ‘secret cargo’ sparks scandal in EU state – media",
+        "summary": " The Austrian opposition demands answers over 200 kg of suspected Ukrainian intelligence cargo transported through the country wit...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647042-ukraine-secret-cargo-scandal-austria/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 10,
+        "title": "Thousands rally in London to halt UK arms sales to Israel (VIDEO)",
+        "summary": " Thousands have marched in London against Israeli genocide of Palestinians, demanding an arms export embargo and boycott of Israel...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647041-thousands-london-pro-palestine-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 11,
+        "title": "‘He was merely a journalist’: Family demands accountability for Palestinian reporter’s death (VIDEO)",
+        "summary": " The family of Gaza journalist Muhammad al-Najjar blames Israel for his death, accusing the military of killing an innocent media ...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647040-gaza-journalist-killed-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 12,
+        "title": "Pentagon raises official US death toll in Iran war",
+        "summary": " The Pentagon raised its Iran war death toll after Secretary of War Pete Hegseth dismissed reports that the official count was inc...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://www.rt.com/news/647039-pentagon-raises-official-us-death/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 13,
+        "title": "Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12",
+        "summary": "More than 300 were injured in Saturday's attack. President Donald Trump said he is weighing joining strikes on the Iranian-backed ...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/10/11/saudi-arabia-vows-retaliation-against-houthis-after-riyadh-airport-strike/",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 14,
+        "title": "Trump’s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad",
+        "summary": "Several Republicans objected to Trump's stance. “I do believe there’s a legitimate case for saying the president’s not following t...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/10/11/trumps-zelensky-attack-russia-diesel-deal-draw-criticism-us-abroad/",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 15,
+        "title": "Pope will have surgery after doctors discover nodule in his lung",
+        "summary": "Pope Leo XIV said that the nodule was “detected at a very early stage and is well localized,” and that the surgery would be in the...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/10/11/pope-will-have-surgery-remove-nodule-his-lung-vatican-says/",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 16,
+        "title": "How Trump aide Natalie Harp’s family broke apart — and polarized",
+        "summary": "After a tragedy, Harp’s brother, Preston, split from the family and “radicalized,” moving to Nicaragua to dedicate himself to the ...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/10/11/how-trump-aide-natalie-harps-family-broke-apart-polarized/",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 17,
         "title": "12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify",
         "summary": "An attack Saturday on the airport left several injured and forced the kingdom to temporarily suspend operations.",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/10/10/saudi-arabia-faces-new-level-peril-houthi-attacks-amid-wider-iran-war/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 2,
+        "id": 18,
+        "title": "Trump says Ukraine should ‘get a new president’ after U.S.-Russia diesel deal",
+        "summary": "Ukraine’s Zelensky \"wants to make problems for the world,\" Trump said Saturday, a day after praising Russia’s Putin.",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/10/10/trump-says-ukraine-should-get-new-president-after-us-russia-diesel-deal/",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 19,
         "title": "Pope criticizes death penalty after Hegseth announces public execution",
         "summary": "Pope Leo XIV called the death penalty “an attack” on human dignity a day after senior Church officials condemned the Pentagon’s pl...",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/10/10/pope-criticizes-death-penalty-us-plans-public-execution-nidal-hasan/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 3,
+        "id": 20,
         "title": "What to know about ‘NAZA,’ a  documentary that looks at Israeli war technology",
         "summary": "Israeli leader Benjamin Netanyahu has described the film, which got a standing ovation at the Venice Film Festival, as part of “gl...",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/entertainment/movies/2026/10/10/what-know-about-naza-documentary-that-looks-israeli-war-technology/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 4,
+        "id": 21,
         "title": "After Russian strike wipes out three families, Ukrainian town gathers to mourn",
         "summary": "In Pryluky’s town square, hundreds gathered around the coffins. Among them were grief-stricken classmates of the children who were...",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/10/10/after-russian-strike-wipes-out-three-families-ukrainian-town-gathers-mourn/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 5,
-        "title": "FlyDubai co-pilot planned 9/11-style attack on Israel’s main airport, UAE says",
-        "summary": "Hamam al-Hammami, a 29-year-old Omani national, intended to cause “the greatest possible number of human casualties,” the Emirati ...",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/10/09/flydubai-co-pilot-planned-911-style-attack-israels-main-airport-uae-says/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 6,
-        "title": "Trump hits International Criminal Court with sanctions after Nobel goes to former judge",
-        "summary": "The sanctions are aimed at cutting the ICC off from the global financial system and include threats of punishment for countries th...",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/10/09/trump-hits-international-criminal-court-with-new-us-sanctions/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 7,
-        "title": "Trump announces diesel deal with Russia in bid to lower prices",
-        "summary": "The amount is small compared with U.S. demand, but the deal aligns the U.S. with Russia and against Ukraine’s efforts to bomb Russ...",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/10/09/trump-says-putin-will-export-diesel-bid-lower-prices/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 8,
-        "title": "Rubio meets with leader of Venezuelan opposition negotiating team",
-        "summary": "The secretary of state, in a meeting with Venezuelan opposition figure Dinorah Figuera, expressed U.S. support for talks meant to ...",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/10/09/rubio-meets-with-leader-venezuelan-opposition-negotiating-team/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 9,
-        "title": "Navi Pillay, leading human rights jurist, awarded Nobel Peace Prize",
-        "summary": "The trailblazing South African human rights lawyer and International Criminal Court judge was recognized for her work “ensuring th...",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/10/09/navi-pillay-wins-nobel-peace-prize/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 10,
-        "title": "A headmaster’s challenge to his male students: Speak up about rape",
-        "summary": "A headmaster in Canada challenged his male students not to be silent when confronted with wrong behavior.",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/nation/2026/10/09/headmasters-challenge-his-male-students-speak-up-about-rape/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 11,
-        "title": "A Florida local newspaper ran an op-ed. It was an Iranian AI fake.",
-        "summary": "ChatGPT users in Iran made more than 100 fake articles published across at least 20 news outlets, OpenAI said.",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 12,
-        "title": "After pledging swift results, Trump team prepares for long economic war with Iran",
-        "summary": "Iran’s economy is suffering. But some of the Trump administration’s dire projections have failed to come to fruition.",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/10/09/after-pledging-swift-results-trump-team-prepares-long-economic-war-with-iran/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 13,
-        "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
-        "summary": "President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 14,
-        "title": "Man dies after entering tiger enclosure at England wildlife park",
-        "summary": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 15,
-        "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
-        "summary": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 16,
-        "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-        "summary": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 17,
-        "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-        "summary": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 18,
-        "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
-        "summary": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 19,
-        "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
-        "summary": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL&#039;s dominant teams in recent times.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 20,
-        "title": "WHO says no plague case registered after Russian lab worker’s death",
-        "summary": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 21,
-        "title": "Yemeni government’s military says its forces advancing against Houthis",
-        "summary": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 22,
-        "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
-        "summary": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.",
+        "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+        "summary": "Sunday&#039;s strike on King Khalid International airport kills a Pakistani national.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
-        "timestamp": "02:20 UTC"
+        "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 23,
-        "title": "Hundreds of doctors demand World Medical Association suspend Israel",
-        "summary": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.",
+        "title": "Bridge washed away by torrent of water in Nepal",
+        "summary": "Flash floods along Nepal’s Budhi Gandaki River swept away homes and bridges, forcing residents to flee to higher ground.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
-        "timestamp": "02:20 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 24,
-        "title": "Malawi motorists queue for days as fuel shortage bites",
-        "summary": "Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.",
+        "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
+        "summary": "Claim marks the first time a UK prime minister has publicly acknowledged Russia&#039;s interference in the vote to leave EU.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
-        "timestamp": "02:20 UTC"
+        "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 25,
-        "title": "Restrained, detained, contained: Clampdown foils stir, thousands confined to home",
-        "summary": "No summary provided by source.",
-        "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/restrained-detained-contained-clampdown-foils-stir-thousands-confined-to-home-nabbed-on-way/articleshow/134861054.cms",
-        "timestamp": "02:20 UTC"
+        "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+        "summary": "Tehran offers to facilitate talks between Saudi Arabia and Yemen&#039;s Houthis following deadly strikes on the kingdom.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 26,
-        "title": "Saudi Arabia says attack on Riyadh airport killed 12 and wounded more than 300",
-        "summary": "No summary provided by source.",
-        "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-airport-missile-strike-kills-al-least-12-leaves-over-300-injured/articleshow/134863509.cms",
-        "timestamp": "02:20 UTC"
+        "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
+        "summary": "Crews rally for massive cleanup effort in Florida and Alabama as Isaias leaves hundreds of thousands in the dark.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 27,
-        "title": "SIR stir: 'Kashmir model' in Delhi, situation akin to Emergency, says opposition",
-        "summary": "No summary provided by source.",
-        "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/sir-stir-kashmir-model-in-delhi-situation-akin-to-emergency-says-opposition/articleshow/134863449.cms",
-        "timestamp": "02:20 UTC"
+        "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
+        "summary": "Felipe VI’s first visit to Ceuta and Melilla as king brings Spain’s territorial dispute with Morocco back into focus.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 28,
-        "title": "'Misplaced, unwarranted': India slams UN body for raising concern over SIR protest",
-        "summary": "No summary provided by source.",
-        "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/misplaced-unwarranted-india-slams-ohchr-for-raising-concern-over-sir-protest/articleshow/134859376.cms",
-        "timestamp": "02:20 UTC"
+        "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+        "summary": "Iran says US has accepted some of its peace terms but calls the reply &#039;inadequate&#039;, as Riyadh airport is hit again.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 29,
-        "title": "New York Mayor Mamdani says companies like Netflix will now pay if you can't cancel",
-        "summary": "New York City Mayor Zohran Mamdani's Click-to-Cancel rule is now in effect, requiring businesses to let customers cancel subscript...",
-        "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/technology/technology-news/new-york-city-mayor-zohran-mamdanis-click-to-cancel-rule-now-live-tells-netflix-amazon-disney-and-other-companies-make-sure-your-customers-can-/articleshow/134854856.cms",
-        "timestamp": "02:20 UTC"
+        "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+        "summary": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 30,
-        "title": "CJP protest: How government pre-empted 'plot to incite violence'",
-        "summary": "No summary provided by source.",
-        "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/cjp-protest-how-government-pre-empted-plot-to-incite-violence/articleshow/134861140.cms",
-        "timestamp": "02:20 UTC"
+        "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+        "summary": "Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 31,
-        "title": "New York fire fundraiser topped $100,000; state AG seeks $71,539 in unpaid funds",
-        "summary": "Hailey Bodah, a young New Yorker, faced unimaginable loss when a fire claimed the lives of her father and four sisters. In the wak...",
-        "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/after-a-new-york-fire-killed-a-13-year-old-girls-father-and-four-sisters-relatives-raised-over-100000-for-her-months-later-the-state-ag-sought-71539-29-it-said-remained-unpaid/articleshow/134832070.cms",
-        "timestamp": "02:20 UTC"
+        "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+        "summary": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 32,
-        "title": "Nepal cuts 12 year wait, to declare those missing in flood 'dead' after 45 days",
-        "summary": "No summary provided by source.",
-        "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-cuts-12yr-wait-to-declare-those-missing-in-flood-dead-after-45-days/articleshow/134863459.cms",
-        "timestamp": "02:20 UTC"
+        "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+        "summary": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 33,
-        "title": "Worst in 40 years! Man United script unwanted record after draw against 10-man Spurs",
-        "summary": "Manchester United recorded their worst league start in nearly 40 years after drawing 1-1 with Tottenham, collecting just six point...",
-        "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/worst-in-40-years-manchester-united-script-unwanted-record-after-draw-against-10-man-tottenham-hotspur/articleshow/134864014.cms",
-        "timestamp": "02:20 UTC"
+        "title": "Waves crash into homes as excavators try to protect California properties",
+        "summary": "Construction crews were seen trying to block waves entering homes along California&#039;s coast",
+        "category": "GLOBAL",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 34,
-        "title": "James Patterson's $1.75M gift saved 467 school libraries",
-        "summary": "James Patterson initially pledged $1.25 million to support US school libraries but increased the donation to $1.75 million. This i...",
-        "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/in-2015-james-patterson-pledged-1-25-million-to-us-school-libraries-after-requests-poured-in-he-raised-his-gift-to-1-75-million-helping-467-libraries-fund-books-reading-programmes-and-repairs/articleshow/134832282.cms",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 35,
-        "title": "Angelina Jolie’s Cambodia foundation now protects 60,994 hectares of forest",
+        "title": "No meet with Congress, it'll violate 'separation of power': CJI",
         "summary": "No summary provided by source.",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/science/nature/in-2003-angelina-jolie-started-a-foundation-to-help-clear-landmines-in-cambodia-three-years-later-its-work-expanded-to-protecting-a-60994-hectare-forest-with-locally-recruited-and-trained-rangers/articleshow/134793526.cms",
-        "timestamp": "02:20 UTC"
+        "url": "https://timesofindia.indiatimes.com/india/cji-no-meet-with-congress-itll-violate-separation-of-power/articleshow/134879703.cms",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 35,
+        "title": "Delhi-NCR wakes up to heavy rain, thunderstorms as IMD issues red alert",
+        "summary": "Delhi experienced heavy rain and thunderstorms on Monday morning, leading to a noticeable change in weather. The India Meteorologi...",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-ncr-wakes-up-to-heavy-rain-thunderstorms-waterlogging-reported-in-several-areas/articleshow/134880201.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 36,
-        "title": "Jeff Bezos invests $100 million to turn vacant land into parks in eight US cities",
-        "summary": "Jeff Bezos is allocating $100 million to convert neglected urban land into parks in eight American cities. The funding aims to rev...",
+        "title": "‘Put into buses, vans despite IDs’: Journalists detained again",
+        "summary": "Journalists covering protests in New Delhi faced detainment by police during their reporting duties. Despite showing valid press c...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-is-putting-100-million-into-neglected-city-land-eight-us-cities-will-turn-abandoned-spaces-into-parks-and-wildlife-habitats/articleshow/134841262.cms",
-        "timestamp": "02:20 UTC"
+        "url": "https://timesofindia.indiatimes.com/city/delhi/punched-in-the-eyes-pushed-into-bus-journalists-detained-for-second-day-at-cjp-protest-despite-ids/articleshow/134880649.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 37,
-        "title": "'This Struggle Is Not Yours Alone': Bangladesh Group Involved In Coup Against Sheikh Hasina Backs CJP Protest",
-        "summary": "Organisers from the CJP have issued a fresh directive calling for a major assembly at Jantar Mantar at 10 AM on Sunday, a day afte...",
+        "title": "US judge blocks Trump's $20 million taxpayer-funded ad campaign",
+        "summary": "No summary provided by source.",
         "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/world/this-struggle-is-not-yours-alone-bangladesh-group-involved-in-coup-against-sheikh-hasina-backs-cjp-protest-ws-lt-10376548.html",
-        "timestamp": "02:20 UTC"
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-court-orders-trump-administration-to-cancel-taxpayer-funded-political-ads/articleshow/134880139.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 38,
-        "title": "CJP Protest Live Updates: Contempt Petition Filed In Supreme Court Against Delhi Top Cop Over Alleged Police Violence",
-        "summary": "Among those detained were four former chief ministers: AAP’s Arvind Kejriwal, Trinamool Congress founder Mamata Banerjee, and the ...",
+        "title": "Delhi Metro shuts 6 stations till 4pm amid Congress march; traffic curbs likely",
+        "summary": "Entry and exit at six Delhi Metro stations, including Rajiv Chowk, Central Secretariat and Patel Chowk, will remain closed from 6 ...",
         "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/india/cjp-jantar-mantar-protest-live-updates-cockroach-janta-party-cec-gyanesh-kumar-resignation-mamata-kejriwal-detained-liveblog-ws-kl-10376545.html",
-        "timestamp": "02:20 UTC"
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-metro-shuts-entry-exit-at-6-stations-till-4pm-amid-congress-march-traffic-diversions-likely/articleshow/134880182.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 39,
-        "title": "The 10 AM Mandate: Why CJP Plans To Re-assemble At Jantar Mantar Despite Mass Detentions And What To Expect Today",
-        "summary": "Several top organisers, including CJP figures Abhijeet Dipke, Saurav Das, and Ashutosh Ranka, as well as prominent digital comment...",
+        "title": "Couple rejects $131,000 offer for data center power line on their property",
+        "summary": "Jerry Zelenka has turned down American Transmission Company's proposal to place a power line on his property, citing worries over ...",
         "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/cities/new-delhi-news/the-10-am-mandate-why-cjp-plans-to-re-assemble-at-jantar-mantar-despite-mass-detentions-and-what-to-expect-today-ws-lr-10376542.html",
-        "timestamp": "02:20 UTC"
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/wisconsin-couple-rejects-131000-offer-for-proposed-data-centre-power-line-that-threatens-their-trees-six-buildings-and-puts-130-foot-tower-near-their-driveway/articleshow/134871623.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 40,
-        "title": "‘You People Don’t Let Us Near The Aircraft’: IAF Chief Says No US Offer For F-35 Fighter Jet",
-        "summary": "Air Chief Marshal AP Singh said India has received no official US offer for the F-35, while no decision has been taken on evaluati...",
+        "title": "CJP raises ‘phone hacking’ doubts, to continue protest",
+        "summary": "Ashutosh Ranka and Saurav Das from Cockroach Janata Party addressed journalists regarding their recent detention. They expressed f...",
         "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/india/you-people-dont-let-us-near-the-aircraft-iaf-chief-says-no-us-offer-for-f-35-fighter-jet-ws-l-10376448.html",
-        "timestamp": "02:20 UTC"
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/cjp-says-protest-will-continue-till-cec-resigns-raises-phone-hacking-doubts/articleshow/134876320.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 41,
-        "title": "‘Unwarranted Interference’: India Hits Back At UN Rights Body Over Delhi Protest Remarks",
-        "summary": "India called OHCHR’s concerns over the Delhi events “misplaced” and an “unwarranted interference” in the country’s internal affair...",
+        "title": "'Let them do whatever': Shami breaks silence on continued India snubs",
+        "summary": "Mohammed Shami has been out of favour with the national selectors, but he said he would continue playing wherever he gets an oppor...",
         "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/india/unwarranted-interference-india-hits-back-at-un-rights-body-over-delhi-protest-remarks-10376506.html",
-        "timestamp": "02:20 UTC"
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/let-them-do-whatever-mohammed-shami-breaks-silence-on-continued-india-snubs/articleshow/134880243.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 42,
-        "title": "'Any Terrorist Attack Will Get Fitting Response': India Shreds Pakistan At UN Over Pahalgam Terror Attack",
-        "summary": "Defending India's response to the Pahalgam terror attack, Bedi described New Delhi's action as \"measured, targeted, and non-escala...",
+        "title": "Saudi Arabia: Fresh Houthi attack on Riyadh airport kills 1; Dammam also targeted",
+        "summary": "No summary provided by source.",
         "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/india/any-terrorist-attack-will-get-fitting-response-india-shreds-pakistan-at-un-over-pahalgam-terror-attack-10376504.html",
-        "timestamp": "02:20 UTC"
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-fresh-houthi-attack-on-riyadh-airport-kills-1-dammam-also-targeted/articleshow/134880386.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 43,
-        "title": "‘Arbitrary Detention Won’t Be Tolerated’: CJI Steps In After Supreme Court Lawyers Detained In Delhi",
-        "summary": "SCBA president Pradeep Rai sought CJI intervention after lawyers were reportedly detained during the Delhi protest, with the advoc...",
+        "title": "‘Started to sink backwards’: 139 migrants killed as boat capsizes off Djibouti",
+        "summary": "No summary provided by source.",
         "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/india/arbitrary-detention-wont-be-tolerated-cji-steps-in-after-supreme-court-lawyers-detained-in-delhi-10376462.html",
-        "timestamp": "02:20 UTC"
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/started-to-sink-backwards-139-migrants-including-15-children-killed-as-boat-capsizes-off-djibouti/articleshow/134880404.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 44,
-        "title": "'Can Rural India Afford It?': Experts Question Elon Musk’s 'Oligarch' Charge Amid Starlink Row",
-        "summary": "Addressing the claim that Starlink could bring connectivity to underserved regions, experts argued that India already had extensiv...",
+        "title": "‘Virat Kohli was a bit bitter’: Ex-India cricketer drops big verdict",
+        "summary": "Kohli's retirement came after months of uncertainty over his future in Test cricket.",
         "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/india/can-rural-india-afford-it-experts-question-elon-musks-oligarch-charge-amid-starlink-row-ws-l-10376425.html",
-        "timestamp": "02:20 UTC"
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-was-a-bit-bitter-former-india-cricketer-drops-big-verdict-on-kohlis-test-retirement/articleshow/134872698.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 45,
-        "title": "'Permanently Damaged Relations With Bharat': Experts Decode Elon Musk's Claims Over Starlink's India Entry",
-        "summary": "Experts have raised questions over Musk’s Starlink plans in India, citing concerns over data, national security and control of sat...",
+        "title": "Texas family ends 8-year fight over 65,000-acre ranch worth at least $60m",
+        "summary": "After years of contention, the heirs of the historic Brite Ranch have finally reached an agreement to split the vast 65,000-acre e...",
         "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/india/permanently-damaged-relations-with-bharat-experts-decode-elon-musks-oligarch-claim-over-starlinks-india-entry-10376421.html",
-        "timestamp": "02:20 UTC"
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/a-texas-family-spent-nearly-eight-years-fighting-over-the-65000-acre-brite-ranch-worth-at-least-60-million-days-before-trial-the-heirs-agreed-to-divide-the-historic-property-into-four-pieces/articleshow/134864462.cms",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 46,
-        "title": "'Will Return Stronger Tomorrow': CJP Calls Protest ‘Half Win’ As Delhi Police Detains Hundreds",
-        "summary": "CJP leader Ajinkya vows to continue the Delhi protest, calling Saturday’s action a 'half win'.",
+        "title": "3 Killed As Mini Cooper Rams Scooter In Kochi, Driver Says ‘Father Will Take Care Of Everything’",
+        "summary": "The driver was taken into custody following the crash and allegedly told locals who confronted him that his father would take care...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/will-return-stronger-tomorrow-cjp-calls-protest-half-win-as-delhi-police-detains-hundreds-10376371.html",
-        "timestamp": "02:20 UTC"
+        "url": "https://www.news18.com/india/3-killed-as-mini-cooper-rams-scooter-in-kochi-driver-says-father-will-take-care-of-everything-ws-l-10377372.html",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 47,
-        "title": "Supreme Court To Hold Special Hearing On Metro Closure, Protest Detentions Today",
-        "summary": "A two-judge bench comprising Justice Joymalya Bagchi and Justice V. Mohana will hear both matters.",
+        "title": "INDIA Bloc To March To Supreme Court Today As Opposition Takes On Gyanesh Kumar Over 'Vote Chori', SIR",
+        "summary": "The INDIA bloc has planned a Delhi protest over alleged ‘vote chori’, SIR and CEC Gyanesh Kumar’s resignation demand. CJI Surya Ka...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/supreme-court-to-hold-special-hearing-on-sunday-over-delhi-metro-curbs-police-crackdown-on-cjp-protest-10376326.html",
-        "timestamp": "02:20 UTC"
+        "url": "https://www.news18.com/india/india-bloc-protest-today-vote-chori-sir-rahul-gandhi-supreme-court-march-cji-surya-kant-ws-l-10377339.html",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 48,
-        "title": "‘Conspiracy To Weaken Country’: Uttarakhand CM Hits Out At Rahul Gandhi Over Elon Musk’s Starlink Remarks",
-        "summary": "Uttarakhand CM targets Rahul Gandhi over his exchange with Elon Musk on Starlink’s delayed India launch, stressing national securi...",
+        "title": "CJI Kant Declines To Meet Rahul Gandhi Ahead Of INDIA Bloc's Protest March To Supreme Court | Exclusive",
+        "summary": "The Chief Justice of India has reportedly declined Rahul Gandhi’s request for a meeting, with sources saying the matter should be ...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/uttarakhand-cm-hits-out-at-rahul-gandhi-over-elon-musks-starlink-remarks-ws-l-10376302.html",
-        "timestamp": "02:20 UTC"
+        "url": "https://www.news18.com/india/cji-kant-rejects-rahul-gandhis-request-to-meet-over-vote-chori-row-cnn-exclusive-ws-l-10377253.html",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 49,
+        "title": "Indian Man Dead, 10 Others Among 300 Injured In Riyadh Airport Attack, EAM Assures All Possible Help",
+        "summary": "The Indian Embassy in Riyadh said on Sunday that one of the 11 Indian nationals injured in Saturday’s attack on Riyadh airport had...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/11-indians-among-300-injured-in-riyadh-airport-attack-eam-says-india-doing-everything-necessary-10377158.html",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 50,
+        "title": "'They Can't Suppress Voice Of India': Rahul Gandhi Attacks Govt Ahead Of Supreme Court March",
+        "summary": "Rahul Gandhi announced plans to lead a march to the Supreme Court and urged opposition leaders and citizens to join the campaign a...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/they-cant-suppress-voice-of-india-rahul-gandhi-attacks-govt-ahead-of-supreme-court-march-10377132.html",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 51,
+        "title": "Abhijeet Dipke Was Taken To Judge After 24 Hours, But Neha Bora Was Let Off In Evening: The 2 'Detentions' Explained",
+        "summary": "Abhijeet Dipke was held for 24 hours, had to sign a bond, give surety of Rs 50,000, while Neha Bora was out within hours on Saturd...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/explainers/abhijeet-dipkes-detention-different-from-neha-bora-he-had-to-give-rs-50000-surety-bond-sign-peace-clause-before-judge-but-she-didnt-ws-klrt-10376972.html",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 52,
+        "title": "'We Can't Trust You': S Gurumurthy Questions Elon Musk's Intentions Behind Starlink's India Expansion",
+        "summary": "Gurumurthy raised doubts over Musk's intentions behind expanding his satellite internet service in India, citing his earlier invol...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/gurumurthy-questions-elon-musk-intentions-behind-starlink-india-entry-cant-trust-you-10377102.html",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 53,
+        "title": "How Starlink Black Market Bypasses Permissions And Risks National Security",
+        "summary": "How illicit Starlink terminals have exposed security vulnerabilities worldwide — and why India is tightening regulatory scrutiny b...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/world/how-starlink-black-market-bypasses-permissions-and-risks-national-security-ws-klrt-10377054.html",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 54,
+        "title": "Delhi Cops Release Video Of Dipke Refusing To Return Home After Grandmother’s Death: ‘Repeatedly Asked Him’",
+        "summary": "Delhi Police released a video showing officers informing CJP founder Abhijeet Dipke about his grandmother’s death while he was in ...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/cjp-misrepresented-matter-delhi-police-releases-video-of-abhijeet-dipkes-detention-10377078.html",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 55,
+        "title": "UP Businessman, Who Married Woman 11 Years Older, Shot Dead In Broad Daylight; Police Probe Family Dispute",
+        "summary": "According to police, Singh had married a 40-year-old woman around a year ago. His family has blamed Singh's in-laws for his murder...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/businessman-navjot-singh-who-married-woman-11-years-older-shot-dead-in-broad-daylight-10377067.html",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 56,
+        "title": "Scuffle Breaks Out At UP Congress Office Ahead Of Aradhana Mishra Mona’s Takeover",
+        "summary": "A scuffle broke out among Congress workers at the party’s Lucknow headquarters ahead of Aradhana Mishra ‘Mona’ taking charge as th...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/scuffle-breaks-out-at-up-congress-office-ahead-of-aradhana-mishra-monas-takeover-ws-l-10377008.html",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 57,
+        "title": "Chennai-Bound IndiGo Flight Diverted To Hyderabad After Electronic Device Catches Fire In Plane",
+        "summary": "IndiGo flight 6E 6115 from Delhi to Chennai was diverted to Hyderabad after smoke was detected from a passenger’s electronic devic...",
+        "category": "INDIA",
+        "source": "News18",
+        "url": "https://www.news18.com/india/chennai-bound-indigo-flight-diverted-to-hyderabad-after-electronic-device-catches-fire-in-plane-10377033.html",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 58,
         "title": "Coast Guard places $248 million order for first MQ-9B drones",
         "summary": "The unarmed drones are meant to &#8220;give the Coast Guard crews a longer-range view of our maritime domain,&#8221; a senior offi...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/coast-guard-places-248-million-order-for-first-mq-9b-drones/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 50,
+        "id": 59,
         "title": "One year in, Army’s FUZE leader eyes ‘bigger’ acquisition challenges",
         "summary": "The Army innovation hub&#8217;s first year also revealed the challenge of making sure promising technologies don’t stop at the pro...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/one-year-in-armys-fuze-leader-eyes-bigger-acquisition-challenges/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 51,
+        "id": 60,
         "title": "Lockheed unveils PAC-3 Edge, its next-gen Patriot interceptor",
         "summary": "The aerospace giant intends to invest hundreds of millions of dollars of its own cash in the missile alone, alongside additional i...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/lockheed-unveils-pac-3-edge-its-next-gen-patriot-interceptor/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 52,
+        "id": 61,
         "title": "Drones and autonomous warfare: ‘One-way attack’ and reshaping ISR",
         "summary": "[Sponsored] Systems that can work independently while still being part of a unit are critical to carrying out multi-domain operati...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/drones-and-autonomous-warfare-one-way-attack-and-reshaping-isr/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 53,
+        "id": 62,
         "title": "Ideal Aerosmith debuts ‘Troublemaker’ for one-way attack",
         "summary": "The company is aiming to tackle a “sweet spot” in the strike market with the Group 3 Troublemaker, and has a “sponsor” in the US N...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/ideal-aerosmith-debuts-troublemaker-for-one-way-attack/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 54,
+        "id": 63,
         "title": "Thales looks to export new C2 platform to Gulf nations, says executive",
         "summary": "“We do believe that there is an operational need and a solution based on our open standard, being able to address the sovereignty ...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/thales-looks-to-export-new-c2-platform-to-gulf-nations-says-executive/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 55,
+        "id": 64,
         "title": "GDLS exec: New loitering munitions platform to be delivered to Army by end of month",
         "summary": "The company is on contract to provide four PERCH 2.0 prototypes to the Army&#8217;s 1st Brigade, 1st Cavalry Division by the end o...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/gdls-exec-new-loitering-munitions-platform-to-be-delivered-to-army-by-end-of-month/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 56,
+        "id": 65,
         "title": "New leaders, new drone command: What we expect from AUSA 2026",
         "summary": "The Army’s autonomy push and the future of its modernization programs are set to loom large at this year’s conference.",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/new-leaders-new-drone-command-what-we-expect-from-ausa-2026/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 57,
+        "id": 66,
         "title": "A leap in drone range and payloads come from a battery with different chemistry",
         "summary": "[Sponsored] Lithium-metal batteries are one way to break the weight and endurance limits of today’s unmanned systems.",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/a-leap-in-drone-range-and-payloads-come-from-a-battery-with-different-chemistry/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 58,
+        "id": 67,
         "title": "Swedish government launches first Patriot mission to Poland",
         "summary": "The move, part of a NATO mission, comes as a new government is coming to power in Stockholm, with security policy at the heart of ...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/swedish-government-launches-first-patriot-mission-to-poland/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 59,
+        "id": 68,
         "title": "Hanwha sets sights on Army’s tracked howitzer program after victory in wheeled competition",
         "summary": "A Hanwha executive told reporters the company plans to offer its K9A1 or K9A2 tracked howitzers for the competition. ",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/hanwha-sets-sights-on-armys-tracked-howitzer-program-after-victory-in-wheeled-competition/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 60,
+        "id": 69,
         "title": "Zero Trust gets harder when every user, device, weapon, and AI agent needs an identity",
         "summary": "The next phase of Zero Trust reaches beyond users and devices, experts discussed during a Breaking Defense webinar.",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/zero-trust-gets-harder-when-every-user-device-weapon-and-ai-agent-needs-an-identity/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 61,
+        "id": 70,
+        "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+        "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 71,
+        "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+        "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP...",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 72,
+        "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+        "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of O...",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 73,
         "title": "Here’s what happened in crypto today",
         "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 62,
+        "id": 74,
+        "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
+        "summary": "Company advised users not to visit or interact with the link in question and said it will share any further verified updates.",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 75,
+        "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
+        "summary": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market. ",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 76,
+        "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+        "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 77,
         "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
         "summary": "“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 63,
+        "id": 78,
         "title": "Tech chief says EU can fend off rogue AI risk: Report",
-        "summary": "There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture bey...",
+        "summary": "Recent incidents at OpenAI ‌and Anthropic stoke global concerns and fears that rogue AI agents may venture beyond human control.",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 64,
+        "id": 79,
         "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
         "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 65,
+        "id": 80,
         "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
         "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
-        "id": 66,
+        "id": 81,
         "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
         "summary": "The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, se...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 67,
-        "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-        "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without explanation. ",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 68,
-        "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-        "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC’s tokenized deposits, with real...",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 69,
-        "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-        "summary": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million ...",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 70,
-        "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-        "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction marke...",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 71,
-        "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-        "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital...",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 72,
-        "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
-        "summary": "Bitcoin and crypto markets eyed a recovery from Thursday’s drop despite concerns of another hardware wallet exploit.",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 73,
-        "title": "WallHop – 12ft.io is gone, so I built a replacement",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://wallhop.io/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 74,
-        "title": "Build your own decision model",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://nishtahir.com/build-your-own-decision-model/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 75,
-        "title": "2D Vehicles",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://patkerr.co.uk/2d-vehicles/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 76,
-        "title": "A city-building game in which the city would prefer you didn't",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://housing.over.pizza/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 77,
-        "title": "Generative AI scandal has come to one of Nikon's competitions",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 78,
-        "title": "PSPi 6 – Raspberry Pi in a PSP",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://github.com/othermod/PSPi-Version-6",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 79,
-        "title": "The Lightbulb Computer",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://lightbulbcomputer.com/",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 80,
-        "title": "Nix wrote half of my debugger",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-        "timestamp": "02:20 UTC"
-    },
-    {
-        "id": 81,
-        "title": "Knuth reward check",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-        "timestamp": "02:20 UTC"
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 82,
-        "title": "Five months treating bugs like patients and coding agents like a medical team",
+        "title": "Whatever became of holography? (2011)",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-        "timestamp": "02:20 UTC"
+        "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 83,
-        "title": "Why DuckDB 2.0 is faster",
+        "title": "Total Annihilation, rebuilt for modern computers",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-        "timestamp": "02:20 UTC"
+        "url": "https://nanolathe.gg",
+        "timestamp": "02:42 UTC"
     },
     {
         "id": 84,
-        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "title": "Fingerprints are the new cookies",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://github.com/rociiu/talorys",
-        "timestamp": "02:20 UTC"
+        "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 85,
+        "title": "Cartographers of North Korea (2019)",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://cartographers-nk.wonyoung.so/",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 86,
+        "title": "HashiCorp archives the Boundary open source repo",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://github.com/hashicorp/boundary",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 87,
+        "title": "Recursive self-improvement through collective intelligence",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://pub.sakana.ai/mass/",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 88,
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 89,
+        "title": "Illustration Beyond Proof",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 90,
+        "title": "Vectorized CLZ and CTZ",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 91,
+        "title": "Local Indexing to reduce tool calling and token usage",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://tedhaley.ca/pensieve/",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 92,
+        "title": "Google is illegaly cutting forest to build data centers",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+        "timestamp": "02:42 UTC"
+    },
+    {
+        "id": 93,
+        "title": "Terence Tao: Math 2.0 [pdf]",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+        "timestamp": "02:42 UTC"
     }
 ]

@@ -1,16 +1,16 @@
 {
     "social_pulse": [
         "INDIA",
+        "CRACKDOWN",
         "TAIWAN",
+        "PACIFIC",
         "CAPITAL",
-        "POWER",
-        "TALKS",
-        "TRUMP"
+        "EUROPE"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "60"
     },
-    "last_updated": "04:00 UTC"
+    "last_updated": "02:14 UTC"
 }

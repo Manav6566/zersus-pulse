@@ -1,16 +1,16 @@
 {
     "social_pulse": [
         "INDIA",
+        "COCKROACH",
         "CRACKDOWN",
         "TAIWAN",
-        "PACIFIC",
-        "CAPITAL",
-        "EUROPE"
+        "LEADERS",
+        "CAPITAL"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "60"
     },
-    "last_updated": "02:14 UTC"
+    "last_updated": "01:55 UTC"
 }

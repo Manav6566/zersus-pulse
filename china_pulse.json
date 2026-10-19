@@ -1,10 +1,10 @@
 {
     "social_pulse": [
         "INDIA",
-        "TRUMP",
         "SUMMIT",
         "CRACKDOWN",
         "PACIFIC",
+        "TRUMP",
         "AHEAD"
     ],
     "daily_figurements": {
@@ -12,5 +12,5 @@
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "60"
     },
-    "last_updated": "01:36 UTC"
+    "last_updated": "01:53 UTC"
 }

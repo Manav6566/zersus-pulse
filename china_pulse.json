@@ -1,16 +1,16 @@
 {
     "social_pulse": [
         "INDIA",
+        "MILITARY",
         "CRACKDOWN",
         "PACIFIC",
-        "TRADE",
-        "PARTY",
-        "NEEDS"
+        "JAPAN",
+        "PARTY"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
-        "market_sentiment": "OPTIMISTIC",
+        "market_sentiment": "CAUTIOUS",
         "data_nodes": "60"
     },
-    "last_updated": "02:12 UTC"
+    "last_updated": "02:05 UTC"
 }

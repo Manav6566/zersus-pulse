@@ -3,14 +3,14 @@
         "INDIA",
         "TAIWAN",
         "CRACKDOWN",
+        "PARTY",
         "PLENUM",
-        "JINPING",
-        "PACIFIC"
+        "JINPING"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "58"
     },
-    "last_updated": "01:50 UTC"
+    "last_updated": "01:51 UTC"
 }

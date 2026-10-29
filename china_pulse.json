@@ -1,16 +1,16 @@
 {
     "social_pulse": [
         "INDIA",
+        "CRACKDOWN",
+        "BORDER",
         "PARTY",
         "PLENUM",
-        "CRACKDOWN",
-        "COMMUNIST",
-        "JINPING"
+        "DEFENSE"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "58"
     },
-    "last_updated": "02:38 UTC"
+    "last_updated": "02:57 UTC"
 }

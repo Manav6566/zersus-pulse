@@ -1,435 +1,435 @@
 [
     {
         "id": 1,
-        "title": "Russian victories, Spanish tragedy, elections without answers: RT stories that shaped the week",
-        "summary": "RT’s top stories this week included Russia’s diplomatic success with Africa, Putin’s phone call with the Europeans, and a truce wi...",
+        "title": "US midterm early voting shatters record",
+        "summary": " More than 51 million Americans voted early in the US midterms as Republicans fight to retain control of Congress Read Full Articl...",
         "category": "GLOBAL",
         "source": "RT News",
-        "url": "https://rt-english.com/news/648132-rt-top-stories-elections-putin-africa/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
+        "url": "https://rt-english.com/news/648189-us-early-voting-breaks-midterm/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 2,
-        "title": "Polish president storms into besieged court amid constitutional crisis (VIDEOS): Live updates",
+        "title": "French police officers set ablaze amid unrest (VIDEOS)",
+        "summary": " French police officers were set ablaze by Molotov cocktails during nationwide cost-of-living protests that left five officers inj...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648188-france-police-molotov-cocktails-fire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 3,
+        "title": "Trump has not decided on new Iran strikes – Rubio",
+        "summary": " Donald Trump has yet to decide whether to launch new strikes on Iran, Marco Rubio says, as Tehran holds indirect talks with Washi...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648187-trump-has-not-decided-on-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 4,
+        "title": "Finland’s Stubb defends calling Putin",
+        "summary": " Finnish President Alexander Stubb has defended the phone call he and Norwegian PM Jonas Gahr Store held with Russian leader Vladi...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648185-finnish-president-defends-putin-phone-call/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 5,
+        "title": "German Gen Z takes to streets over cost of living (VIDEOS)",
+        "summary": " German youth are protesting the cost of living as Europe braces for more unrest Read Full Article at RT.com",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648183-german-gen-z-takes-to-streets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 6,
+        "title": "Pentagon facing up to $15 bn in Iran war base damages – WSJ",
+        "summary": " Iran’s retaliatory strikes on US bases across the Middle East could have incurred up to $15 billion in damages, according to the ...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648181-pentagon-bases-iran-15-billion-damages/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 7,
+        "title": "US approves Patriot missiles sale to Ukraine",
+        "summary": " The US State Department has green-lit a $2.1 billion Patriot missile sale to Ukraine Read Full Article at RT.com",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648172-us-ukraine-patriot-zelensky/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 8,
+        "title": "Russian victories, Spanish tragedy, elections without answers: RT stories that shaped the week",
+        "summary": " RT’s top stories this week included Russia’s diplomatic success with Africa, Putin’s phone call with the Europeans, and a truce w...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648132-rt-top-stories-elections-putin-africa/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 9,
+        "title": "Polish president storms into besieged court amid constitutional crisis (VIDEOS): As it happened",
         "summary": " Poland’s Constitutional Tribunal has accused Prime Minister Donald Tusk of waging a judicial “coup d’etat” Read Full Article at R...",
         "category": "GLOBAL",
         "source": "RT News",
         "url": "https://rt-english.com/news/648157-coup-poland-court/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
-        "id": 3,
+        "id": 10,
         "title": "Dockworkers launch global strike against Israeli and US military shipments (VIDEOS)",
         "summary": " Dockworkers launch a global anti-war strike targeting Israeli and US military shipments, with actions at 113 ports across five co...",
         "category": "GLOBAL",
         "source": "RT News",
         "url": "https://rt-english.com/news/648123-global-dockworker-strike-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
-        "id": 4,
+        "id": 11,
         "title": "Hackers drain millions from Polymarket accounts",
         "summary": " Hackers have stolen $2.6 million in user funds from predictive market platform Polymarket that allows people to bet on real-world...",
         "category": "GLOBAL",
         "source": "RT News",
         "url": "https://rt-english.com/news/648146-hackers-drain-millions-from-polymarket-accounts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
-        "id": 5,
+        "id": 12,
         "title": "Queen Ursula comes to Canada with velvet handcuffs",
         "summary": " Trade, resources and digital ‘cooperation’ sound harmless – until you look at the fine print Read Full Article at RT.com",
         "category": "GLOBAL",
         "source": "RT News",
         "url": "https://rt-english.com/news/648142-eu-canada-association-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
-    },
-    {
-        "id": 6,
-        "title": "Ice hockey federation fumes after being ordered to readmit Russians",
-        "summary": " The Court of Arbitration for Sport has ordered the International Ice Hockey Federation to readmit Russian teams to its championsh...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648135-russian-ice-hockey-admission/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
-    },
-    {
-        "id": 7,
-        "title": "Pentagon tells Baltic hawks to stop ‘poking’ Russia – Reuters",
-        "summary": " The Pentagon has urged Baltic NATO hawks to curb their anti-Russia rhetoric amid Trump’s renewed Ukraine peace push, Reuters repo...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648136-pentagon-baltics-stop-poking-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
-    },
-    {
-        "id": 8,
-        "title": "Haze-fueled protests engulf Jakarta – RT reports (VIDEO)",
-        "summary": " Indonesia has been rocked by a wave of protests over massive wildfires that have caused widespread respiratory illnesses across t...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648127-indonesia-wildfires-mass-protests/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
-    },
-    {
-        "id": 9,
-        "title": "Kiev ‘ignoring’ Trump – Kremlin",
-        "summary": " Kiev is ignoring Trump’s calls to halt strikes on Russian oil refineries and wouldn’t act so boldly without European backing, Kre...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648134-kiev-ignoring-trump-kremlin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
-    },
-    {
-        "id": 10,
-        "title": "Serbian election winners plan gas talks with Russia",
-        "summary": " Student List, which won Serbia’s parliamentary elections, is planning to negotiate a long-term gas contract with Russia Read Full...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648126-serbia-plan-gas-talks-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
-    },
-    {
-        "id": 11,
-        "title": "Italian military chopper spirals into deadly crash in Bosnia (VIDEO)",
-        "summary": " An Italian military Chinook helicopter crashed in Bosnia and Herzegovina, killing four people and injuring 11, officials say Read...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648122-italian-helicopter-crashes-bosnia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
-    },
-    {
-        "id": 12,
-        "title": "Finland launches criminal probe into Google data center project",
-        "summary": " Finland has launched an investigation into suspected environmental violations at a Google data center site Read Full Article at R...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648105-finland-probes-google-project/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "02:48 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 13,
-        "title": "Poland’s president joins protest amid constitutional crisis at top court",
-        "summary": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
+        "title": "Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu",
+        "summary": "In a counterprotest, Netanyahu supporters demand that Israel should not have a government with &#039;terrorists&#039;.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 14,
-        "title": "Pope Leo becomes first pontiff to vote in US general election",
-        "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
+        "title": "Talarico draws a packed campus rally, but can he win over young voters?",
+        "summary": "Al Jazeera’s @EmmaWithrow attended a packed rally for Democrat Senate Candidate James Talarico at Texas A&amp;M.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 15,
-        "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
-        "summary": "Fabricated surveys are adding to tensions in the country&#039;s increasingly polarised political environment.",
+        "title": "Polish president holds crisis talks in court standoff",
+        "summary": "A dispute over the politicisation of Poland&#039;s constitutional court is deepening, with no side appearing to back down.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 16,
-        "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
-        "summary": "Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US.",
+        "title": "Gen Z-led protests in Germany turn violent",
+        "summary": "Protesters clashed with police as thousands took to the streets across 34 cities in Germany.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 17,
-        "title": "Germany and France brace for protests on Halloween weekend",
-        "summary": "A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.",
+        "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+        "summary": "Top diplomat says Iran and Qatar have reached a plan to reopen Hormuz in two days if the US meets Tehran&#039;s conditions.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 18,
-        "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
-        "summary": "The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.",
+        "title": "ICE agent’s violent shove propels woman through the air",
+        "summary": "A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 19,
-        "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
-        "summary": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will &#039;get wrapped up soon&#039;.",
+        "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+        "summary": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 20,
-        "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
-        "summary": "Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.",
+        "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+        "summary": "Judge permanently drops Trump&#039;s $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper&#039;s reporting.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 21,
-        "title": "Polish police deployed to top court after head judge suspended",
-        "summary": "Judge&#039;s suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.",
+        "title": "Palestine Action supporters arrested outside US embassy in London",
+        "summary": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government&#039;s ban on Palestine Action.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 22,
-        "title": "Why AI could threaten much of the world’s digital infrastructure",
-        "summary": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
+        "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+        "summary": "Data scientists find that many &#039;likely non-citizens&#039; identified by the Trump administration were erroneously flagged.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 23,
-        "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
-        "summary": "Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links.",
+        "title": "Fiery confrontations between protestors and police in Albania",
+        "summary": "Fiery confrontations between protestors and police in Albania",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 24,
-        "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
-        "summary": "Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.",
+        "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+        "summary": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 25,
-        "title": "How Isro's NVS-03 launch will revive NavIC, boost military independence",
-        "summary": "No summary provided by source.",
+        "title": "'Villa scam': IPS Prashakha Mathur now put on APO; IAS husband currently abroad",
+        "summary": "Rajasthan's government has placed IPS officer Prashakha Mathur on Awaiting Posting Order amid an inquiry linked to her husband, IA...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/defence/success-launch-of-navigation-sat-nvs-03-with-desi-atomic-clock-will-make-navic-up-running-and-give-military-strategic-independence/articleshow/135376336.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/city/jaipur/the-villa-scam-ias-officer-shikhar-agrawal-currently-abroad-ips-wife-prashakha-mathur-put-on-apo/articleshow/135415526.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 26,
-        "title": "Cargo ship stranded in Pakistan for months, sailor's kin high &amp; dry",
-        "summary": "Vedansh Mishra, a three-year-old, frequently asks about his father, Vineet, who is stranded in Karachi, Pakistan. Vineet has been ...",
+        "title": "Revolt in NC: 25 MLAs seek ministers’ ouster, J&amp;K CM Omar Abdullah aide",
+        "summary": "No summary provided by source.",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/delhi/cargo-ship-stranded-for-months-family-of-seafarer-awaiting-return/articleshow/135370330.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/india/nc-faces-revolt-as-25-mlas-seek-removal-of-ministers-omar-aide/articleshow/135409374.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 27,
-        "title": "India's poverty will be down from 14.2% to 12.1% in 2 years: World Bank",
+        "title": "10L turnout target, 4,000 cops, 200 CCTV: Delhi braces for INDIA bloc's anti-CEC rally",
         "summary": "No summary provided by source.",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/indias-poverty-will-be-down-from-14-2-to-12-1-in-2-years-world-bank/articleshow/135377216.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/india/10-lakh-turnout-target-4000-cops-200-cctv-delhi-braces-for-india-blocs-anti-cec-rally-at-ramlila-maidan/articleshow/135411804.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 28,
-        "title": "Trump administration to deport 150 Afghan refugees to Afghanistan via Pakistan",
-        "summary": "No summary provided by source.",
+        "title": "'Not good news': Ex-India star questions India's handling of Vaibhav Sooryavanshi",
+        "summary": "Mohammad Kaif has expressed concerns regarding India's choice to omit Vaibhav Sooryavanshi from the fourth T20I match. Sooryavansh...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/trump-administration-to-deport-150-afghan-refugees-to-afghanistan-via-pakistan/articleshow/135384756.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-good-news-ex-india-star-questions-indias-handling-of-vaibhav-sooryavanshi/articleshow/135415588.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 29,
-        "title": "A mother who had to quit her Rs 50 LPA job, now changing chess scene in North India",
-        "summary": "After leaving her Rs 50 LPA corporate career to support her daughter Shivika’s chess ambitions, Nidhi Bhasin Rohilla discovered ga...",
+        "title": "6.0-magnitude earthquake strikes Japan's coast near Shima",
+        "summary": "No summary provided by source.",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/sports/chess/a-mother-who-had-to-quit-her-rs-50-lpa-job-now-changing-chess-scene-in-north-india/articleshow/135366386.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/6-0-magnitude-earthquake-strikes-japans-coast-near-shima/articleshow/135415435.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 30,
-        "title": "Elon Musk shares 'whole schedule' on how he spends time with his 14 children",
-        "summary": "Elon Musk recently disclosed details regarding his co-parenting schedule for his 14 children. He clarified that his five older chi...",
+        "title": "Island nation’s treaty with Australia raises concerns over loss of cultural heritage",
+        "summary": "Tuvalu's recent treaty with Australia allows its citizens to migrate for work and study opportunities abroad. While migration offe...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/likely-for-the-first-time-ever-elon-musk-shares-the-whole-schedule-on-how-he-spends-time-with-his-14-children-says-i-see-my-kids-with-/articleshow/135371872.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-august-2024-an-island-nation-signed-a-treaty-that-will-enable-its-citizens-to-live-work-and-study-in-australia-now-researchers-wonder-what-happens-to-/articleshow/135403619.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 31,
-        "title": "'India's self-reliance in critical technologies': PM Modi on Isro's NVS-03 success",
-        "summary": "No summary provided by source.",
+        "title": "23 years later: Pakistan recreate India's Lord's magic with record-equalling chase",
+        "summary": "Pakistan produced a memorable run chase to beat Sri Lanka by three wickets in the One-Day International tri-series final in Lahore...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/dedication-and-ingenuity-of-our-space-scientists-pm-modi-hails-isro-after-successful-gslv-f18-launch-carrying-nvs-03/articleshow/135384147.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/23-years-later-pakistan-script-historic-chase-to-match-indias-massive-odi-feat/articleshow/135415340.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 32,
-        "title": "Kansas teacher's daily affirmations spread to other classrooms",
-        "summary": "An elementary teacher in Kansas has implemented positive affirmations at the end of each school day. This practice has spread acro...",
+        "title": "Golfer's family billed $74,960 for Masters meals; court allows $1,950 fees",
+        "summary": "A legal battle erupted between a California restaurant and the family of a golfer regarding a surprise catering bill. The eatery s...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/first-grade-teacher-in-kansas-started-ending-each-day-with-children-repeating-positive-affirmations-the-simple-routine-spread-beyond-his-classroom-as-other-teachers-adopted-the-idea/articleshow/135239944.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/world/us/a-california-restaurant-catered-meals-for-a-golfers-family-at-the-masters-without-agreeing-on-a-price-then-sent-a-74960-bill-after-a-60391-jury-award-appeals-judges-upheld-just-1950-in-extra-fees/articleshow/135391758.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 33,
-        "title": "With 11 more questions, Census 2027 population enumeration phase to be of record 50 days",
-        "summary": "No summary provided by source.",
+        "title": "4.1bn-year-old pink Mars rock found in Sahara holds clues to ancient water",
+        "summary": "Discovered in the vast Sahara Desert, the meteorite Teghaza 001 is over four billion years old and is confirmed to be a Martian ro...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/census-2027-population-enumeration-phase-to-be-of-record-50-days/articleshow/135377987.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/science/space/in-2022-an-800-gram-pink-rock-was-found-in-the-sahara-desert-nasa-funded-researchers-have-now-confirmed-it-came-from-mars-more-than-4-1-billion-years-ago-and-preserves-signs-of-the-planets-ancient-water/articleshow/135396990.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 34,
-        "title": "Alaska Airlines to cut 200 jobs as Iran war-driven fuel costs threaten $700 million loss",
-        "summary": "No summary provided by source.",
+        "title": "Armless archer Sheetal Devi wins double gold at Asian Para Games",
+        "summary": "Sheetal Devi, born without arms, has developed a unique technique for archery using her feet, shoulder, and mouth. She was introdu...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/alaska-airlines-to-cut-200-jobs-as-iran-war-driven-fuel-costs-threaten-700-million-loss/articleshow/135384121.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/life-style/people/sheetal-devi-born-without-arms-she-learned-to-shoot-with-her-feet-and-became-a-world-champion-paralympic-medallist-and-double-gold-winner-at-the-2026-asian-para-games/articleshow/135398567.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 35,
-        "title": "'Not doing justice': Yuvraj Singh wants Abhishek and Sooryavanshi in ODIs",
-        "summary": "Former India all-rounder Yuvraj Singh believes young batters Abhishek Sharma, Ishan Kishan and Vaibhav Sooryavanshi deserve more o...",
+        "title": "Hope Diamond was mailed in a plain brown package for just $145 in 1958",
+        "summary": "The Hope Diamond embarked on a remarkable journey in 1958 when it was sent as registered mail to the Smithsonian Institution for s...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-doing-justice-to-their-talent-yuvraj-singh-wants-abhishek-sharma-and-vaibhav-sooryavanshi-in-odis/articleshow/135372489.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/world/us/in-1958-jeweller-harry-winston-donated-the-45-52-carat-hope-diamond-to-the-smithsonian-museum-and-sent-it-through-the-us-mail-in-a-plain-brown-package-paying-postage-and-insurance-of-about-145/articleshow/135387342.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 36,
-        "title": "$53M project to build 100 affordable homes amid Miami-Dade shortage",
-        "summary": "Miami-Dade is facing an estimated shortage of 118,000 affordable housing units, prompting a $53 million project in Homestead, Flor...",
+        "title": "Jeff Bezos commits $100m to alliance targeting 31,000 endangered species",
+        "summary": "No summary provided by source.",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/floridas-housing-crisis-deepens-miami-dade-faces-118000-home-shortage-53-million-project-aims-to-turn-unused-land-into-100-affordable-homes-for-families-struggling-with-rising-rents/articleshow/135380208.cms",
-        "timestamp": "02:49 UTC"
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-commits-100-million-to-a-500-million-wildlife-alliance-targeting-31000-endangered-species-as-global-conservation-funding-falls-short/articleshow/135210311.cms",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 37,
-        "title": "'Stay Away From Farmers' Funerals': Sanjay Gaikwad's Remark Triggers Row, MLA Later Apologises",
-        "summary": "However, Gaikwad maintained on Friday that his remarks were not directed at farmers.",
+        "title": "'Quad Is Not a Coalition Against China’ | Marco Rubio, US Secretary of State | U.S. News | QUAD Meet",
+        "summary": "US Secretary of State Marco Rubio has clarified that the Quad is not an alliance directed against China or any other country. Spea...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/stay-away-from-farmers-funerals-sanjay-gaikwads-remark-triggers-row-mla-later-apologises-ws-kl-10405953.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/videos/india/quad-is-not-a-coalition-against-china-marco-rubio-us-secretary-of-state-u-s-news-quad-meet-10407169.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 38,
-        "title": "National Unity Day 2026: Sardar Vallabhbhai Patel’s Legacy And His Role In Uniting India",
-        "summary": "Sardar Vallabhbhai Patel 151st Birth Anniversary: Know why India celebrates National Unity Day on October 31 and how the Iron Man ...",
+        "title": "'Quad Is Not a Coalition Against China’ | Marco Rubio, US Secretary of State | U.S. News | QUAD Meet",
+        "summary": "US Secretary of State Marco Rubio has clarified that the Quad is not an alliance directed against China or any other country. Spea...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/lifestyle/events/national-unity-day-2026-sardar-vallabhbhai-patel-legacy-role-uniting-india-ws-lr-10405973.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/videos/india/quad-is-not-a-coalition-against-china-marco-rubio-us-secretary-of-state-u-s-news-quad-meet-10407168.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 39,
-        "title": "'Nothing To Hide': Amit Shah Dares Oppn To Debate SIR Ahead Of INDIA Bloc's 'Public Impeachment' Of CEC",
-        "summary": "Union Home Minister Amit Shah has challenged Rahul Gandhi and Akhilesh Yadav to debate the SIR row in a special parliamentary sess...",
+        "title": "‘Hold Energy Prices Hostage’: Jaishankar Criticises Sanctions, Chokepoints Disrupting Oil Supplies",
+        "summary": "Jaishankar said the world faces an energy crisis driven not by a shortage of production but by unpredictability, supply disruption...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/nothing-to-hide-amit-shah-dares-oppn-to-debate-sir-ahead-of-india-blocs-public-impeachment-of-cec-ws-lrt-10405946.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/india/hold-energy-prices-hostage-jaishankar-criticises-sanctions-chokepoints-disrupting-oil-supplies-ws-kl-10407149.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 40,
-        "title": "Kerala Lottery Result Today Live: Karunya KR-774 Winning Numbers For October 31, 2026; First Prize Rs 1 Crore",
-        "summary": "Kerala Lottery Result Today: Karunya KR-774 result will be declared today, on Saturday, October 31. Check the live updates and ful...",
+        "title": "Lucknow's KGMU To Probe Police Report Alleging Harassment, Forced Conversion Of Staff By Colleagues",
+        "summary": "The allegations include pressure to convert, threats to damage careers and attempts to silence women who raised complaints.",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/kerala-lottery-result-today-karunya-kr-774-october-31-live-10405811.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/india/lucknows-kgmu-to-probe-police-report-alleging-harassment-forced-conversion-of-staff-by-colleagues-ws-l-10407153.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 41,
-        "title": "WFH For Offices, Pause On Construction From Nov 5 To 20: Fresh Curbs In Delhi To Tackle Air Pollution",
-        "summary": "The Centre on Friday announced a halt to construction and demolition activities across Delhi-NCR from November 5 to 20 in view of ...",
+        "title": "Ramlila Maidan Rally LIVE Updates: 4,000 Police Personnel, CAPF Companies To Handle Security",
+        "summary": "Ramlila Maidan Rally LIVE Updates: More than 4,000 police personnel and companies of the Central Armed Police Forces (CAPF) are se...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/wfh-for-offices-pause-on-construction-from-nov-5-to-20-fresh-curbs-in-delhi-to-tackle-air-pollution-ws-rt-10405929.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/india/ramlila-maidan-rally-live-updates-police-personnel-capf-companies-to-handle-security-rahul-gandhi-india-bloc-gyanesh-kumar-cec-liveblog-ws-kl-10407140.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 42,
-        "title": "'Our Space Scientists Continue To Make Nation Proud': PM Modi Congratulates ISRO After NVS-03 Launch",
-        "summary": "The 50-metre-tall launch vehicle took off from the spaceport’s second launch pad at 11.51 pm after a 24-hour countdown.",
+        "title": "Kannada Rajyotsava 2026: Wishes, Images, Messages, And Greetings To Celebrate Namma Karnataka",
+        "summary": "Celebrate Karnataka Rajyotsava 2026 with heartfelt wishes, inspiring messages and Kannada greetings. Share the pride of Namma Karn...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/our-space-scientists-continue-to-make-nation-proud-pm-modi-congratulates-isro-after-nvs-03-launch-10405934.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/cities/bengaluru-news/kannada-rajyotsava-2026-wishes-images-messages-and-greetings-to-celebrate-namma-karnataka-10407113.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 43,
-        "title": "Bengaluru Inspector, Delhi Pilot, Lawyers Among 6 Killed In Uttarakhand Chopper Crash",
-        "summary": "The helicopter, operated by Trans Bharat Aviation, was carrying 5 passengers from Karnataka and pilot Captain Himanshu Sabharwal w...",
+        "title": "40 Luxury Villas, Rs 6.16 Crore Investment, Rs 1.80 Crore Annual Rent: IAS-IPS Couple Under Rajasthan ACB Scanner",
+        "summary": "Senior IAS officer Shikhar Agrawal and his wife, senior IPS officer Prashakha Mathur, have been placed under Awaiting Posting Orde...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/bengaluru-inspector-delhi-pilot-lawyers-among-6-killed-in-uttarakhand-chopper-crash-ws-l-10405915.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/india/40-luxury-villas-rs-6-16-crore-investment-rs-1-80-crore-annual-rent-ias-ips-couple-under-rajasthan-acb-scanner-ws-lrt-10407126.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 44,
-        "title": "Air Pollution & Diabetes: Two New Studies Show How Smog May Harm Your Blood Sugar And Bones",
-        "summary": "Indian-led review of 13 global studies links extended PM2.5 exposure to 10–16% higher type 2 diabetes risk; Korean study says poll...",
+        "title": "'Protest, Then Go Shopping': Rahul Gandhi Urges INDIA Bloc Rally Participants To Support Delhi Traders",
+        "summary": "The Congress leader's call comes amid warnings over Sunday's Ramlila Maidan rally from trade bodies fearing traffic congestion and...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/lifestyle/health-and-fitness/air-pollution-diabetes-two-new-studies-show-how-smog-may-harm-your-blood-sugar-and-bones-ws-blt-10405914.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/india/protest-then-go-shopping-rahul-gandhi-urges-india-bloc-rally-participants-to-support-delhi-traders-ws-lrt-10407123.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 45,
-        "title": "'Don't Weaponise Rape Law In Broken Relationships': Supreme Court Warns Against Misuse",
-        "summary": "The Supreme Court stressed that adult consent given freely during a relationship cannot be retrospectively invalidated merely beca...",
+        "title": "'Not Just Impeached, You'll Be Jailed': Neha Bora Warns CEC Gyanesh Kumar At INDIA Bloc Event",
+        "summary": "At the opposition's 'public impeachment' meet, Bora accused the CEC of misusing his constitutional position to favour the ruling B...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/dont-weaponise-rape-law-in-broken-relationships-supreme-court-warns-against-misuse-ws-lrt-10405911.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/india/not-just-impeached-youll-be-jailed-neha-bora-warns-cec-gyanesh-kumar-at-india-bloc-event-ws-lrt-10407107.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 46,
-        "title": "4 Killed, 2 Injured After Fire Engulfs Shoe Factory In Delhi's Mangolpuri, Probe Underway",
-        "summary": "Police have summoned the factory owner and are questioning the contractor and workers to determine how many labourers were present...",
+        "title": "CJP's Abhijeet Dipke Meets Mamata Banerjee, Backs INDIA Bloc's Ramlila Maidan Rally But Refuses To Join",
+        "summary": "Mamata Banerjee, who is in Delhi to attend the rally, praised Abhijit Dipke and other young activists for their involvement in pro...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/4-killed-2-injured-after-fire-engulfs-shoe-factory-in-delhis-mangolpuri-probe-underway-ws-l-10405909.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/india/cjps-abhijeet-dipke-meets-mamata-banerjee-backs-india-blocs-ramlila-maidan-rally-but-refuses-to-join-ws-rt-10407076.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 47,
-        "title": "Passport, Aadhaar, Social Media Ban? PIL In Madras HC Puts CJP Leader Saurav Das’s Identity, Nationality Under Scanner",
-        "summary": "The court has issued notices to the Centre, law enforcement agencies, and Cockroach Janta Party spokesperson Saurav Das",
+        "title": "School Safety Under Scanner: Chainsaw Attack on Class 10 Student Sparks Alarm | News18",
+        "summary": "A series of disturbing incidents involving schools in Haryana and Andhra Pradesh has raised serious concerns about the safety and ...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/passport-aadhaar-social-media-ban-pil-in-madras-hc-puts-cjp-leader-saurav-dass-identity-nationality-under-scanner-ws-lr-10405907.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/videos/breaking-news/school-safety-under-scanner-chainsaw-attack-on-class-10-student-sparks-alarm-news18-10407072.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 48,
-        "title": "'Military Solutions Will Not Work': Jaishankar Urges Diplomacy To Tackle Global Crises At G20 Meet",
-        "summary": "Jaishankar stated that military solutions fail against global challenges, urging diplomacy, maritime security, and resilien",
+        "title": "INS K3: Indian Navy Begins Pumping Operations at Visakhapatnam, All Personnel Safe | News18",
+        "summary": "An incident of water ingress has been reported aboard INS K3 while the vessel was docked at the Indian Navy's Naval Dockyard in Vi...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/jaishankar-urges-diplomacy-to-tackle-global-crises-at-g20-foreign-ministers-meeting-ws-l-10405896.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.news18.com/videos/breaking-news/ins-k3-indian-navy-begins-pumping-operations-at-visakhapatnam-all-personnel-safe-news18-10407022.html",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 49,
@@ -438,7 +438,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 50,
@@ -447,7 +447,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/bilateral-no-more-pacom-officials-highlight-multi-national-data-sharing-network/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 51,
@@ -456,7 +456,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 52,
@@ -465,7 +465,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 53,
@@ -474,7 +474,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 54,
@@ -483,7 +483,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/pentagon-eyes-public-private-partnerships-to-help-fund-fortress-america-homeland-base-plan/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 55,
@@ -492,7 +492,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/qatars-domestic-weapons-turkeys-drone-arsenal-and-the-mecca-pacts-next-test/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 56,
@@ -501,7 +501,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/3-congressional-races-that-matter-for-defense/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 57,
@@ -510,7 +510,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/canada-unveils-first-national-security-strategy-in-more-than-20-years/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 58,
@@ -519,7 +519,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/armys-mv-75-production-award-could-slip-due-to-cr-raising-program-costs-textron/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 59,
@@ -528,7 +528,7 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/beyond-autopilot-understanding-the-five-levels-of-battlefield-drone-autonomy/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 60,
@@ -537,222 +537,222 @@
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/10/taiwan-2027-conflict-window-remains-valid-army-pacific-commander-says/",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 61,
-        "title": "Binance hackers raced to move billions before it could be frozen",
-        "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle...",
+        "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+        "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-coun...",
         "category": "MARKETS",
         "source": "Crypto",
-        "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
+        "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 62,
-        "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
-        "summary": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were val...",
+        "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+        "summary": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a ...",
         "category": "MARKETS",
         "source": "Crypto",
-        "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
+        "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 63,
-        "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
-        "summary": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
-    },
-    {
-        "id": 64,
-        "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-        "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck ad...",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
-    },
-    {
-        "id": 65,
-        "title": "Recap: How Binance’s record $6.3B hack unfolded",
-        "summary": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement...",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
-    },
-    {
-        "id": 66,
-        "title": "As it happened: Binance’s record $6.3B crypto hack",
-        "summary": "How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security inve...",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
-    },
-    {
-        "id": 67,
-        "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
-        "summary": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
-    },
-    {
-        "id": 68,
         "title": "Here’s what happened in crypto today",
         "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 64,
+        "title": "Bitcoin turns 18: Has the original rebel grown up?",
+        "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the big...",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 65,
+        "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+        "summary": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incident...",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 66,
+        "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+        "summary": "The company said some non-sensitive customer data was exposed, including user IDs, names and email addresses.",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 67,
+        "title": "Binance $6.3B record hack sparks pre-election political clashes",
+        "summary": "Some political and administration figures tried to make hay of the biggest-ever crypto heist. ",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
+    },
+    {
+        "id": 68,
+        "title": "Binance hackers raced to move billions before it could be frozen",
+        "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle...",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 69,
-        "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
-        "summary": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim...",
+        "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+        "summary": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were val...",
         "category": "MARKETS",
         "source": "Crypto",
-        "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
+        "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 70,
-        "title": "FBI and Secret Service join response to Binance’s $6.3B hack",
-        "summary": "US agencies are investigating the theft and helping trace stolen assets, while Binance says about $3 billion has been frozen.",
+        "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+        "summary": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
         "category": "MARKETS",
         "source": "Crypto",
-        "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
+        "url": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 71,
-        "title": "Binance says it holds $5B in matching tokens to cover hack losses",
-        "summary": "The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves ...",
+        "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+        "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck ad...",
         "category": "MARKETS",
         "source": "Crypto",
-        "url": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
+        "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 72,
-        "title": "Zcash grants group offers $124M compromise as governance backlash grows",
-        "summary": "Zcash Community Grants proposed redirecting about $124 million in existing and future funding toward mining rewards, but critics s...",
+        "title": "Recap: How Binance’s record $6.3B hack unfolded",
+        "summary": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement...",
         "category": "MARKETS",
         "source": "Crypto",
-        "url": "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "02:49 UTC"
+        "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 73,
-        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "title": "HackerTube: YouTube built from videos recommended by HN",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://tng.episodle.com/",
-        "timestamp": "02:49 UTC"
+        "url": "https://karpathy.bearblog.dev/hacker-tube/",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 74,
-        "title": "Cloudflare Turnstile solver library (no headless browser required)",
+        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://github.com/chris124567/cfsolve",
-        "timestamp": "02:49 UTC"
+        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 75,
-        "title": "My favourite PowerMac is a Nintendo Wii",
+        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-        "timestamp": "02:49 UTC"
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 76,
-        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "timestamp": "02:49 UTC"
+        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 77,
-        "title": "Northflank Breached",
+        "title": "Altoids Project",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://status.northflank.com",
-        "timestamp": "02:49 UTC"
+        "url": "https://uvdn7.github.io/altoids-project/",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 78,
-        "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+        "title": "When electric cars were for women",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-        "timestamp": "02:49 UTC"
+        "url": "https://spectrum.ieee.org/early-electric-vehicles",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 79,
-        "title": "Breaking the open web won't stop the bad bots",
+        "title": "It's the memory latency, stupid",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-        "timestamp": "02:49 UTC"
+        "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 80,
-        "title": "Jules Verne's Lost Novel",
+        "title": "First response from the Project Suncatcher prototype satellite",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://blue-continuum.com/verne-paris",
-        "timestamp": "02:49 UTC"
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 81,
-        "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+        "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://github.com/dbreunig/nesformer",
-        "timestamp": "02:49 UTC"
+        "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 82,
-        "title": "The oldest ice disappears and the Stone Age emerges from it",
+        "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-        "timestamp": "02:49 UTC"
+        "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 83,
-        "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+        "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://www.firezone.dev/blog/introducing-sanstun",
-        "timestamp": "02:49 UTC"
+        "url": "https://piefed.world/post/1503394",
+        "timestamp": "02:41 UTC"
     },
     {
         "id": 84,
-        "title": "Infinite Mac: BeOS",
+        "title": "Jepsen: ParticleDB 1.1.4",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-        "timestamp": "02:49 UTC"
+        "url": "https://jepsen.io/analyses/particledb-1.1.4",
+        "timestamp": "02:41 UTC"
     }
 ]

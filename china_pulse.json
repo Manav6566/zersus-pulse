@@ -1,16 +1,16 @@
 {
     "social_pulse": [
         "PLENUM",
-        "INDIA",
         "FIFTH",
         "PARTY",
-        "CRACKDOWN",
-        "COMMUNIST"
+        "INDIA",
+        "COMMUNIST",
+        "CRACKDOWN"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "58"
     },
-    "last_updated": "04:06 UTC"
+    "last_updated": "03:24 UTC"
 }

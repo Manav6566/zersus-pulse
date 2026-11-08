@@ -1,9 +1,9 @@
 {
     "social_pulse": [
-        "PLENUM",
         "INDIA",
-        "FIFTH",
+        "CAPITAL",
         "INDIAN",
+        "PARTY",
         "TRUMP",
         "CORRUPTION"
     ],
@@ -12,5 +12,5 @@
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "58"
     },
-    "last_updated": "03:17 UTC"
+    "last_updated": "02:47 UTC"
 }

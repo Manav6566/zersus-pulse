@@ -1,16 +1,16 @@
 {
     "social_pulse": [
         "INDIA",
-        "NVIDIA",
         "TAIWAN",
         "CAPITAL",
-        "HUANG",
-        "WARNS"
+        "NVIDIA",
+        "WARNS",
+        "DEFENSE"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "58"
     },
-    "last_updated": "03:40 UTC"
+    "last_updated": "03:39 UTC"
 }

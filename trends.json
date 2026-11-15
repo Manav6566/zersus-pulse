@@ -1,866 +1,848 @@
 [
     {
         "id": 1,
+        "title": "US threatening to starve Iranians – Tehran",
+        "summary": " Iran has accused the US of using sanctions and a naval blockade to starve its population Read Full Article at RT.com",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648848-us-threatening-to-starve-iranians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 2,
+        "title": "Israeli settlers accused of torching Palestinian village scrapyard (VIDEOS)",
+        "summary": " Israeli settlers allegedly set fire to a scrapyard in the occupied West Bank, destroying over 100 vehicles Read Full Article at R...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648847-israeli-settlers-accused-burned-scrapyard/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 3,
+        "title": "SpaceX catches Starship spacecraft with giant mechanical arms (VIDEO)",
+        "summary": " SpaceX has successfully caught its Starship spacecraft returning from orbit using giant mechanical arms Read Full Article at RT.c...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648846-spacex-spacecraft-chopsticks-catch/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 4,
+        "title": "Poland and Bulgaria put brakes on Ukraine weapons funding",
+        "summary": " Poland has refused more funding for US weapons for Ukraine, and Bulgaria has rejected an additional €70 billion aid demand Read F...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648838-poland-bulgaria-put-brakes-ukraine-weapons-funding/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 5,
+        "title": "Moscow to host international human rights forum",
+        "summary": " Moscow will host an ombudsmen forum on human rights, protection of citizens abroad, and digital safety Read Full Article at RT.co...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648837-forum-moscow-human-rights/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 6,
+        "title": "OpenAI security chiefs discuss Ukraine military ties with Russian pranksters (VIDEO)",
+        "summary": " Russian pranksters posing as a Ukrainian official have tricked OpenAI’s Pentagon veterans into discussing AI plans for Kiev Read ...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648832-russian-pranksters-openai-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 7,
+        "title": "‘Let them play’: Fans push back against Russia’s hockey ban",
+        "summary": " Russia’s hockey return faces Canadian restrictions and European boycott threats, while fans question why politics should decide w...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648803-let-them-play-russia-hockey/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 8,
+        "title": "Ukraine aid hurts US military – Pentagon",
+        "summary": " Ukraine aid has forced US troops in Europe to divert funds originally intended for procuring essential military parts, a new repo...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648834-ukraine-aid-hurts-us-military/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 9,
+        "title": "US behaving like ‘mafia boss’ in Middle East – NGO founder (VIDEO)",
+        "summary": " Activist Miko Peled has accused the US of coercing Gulf states into cooperation, warning that defiance could leave their countrie...",
+        "category": "GLOBAL",
+        "source": "RT News",
+        "url": "https://rt-english.com/news/648822-us-mafia-boss-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 10,
         "title": "Russia’s cultural diversity takes center stage in massive dance show (VIDEO)",
         "summary": " The ‘Khorovod: Energy of Unity’ show brought more than 600 performers to Moscow for a celebration of folk dance Read Full Article...",
         "category": "GLOBAL",
         "source": "RT News",
         "url": "https://rt-english.com/news/648791-russia-cultural-diversity-dance-show/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 2,
+        "id": 11,
         "title": "US could spy on Germany through Tesla cars – regional intelligence chief",
-        "summary": " A German regional spy chief has warned that Tesla cars could pose an espionage risk, urging restrictions near military and govern...",
+        "summary": " A regional German spy chief has warned that Tesla cars could pose an espionage risk, urging restrictions near military and govern...",
         "category": "GLOBAL",
         "source": "RT News",
         "url": "https://rt-english.com/news/648826-tesla-us-spy-germany/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 3,
+        "id": 12,
         "title": "SpaceX launches world’s largest rocket, loses booster in fiery crash (VIDEOS)",
         "summary": " SpaceX launched the world’s largest rocket, deploying satellites into orbit before its Super Heavy booster crashed into the Gulf ...",
         "category": "GLOBAL",
         "source": "RT News",
         "url": "https://rt-english.com/news/648829-starship-rocket-booster-explodes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 4,
-        "title": "Putin, Trump and Xi to hold rare three-way meeting in China – AP",
-        "summary": " The leaders of Russia, China and the US plan to meet in Shenzhen next week, with nuclear arms control and global conflicts on the...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648828-trump-putin-xi-meeting-/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 5,
-        "title": "Tanker rams US cruise ship, capsizing it (VIDEOS)",
-        "summary": " A tanker rammed and capsized a docked cruise ship in New Orleans, sending it into the Mississippi River Read Full Article at RT.c...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648827-tanker-rams-cruise-ship/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 6,
-        "title": "Gestapo 2.0? Germany grants spy agencies sweeping new powers",
-        "summary": " Germany has passed sweeping intelligence reforms granting spy agencies powers to conduct sabotage, enter homes and deploy AI surv...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648825-gemany-spy-agencies-new-powers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 7,
-        "title": "Hope in Abu Dhabi, fighting in Europe, ‘hell’ in the Persian Gulf: RT stories that shaped the week",
-        "summary": "RT’s top stories this week included trilateral peace talks, Europe’s struggle to find a Moscow envoy, and the looming threat of wa...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648809-rt-top-stories-us-russia-talks-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 8,
-        "title": "US grounds departing flights nationwide",
-        "summary": " The FAA has ordered all departing flights across the US grounded until further notice Read Full Article at RT.com",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648824-us-grounds-fligghts-nationwide/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 9,
-        "title": "Who wanted Nvidia’s Huang out? ‘Honeypot’ scandal raises questions over AI power struggle",
-        "summary": " Jensen Huang’s downfall in an alleged Chinese spy scandal fuels questions over who benefits from his exit and the US-China AI war...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648799-huang-nvidia-downfall-explainer/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 10,
-        "title": "Deadly floods swamp tens of thousands in Gaza (VIDEOS)",
-        "summary": " Gaza floods killed at least four and swamped tens of thousands of tents, as the UN accuses Israel of blocking vital aid Read Full...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648812-deadly-floods-swamp-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 11,
-        "title": "UK approves controversial migrant center near ‘breakaway’ village",
-        "summary": " UK approves an asylum center for 1,256 men near Piddington, a village of just 350 residents, Sky News has reported Read Full Arti...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648817-uk-migrant-accomodation-piddington-breakaway/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 12,
-        "title": "EU leaders prolonging Ukraine conflict to stay in power – Swiss journalist (VIDEO)",
-        "summary": " Swiss journalist Peter Hansler says European leaders are dependent on the Ukraine war and would block peace efforts if they joine...",
-        "category": "GLOBAL",
-        "source": "RT News",
-        "url": "https://rt-english.com/news/648795-eu-prolonging-ukraine-retain-power/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 13,
+        "title": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
+        "summary": "At peace talks this week, Russia returned to hard-line ultimatums the Kremlin issued to NATO and the U.S. before its invasion of U...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 14,
+        "title": "King Charles stops by Elton John’s podcast to talk music",
+        "summary": "The show celebrated 50 years of the British monarch's charity, now known as the King's Trust, and its benefit concerts featuring s...",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/entertainment/music/2026/11/14/king-charles-stops-by-elton-johns-podcast-talk-music/",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 15,
+        "title": "Middle East monarchies brace for Trump corruption scrutiny after blue wave",
+        "summary": "Persian Gulf governments fear fallout as Democrats prepare to investigate the Trump family and follow the money, officials say.",
+        "category": "GLOBAL",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/11/14/middle-east-monarchies-brace-trump-corruption-scrutiny/",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 16,
         "title": "More than 1.5 million people welcome Pope Leo XIV in northern Peru",
         "summary": "“The pope is Chiclayan!” chanted the crowd in his adopted home city. “Chiclayo is with you!”",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/11/13/more-than-15-million-people-welcome-pope-leo-xiv-northern-peru/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 14,
+        "id": 17,
         "title": "Ukraine critic injured in Moscow car bombing, Russia says",
         "summary": "Sergei Zavorotny, previously an aide to Ukrainian Prime Minister Mykola Azarov, became a pro-Kremlin commentator in Russia.",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/11/13/ukraine-critic-injured-moscow-car-bombing-russia-says/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 15,
+        "id": 18,
         "title": "Before he was Pope Leo, he was their bishop. Now he’s back home.",
         "summary": "In an emotional homecoming, residents of Chiclayo, the Peruvian city that shaped Pope Leo XIV, welcomed him with reverence for one...",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/11/13/before-he-was-pope-leo-he-was-their-bishop-now-hes-coming-home/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 16,
+        "id": 19,
         "title": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks",
         "summary": "On Friday, the European Union agreed to not one person but a team from five countries and the European Union.",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 17,
+        "id": 20,
         "title": "As Chinese ‘manosphere’ emerges, women are dropping from the workforce",
         "summary": "China, which once rejected traditional roles for women, is now promoting family values and higher birth rates under Xi Jinping.",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/11/13/china-pushes-women-toward-traditional-roles-it-once-rejected/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 18,
+        "id": 21,
         "title": "Zelensky says Starlink limits continued in the middle of his talks with U.S., Russia",
         "summary": "Ukraine’s Defense Ministry said it had reached out to SpaceX and the U.S. Defense Department to seek an explanation and resolve th...",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/world/2026/11/13/zelensky-says-starlink-limits-continued-ukraine/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 19,
+        "id": 22,
         "title": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
         "summary": "In July, three soldiers died in an enemy attack on an air base in Jordan, another died at an air base in Iraq and a Navy captain d...",
         "category": "GLOBAL",
         "source": "Washington Post",
         "url": "https://www.washingtonpost.com/politics/2026/11/13/trump-falsely-claims-nobodys-been-killed-iran-war-last-five-months/",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 20,
-        "title": "U.S. managed $12 billion in Venezuelan oil revenue, State Department says",
-        "summary": "Amid demands for transparency, the State Department released a report detailing the oil funds received by the United States and di...",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/11/12/us-managed-12-billion-venezuela-oil-revenue-state-department-says/",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 21,
-        "title": "As deadly storms flood Gaza’s tent cities, the displaced fear a worse winter",
-        "summary": "At least four people were killed when weekend storms triggered a landslide onto tent shelters, which are exposed to risks during s...",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/11/12/palestinians-fear-floods-other-storm-risks-tent-cities-gazas-displaced/",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 22,
-        "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
-        "summary": "Russia had resisted a European role in the negotiations, and President Vladimir Putin on Thursday reiterated his opposition to Eur...",
-        "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 23,
-        "title": "Four grizzly bears killed Canadian mother and daughter, authorities say",
-        "summary": "DNA testing showed that a mother bear and her three cubs attacked and killed Jennifer Balcarras and Selah Reed in British Columbia...",
+        "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+        "summary": "Fighting escalates in Yemen&#039;s Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
         "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/11/12/four-grizzly-bears-killed-canadian-mother-daughter-authorities-say/",
-        "timestamp": "03:39 UTC"
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 24,
-        "title": "Trump says no deal needed with Iran, closes down Vance negotiations",
-        "summary": "The president suggested Thursday that he was dialing back diplomatic efforts to end the conflict with Iran and ending a dealmaking...",
+        "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+        "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
         "category": "GLOBAL",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/",
-        "timestamp": "03:39 UTC"
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 25,
-        "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
-        "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
+        "title": "Netanyahu sends plea to Eisenkot for unity government",
+        "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 26,
-        "title": "Tanker collision leaves riverboat passengers clinging to railings",
-        "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+        "title": "Thailand’s elderly kept in cages",
+        "summary": "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 27,
-        "title": "Former FAA official says ‘nobody really knows what is going on’",
-        "summary": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+        "title": "SpaceX’s Starship nails a smooth return with historic catch",
+        "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 28,
-        "title": "UK police open sex offence probe into comedian and author David Walliams",
-        "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+        "title": "Israeli air strike kills senior Hamas commander in Gaza",
+        "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 29,
-        "title": "Microsoft services begin recovering after global outage",
-        "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
+        "title": "Hundreds of men march in Switzerland to protest violence against women",
+        "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 30,
-        "title": "Afghanistan’s new road to China ends at a closed border",
-        "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+        "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+        "summary": "SpaceX officials say catch by mechanical arms shows Starship&#039;s full reusability, crucial for rapid, low-cost recycling.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 31,
-        "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-        "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+        "title": "Iran war live: Saudi-led coalition strikes down 3 drones in as many hours",
+        "summary": "Saudi-led coalition strikes down three Houthi drones in as many hours as Bahrain issues potential danger alert.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 32,
-        "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
-        "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
+        "title": "Portugal immortalises Ronaldo with a new number 7",
+        "summary": "Portugal’s national team has lined up in Cristiano Ronaldo&#039;s number 7 in its first match since he retired from the side.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 33,
-        "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
-        "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
+        "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+        "summary": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 34,
-        "title": "LIVE: FAA reopens airspace after ground stop blamed on ‘outdated equipment’",
-        "summary": "US air regulators have reopened airspace hours after a ground stop halted flights nationwide.",
+        "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+        "summary": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
         "category": "GLOBAL",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 35,
-        "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
-        "summary": "US officials say air control centres affected by &#039;communication issues&#039;, but no threat detected.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "title": "In letter to US judge, Nikhil Gupta says he planned Pannun op alone",
+        "summary": "No summary provided by source.",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/in-letter-to-us-judge-nikhil-gupta-says-he-planned-pannun-op-alone/articleshow/135842250.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 36,
-        "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-        "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
-        "category": "GLOBAL",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
-        "timestamp": "03:39 UTC"
+        "title": "How a glitch on ground triggered chaos in sky: How US flight chaos unfolded",
+        "summary": "A significant setback in the US air traffic control communication system caused a grounding of flights lasting over four hours. Th...",
+        "category": "INDIA",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/how-a-glitch-on-ground-triggered-chaos-in-sky-inside-the-us-ground-stop/articleshow/135845489.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 37,
-        "title": "Nvidia probe, China spy claims: Trump unlikely to confront Xi over Alice Huang",
-        "summary": "Next week, US President Donald Trump will engage with Chinese President Xi Jinping at the APEC summit, despite claims regarding bu...",
+        "title": "Air quality remains ‘very poor’ in Delhi, light rain unlikely to help",
+        "summary": "Delhi's air quality continues to be classified as very poor, with an AQI of 367 recorded on Saturday. Some areas, such as IIT-Delh...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/nvidia-in-chaos-trump-unlikely-to-raise-alice-huang-allegations-with-xi-jinping-during-china-meeting/articleshow/135820399.cms",
-        "timestamp": "03:39 UTC"
+        "url": "https://timesofindia.indiatimes.com/city/delhi/air-quality-remains-very-poor-very-light-rain-unlikely-to-help/articleshow/135839784.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 38,
-        "title": "US flight disruptions: Nationwide ground stop ordered for only the second time since 9/11",
-        "summary": "No summary provided by source.",
+        "title": "Watch: SpaceX's Starship completes first-ever midair catch on return from orbit",
+        "summary": "SpaceX's Starship spacecraft returned from its mission with a successful midair recovery by mechanical arms. The spacecraft comple...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/us-flight-disruptions-nationwide-ground-stop-ordered-for-only-the-second-time-since-9/11/articleshow/135820238.cms",
-        "timestamp": "03:39 UTC"
+        "url": "https://timesofindia.indiatimes.com/science/watch-spacexs-starship-completes-first-ever-midair-catch-on-return-from-orbit/articleshow/135844940.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 39,
-        "title": "Class 12 boy dies by suicide during video call with girlfriend; girl also kills herself",
-        "summary": "A devastating incident unfolded as 18-year-old students Jeet Biswas and Puja Mondal took their lives while connected via video cal...",
+        "title": "Elon Musk joins over 43,000 people asking Nvidia’s board to bring back Jensen Huang",
+        "summary": "Elon Musk has signed an open letter urging Nvidia’s board to reinstate Jensen Huang as CEO, joining more than 43,000 signers, incl...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/kolkata/class-12-boy-ends-life-on-video-call-girlfriend-follows-suit/articleshow/135813587.cms",
-        "timestamp": "03:39 UTC"
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-and-over-40000-others-including-nvidias-current-and-former-employees-sign-open-letter-for-jensen-huangs-return-letter-says-thirty-three-years-of-leadership-do-not-place-anyone-above-/articleshow/135823053.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 40,
-        "title": "US flight chaos: What caused FAA outage that grounded departures nationwide",
+        "title": "First since Op Sindoor: Pak to send minister for Delhi SCO event",
         "summary": "No summary provided by source.",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/us-flight-chaos-what-caused-faa-communication-outage-that-grounded-departures-nationwide/articleshow/135820048.cms",
-        "timestamp": "03:39 UTC"
+        "url": "https://timesofindia.indiatimes.com/india/pak-sending-experienced-minister-for-delhi-event/articleshow/135844386.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 41,
-        "title": "Gina Hinojosa says she can work with Elon Musk &amp; his companies, but has a condition",
-        "summary": "In a bold move, Gina Hinojosa has called for protective clauses prior to engaging with companies owned by Elon Musk. Following her...",
+        "title": "13-year-old finds rare free baseball card, sells it for $20,100",
+        "summary": "A young baseball enthusiast from Seattle secured an esteemed baseball card during a Mariners game. This unique card showcased Jimo...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/new-texas-governor-elect-gina-hinojosa-who-campaigned-against-spacex-deal-says-ready-to-have-a-strong-working-relationship-with-elon-musk-and-his-companies-but-has-a-condition/articleshow/135771794.cms",
-        "timestamp": "03:39 UTC"
+        "url": "https://timesofindia.indiatimes.com/world/us/a-13-year-old-seattle-baseball-fan-picked-up-a-free-trading-card-at-a-mariners-game-without-knowing-she-had-the-only-gold-version-in-existence-weeks-later-collectors-paid-20100-for-the-raccoon-themed-card/articleshow/135788946.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 42,
-        "title": "Bengaluru woman turns Rs 5,000 cupcakes into Rs 1 crore bakery",
-        "summary": "Megna Jain began her entrepreneurial adventure at the tender age of 18, introducing her cupcake business during college in Bengalu...",
+        "title": "After sitting out four games, Siraj gets his chance; Yash Thakur makes debut",
+        "summary": "New Zealand captain Mitchell Santner won the toss and elected to bowl in the fifth ODI.",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/life-style/people/bengaluru-woman-who-started-selling-cupcakes-at-18-launched-a-bakery-with-just-rs-5000-survived-a-six-week-covid-shutdown-and-built-a-corporate-gifting-business-that-later-reported-over-rs-1-crore-in-fy24-revenue/articleshow/135796053.cms",
-        "timestamp": "03:39 UTC"
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-after-sitting-out-four-games-mohammed-siraj-gets-his-chance-in-fifth-odi-yash-thakur-makes-debut/articleshow/135845486.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 43,
-        "title": "75+ happy children's day messages, greetings, wishes and quotes",
-        "summary": "In India, Children's Day is celebrated on November 14, paying homage to Chacha Nehru's birthday and dedication to children's welfa...",
+        "title": "Swiss men take to streets, call for stronger fight against violence against women",
+        "summary": "Men gathered in the Swiss capital to protest against misogyny and violence directed at women. The demonstration called for men to ...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/75-happy-childrens-day-messages-greetings-card-wishes-gifs-facebook-instagram-story-ai-prompt-and-quotes-for-2026/articleshow/135802574.cms",
-        "timestamp": "03:39 UTC"
+        "url": "https://timesofindia.indiatimes.com/world/europe/swiss-men-take-to-streets-call-for-stronger-fight-against-violence-against-women/articleshow/135845524.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 44,
-        "title": "Just 6th overall and 1st in Pak's history: Saud joins rare Test batting record list",
-        "summary": "Shakeel, who had scored 93 in Pakistan's first innings total of 434/9 declared, fell just three runs short of his century in the s...",
+        "title": "Employee says manager confirmed layoff days before wedding",
+        "summary": "An employee at Qualcomm found himself facing a layoff announcement mere days before stepping into marriage. Meanwhile, another emp...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/just-sixth-overall-and-first-ever-in-pakistans-history-saud-shakeel-joins-rare-test-batting-record-list-which-includes-mahela-jayawardene-and-gordon-greenidge/articleshow/135820141.cms",
-        "timestamp": "03:39 UTC"
+        "url": "https://timesofindia.indiatimes.com/life-style/people/im-getting-married-next-week-employee-says-manager-confirmed-layoff-days-before-wedding-shares-ordeal/articleshow/135827400.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 45,
-        "title": "SpaceX's ambitious Starship double-catch attempt fails as booster ends up in Gulf",
-        "summary": "No summary provided by source.",
+        "title": "Mystery bronze leg in Scottish bog linked to giant Roman emperor statue",
+        "summary": "Emperor Antoninus Pius, celebrated for his peace-driven rule and military expeditions, may have a newly discovered connection to h...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/science/spacexs-ambitious-starship-double-catch-attempt-fails-as-booster-ends-up-in-gulf/articleshow/135819060.cms",
-        "timestamp": "03:39 UTC"
+        "url": "https://timesofindia.indiatimes.com/science/archaeology/giant-statue-of-roman-emperor-antoninus-pius-discovered-in-scottish-bog-the-mystery-of-the-bronze-leg-unveiled/articleshow/135837858.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 46,
-        "title": "Farmer turns 1,200 acres into wildlife haven, rare species return",
-        "summary": "A decade-long restoration project in west Norfolk has brilliantly converted agricultural land into a vibrant natural habitat. Spea...",
+        "title": "Dario Amodei's Anthropic makes its largest hometown donation",
+        "summary": "Anthropic has pledged $50 million to assist Bay Area nonprofits through the end of 2027. The company will begin its initiative wit...",
         "category": "INDIA",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/uk/in-2016-farmer-olly-birkbeck-began-transforming-1200-acres-of-intensively-farmed-norfolk-land-into-a-wildlife-haven-a-decade-later-rare-butterflies-orchids-and-birds-have-returned/articleshow/135815752.cms",
-        "timestamp": "03:39 UTC"
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/dario-amodeis-anthropic-makes-its-largest-hometown-donation-to-date-to-give-500000-to-support-free-meals-and-shelter-for-homeless-in-san-francisco-comes-on-the-day-ai-company-set-/articleshow/135842000.cms",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 47,
-        "title": "Father calls co-pilot daughter killed in Florida crash a ‘hero’",
-        "summary": "The father of 20-year-old co-pilot Nathalia Filgueiras, who was killed along with eight others in a Learjet crash on a Florida hig...",
+        "title": "'Vendetta': Himachal BJP On FIR Against Kangana Ranaut Over Sonia Gandhi Remark, Congress Responds",
+        "summary": "The BJP has called the FIR against Kangana Ranaut over her Sonia Gandhi remarks politically motivated. The Congress government in ...",
         "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/father-of-20-year-old-co-pilot-nathalia-filgueiras-killed-in-florida-learjet-crash-calls-her-a-hero-says-listening-to-final-radio-transmissions-was-extremely-painful-i-need-some-answers-to-find-peace/articleshow/135815879.cms",
-        "timestamp": "03:39 UTC"
+        "source": "News18",
+        "url": "https://www.news18.com/india/vendetta-himachal-bjp-on-fir-against-kangana-ranaut-over-sonia-gandhi-remark-congress-responds-ws-l-10426175.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 48,
-        "title": "Mark Zuckerberg and Priscilla Chan add historic Irish castle to portfolio",
-        "summary": "Mark Zuckerberg and Priscilla Chan have acquired Strancally Castle in County Waterford for €51.17 million. The historic estate spa...",
+        "title": "India U-19 Beat Pakistan In Last-Ball Thriller To Win Record Ninth Asia Cup Title | News18",
+        "summary": "India have reclaimed the ACC Men’s Under-19 Asia Cup in spectacular fashion, defeating arch-rivals Pakistan by one wicket in a fin...",
         "category": "INDIA",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-buy-440-acre-irish-estate-for-about-57-million-featuring-a-gothic-castle-16000-square-foot-mansion-historic-architecture-and-stunning-river-blackwater-views/articleshow/135789254.cms",
-        "timestamp": "03:39 UTC"
+        "source": "News18",
+        "url": "https://www.news18.com/videos/breaking-news/india-u-19-beat-pakistan-in-last-ball-thriller-to-win-record-ninth-asia-cup-title-news18-10426192.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 49,
-        "title": "Kerala Lottery Result Today Live: Karunya KR-776 Winning Numbers For November 14, 2026; First Prize Rs 1 Crore",
-        "summary": "Kerala Lottery Result Today: Karunya KR-776 result will be declared today, on Saturday, November 14. Check the live updates and fu...",
+        "title": "Owaisi’s Ram Temple Challenge To Akhilesh: Who Speaks For UP’s Muslims? | UP Elections | News18",
+        "summary": "Akhilesh Yadav’s planned visit to the Ram Temple in Ayodhya has opened a fresh political confrontation in Uttar Pradesh. AIMIM chi...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/kerala-lottery-result-today-karunya-kr-776-november-14-live-ws-e-10423497.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.news18.com/videos/breaking-news/owaisi-s-ram-temple-challenge-to-akhilesh-who-speaks-for-up-s-muslims-up-elections-news18-10426195.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 50,
-        "title": "Tanker Hits New Orleans Riverboat: 32 Injured As FAA Grounds US Flights | Mississipi River | News18",
-        "summary": "A tanker collision on the Mississippi River in New Orleans and a nationwide aviation disruption have put the spotlight on safety s...",
+        "title": "Sri Ganganagar Rail Blast: 2 Arrested, Pakistan Link Under Probe | Rajasthan ATS | News18",
+        "summary": "A suspected cross-border conspiracy is under investigation after Rajasthan Police arrested two people in connection with the Novem...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/videos/breaking-news/tanker-hits-new-orleans-riverboat-32-injured-as-faa-grounds-us-flights-mississipi-river-news18-10425067.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.news18.com/videos/breaking-news/sri-ganganagar-rail-blast-2-arrested-pakistan-link-under-probe-rajasthan-ats-news18-10426191.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 51,
-        "title": "Delhi’s Toxic Air And Polluted Yamuna: BJP, AAP Trade Charges Ahead Of Chhath Puja | News18",
-        "summary": "Delhi is facing a fresh pollution crisis as air quality deteriorates sharply, with the Air Quality Index touching 494 on Friday mo...",
+        "title": "'Sharper Competition, National Assertions': Jaishankar Says Multipolar World Order Taking Shape Amid Conflicts",
+        "summary": "S Jaishankar said a more multipolar and transactional world order is emerging amid global conflicts, while indicating that India-U...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/videos/breaking-news/delhi-s-toxic-air-and-polluted-yamuna-bjp-aap-trade-charges-ahead-of-chhath-puja-news18-10425044.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.news18.com/india/world-moving-towards-more-multipolar-transactional-order-s-jaishankar-ws-l-10426154.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 52,
-        "title": "'I Respect PM Modi': Sam Pitroda Says Differences Are Political, Not Personal After Diwali Greetings",
-        "summary": "Sam Pitroda said extending wishes to the Prime Minister was a matter of courtesy and should not be viewed through a political lens...",
+        "title": "'Completely False': NCP-SP Rules Out Merger After Supriya Sule Says Talks Ended With Ajit Pawar's Death",
+        "summary": "NCP-SP rejected merger speculation after Supriya Sule said talks ended following Ajit Pawar's death. Devendra Fadnavis also denied...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/i-respect-pm-modi-sam-pitroda-says-differences-are-political-not-personal-after-diwali-greetings-ws-l-10425037.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.news18.com/india/ncp-spreject-merger-buzz-sunetra-pawar-supriya-sule-ajit-pawar-death-ws-l-10426146.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 53,
-        "title": "FAA Communications Failure Grounds US Flights: Thousands Stranded, Recovery May Take Days | N18",
-        "summary": "America's aviation network has been thrown into unprecedented disruption after a communications failure at air traffic control cen...",
+        "title": "Kerala High Court Calls For Lowering Juvenile Age From 18 To 16: 'It’s High Time'",
+        "summary": "The court made the observation while hearing a petition alleging that authorities had failed to prevent the sale and supply of liq...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/videos/breakingnews/faa-communications-failure-grounds-us-flights-thousands-stranded-recovery-may-take-days-n18-10425035.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.news18.com/india/kerala-high-court-calls-for-lowering-juvenile-age-from-18-to-16-its-high-time-ws-l-10426150.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 54,
-        "title": "PM Modi Reviews Crucial Rail Project For Andhra's New Capital Amaravati | Exclusive",
-        "summary": "The Rs 2,047-crore railway line is meant to connect Amaravati, the dream capital region of N Chandrababu Naidu, to the national ra...",
+        "title": "'Bharat Badnaam Summit': BJP Attacks Rahul Gandhi Over Hyderabad Event, Accuses Him Of Defaming India",
+        "summary": "BJP leader CR Kesavan calls Bharat Summit 'Bharat Badnaam Summit', accusing Rahul Gandhi of defaming India before foreign delegate...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/india/pm-modi-reviews-crucial-rail-project-for-andhras-new-capital-amaravati-exclusive-ws-blrt-10425013.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.news18.com/india/bjp-attacks-rahul-gandhi-over-remarks-on-indian-democracy-at-bharat-summit-ws-l-10426131.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 55,
-        "title": "'Mysterious Foreign National': Himachal Police Book BJP MP Kangana Ranaut Over X Post Against Sonia Gandhi",
-        "summary": "The post allegedly linked the tragic deaths of former PMs Indira and Rajiv Gandhi, along with Sanjay Gandhi, to Congress leader So...",
+        "title": "Delhi's Air Quality Remains ‘Very Poor’ With AQI At 365, Multiple Areas Record Severe Pollution Levels",
+        "summary": "Delhi pollution remains a concern as Anand Vihar records an AQI of 365. Several monitoring stations have reported severe air quali...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/politics/mysterious-foreign-national-himachal-police-book-bjp-mp-kangana-ranaut-over-x-post-against-sonia-gandhi-ws-lrt-10425009.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.news18.com/india/delhi-air-pollution-delhi-ncr-aqi-today-anand-vihar-pollution-central-pollution-control-board-ws-l-10426117.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 56,
-        "title": "India’s Export Engine Surges 16.66% To $568.84 Billion In 7 Months! What Is Driving The Global Demand?",
-        "summary": "Rather than relying on a single commodity spike, the seven-month surge reflects broad-based industrial and value-added manufacturi...",
+        "title": "1971 War Posters, Flares: Chaos At Bangladesh-Pak SAFF Semi-Final, Fans Attempt To Set Dhaka Stadium On Fire",
+        "summary": "Bangladesh-Pakistan SAFF semi-final turns chaotic after Pakistan's 1-0 win. 1971 Liberation War imagery, flares and fire reported ...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/business/economy/indias-export-engine-surges-16-66-to-568-84-billion-in-7-months-what-is-driving-the-global-demand-ws-lrt-10425004.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.news18.com/india/bangladesh-pakistan-saff-semi-final-1971-war-posters-stadium-fire-ws-l-10426111.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 57,
-        "title": "Delhi University Overhauls 3-Week-Old Women's Safety Panel After LSR Row | Exclusive",
-        "summary": "Headed by the University Proctor as Chairperson, the new 13-member body combines senior administrative officials, college principa...",
+        "title": "Minor Gang-Raped In Uttarakhand: Haldwani Homestay Sealed, Ex-ABVP Candidate Among 4 Held, Outfit Condemns Crime",
+        "summary": "ABVP members staged public demonstrations, burning effigies of the suspects, and demanding expedited justice",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/education-career/delhi-university-overhauls-3-week-old-womens-safety-panel-after-lsr-row-exclusive-ws-lt-10424967.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.news18.com/india/minor-gang-raped-in-uttarakhand-haldwani-homestay-sealed-ex-abvp-candidate-among-4-held-outfit-condemns-crime-ws-lrt-10426091.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 58,
-        "title": "6 Indian Seafarers Stranded At Karachi Port For 6 Months: Why Can't They Return Home? MEA Says...",
-        "summary": "MEA said Indian government had been communicating with the stranded seafarers as well as their employer and the shipping company's...",
+        "title": "Punjab Launches ‘Punjab Da Crorepati’ Quiz, Winner To Get Rs 1 Crore: Here's How To Participate",
+        "summary": "Youngsters can register through the official Punjab Da Crorepati app or portal, available on the Google Play Store and Apple App S...",
         "category": "INDIA",
         "source": "News18",
-        "url": "https://www.news18.com/world/six-indian-seafarers-stranded-at-pakistans-karachi-port-for-six-months-why-cant-they-return-home-mea-says-ws-r-10424963.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.news18.com/india/punjab-launches-punjab-da-crorepati-quiz-winner-to-get-rs-1-crore-heres-how-to-participate-ws-rt-10426083.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 59,
-        "title": "Kidnapped, Brutally Assaulted: Kerala Woman Plots Boyfriend's Murder With Friends, 5 Arrested",
-        "summary": "Safana allegedly took help from her aides to kidnap, rob, and kill the man.",
-        "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/india/kerala-woman-plots-boyfriend-murder-with-friends-kidnapped-brutally-assaulted-arrested-10424915.html",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 60,
-        "title": "Will Ajit Pawar And Sharad Pawar Factions Merge? Chhagan Bhujbal Says No Final Decision Yet",
-        "summary": "Chhagan Bhujbal said the possibility of bringing the two NCP factions together was being discussed, but several questions remained...",
-        "category": "INDIA",
-        "source": "News18",
-        "url": "https://www.news18.com/india/will-ajit-pawar-and-sharad-pawar-factions-merge-chhagan-bhujbal-says-no-final-decision-yet-ws-r-10424837.html",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 61,
         "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
         "summary": "From electronic warfare threats to coalition data sharing, discover how US and allied forces are strengthening the digital battles...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/securing-the-asia-pacific-digital-battlespace-technet-indo-pacific-2026/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 62,
+        "id": 60,
         "title": "Senate appropriators resuscitate Commerce space tracking program",
         "summary": "The Commerce Department effort was launched nearly a decade ago due to Defense Department concerns about the increasing drain on i...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/senate-appropriators-resuscitate-commerce-space-tracking-program/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 63,
+        "id": 61,
         "title": "Submarine maintenance delays saw ‘significant’ improvements in FY26, sub czar says",
         "summary": "Vice Adm. Rob Gaucher, the direct reporting portfolio manager for submarines, said that the Navy faced roughly 780 days of mainten...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/submarine-maintenance-delays-saw-significant-improvements-in-fy26-sub-czar-says/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 64,
+        "id": 62,
         "title": "Pentagon rebrands principal AI shop as ‘Super Intelligence Office’",
         "summary": "The redesignation follows President Donald Trump’s push to replace references to artificial intelligence with “super intelligence”...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 65,
+        "id": 63,
         "title": "Hermeus recruits Northrop Grumman to Quarterhorse drone program",
         "summary": "The defense giant will supply mission systems for Hermeus’ Quarterhorse unmanned aircraft, adding a new partner among a team of in...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/hermeus-recruits-northrop-grumman-to-quarterhorse-drone-program/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 66,
+        "id": 64,
         "title": "Gadi Eisenkot could be Israel’s next leader. His military experience will drive his approach.",
         "summary": "Eisenkot has been tasked with forming a new government, but it won&#8217;t be easy.",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/gadi-eisenkot-could-be-israels-next-leader-his-military-experience-will-drive-his-approach/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 67,
+        "id": 65,
         "title": "UK to buy three new mine-hunting drone motherships under Norway agreement",
         "summary": "The decision, for which £90 million ($119.1 million) has been allocated, was formalized on Thursday by British Defense Secretary W...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/uk-to-buy-three-new-mine-hunting-drone-motherships-under-norway-agreement/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 68,
+        "id": 66,
         "title": "Hegseth seeks to elevate top SOF civilian to service-secretary equivalent",
         "summary": "Congress will need to approve the change, but there are internal, bureaucratic steps Hegseth is directing that should increase the...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/hegseth-seeks-to-elevate-top-sof-civilian-to-service-secretary-equivalent/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 69,
+        "id": 67,
         "title": "Delivering first Columbia-class sub in 2028 is ‘absolutely achievable’, sub czar says",
         "summary": "Vice Adm. Rob Gaucher, the direct reporting portfolio manager for Submarines, said that delivering the first Columbia-class submar...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/delivering-first-columbia-class-sub-in-2028-is-absolutely-achievable-sub-czar-says/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 70,
+        "id": 68,
         "title": "AUKUS review was ‘best thing’ for trilateral pact: Colby",
         "summary": "“At the end of the day, this is a practical arrangement that involves the eventual sale of our crown jewels, our military capabili...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/aukus-review-was-best-thing-for-trilateral-pact-colby/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 71,
+        "id": 69,
         "title": "SDA explores integration of SpaceX laser communication terminals with missile tracking sats",
         "summary": "An SDA spokesperson told Breaking Defense that the new study is a first step,  and thus there are a number of potential hardware a...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/sda-explores-integration-of-spacex-laser-communication-terminals-with-missile-tracking-sats/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 72,
+        "id": 70,
         "title": "Air Force unveils T-19A, a new aerobatic plane to train future pilots",
         "summary": "Built by Game Aerospace Composites, the GB1 Gamebird — designated the T-19A by the Air Force — was funded through corporate and ci...",
         "category": "DEFENSE",
         "source": "Breaking Defense",
         "url": "https://breakingdefense.com/2026/11/air-force-debuts-new-t-19a-aerobatic-plane/",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 73,
+        "id": 71,
         "title": "Here’s what happened in crypto today",
         "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 72,
+        "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+        "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks ...",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 73,
+        "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+        "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and eco...",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 74,
+        "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+        "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidel...",
+        "category": "MARKETS",
+        "source": "Crypto",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "timestamp": "03:14 UTC"
+    },
+    {
+        "id": 75,
         "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
         "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauth...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 75,
+        "id": 76,
         "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
         "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates fo...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 76,
+        "id": 77,
         "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
         "summary": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 77,
+        "id": 78,
         "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
         "summary": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 78,
+        "id": 79,
         "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
         "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and o...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 79,
+        "id": 80,
         "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
         "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 80,
+        "id": 81,
         "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
         "summary": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
-        "id": 81,
+        "id": 82,
         "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
         "summary": "A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment...",
         "category": "MARKETS",
         "source": "Crypto",
         "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 82,
-        "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-        "summary": "Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank ...",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 83,
-        "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-        "summary": "Unocoin said the transfers were signed and broadcast outside BitGo’s platform, and BitGo said the account freeze worked as intende...",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.spacex.com/launches/starship-flight-15",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 84,
-        "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-        "summary": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,0...",
-        "category": "MARKETS",
-        "source": "Crypto",
-        "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "timestamp": "03:39 UTC"
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "summary": "Comments",
+        "category": "TECH",
+        "source": "Hacker News",
+        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 85,
-        "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-        "timestamp": "03:39 UTC"
+        "url": "https://retrocomputing.stackexchange.com/questions/17957",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 86,
-        "title": "Ggml v1.0.0",
+        "title": "A family tree of software job titles",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-        "timestamp": "03:39 UTC"
+        "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 87,
-        "title": "FAA lifted National Ground Stop at 0119Z",
+        "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 88,
-        "title": "Terminal borders that don't cost a cell",
+        "title": "KDE: The documentary [video]",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://www.joshka.net/cell-borders/",
-        "timestamp": "03:39 UTC"
+        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 89,
-        "title": "FAA issues national ground stop",
+        "title": "PyPI's redesigned project pages with clearer security signals are now live",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-        "timestamp": "03:39 UTC"
+        "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 90,
-        "title": "What Happened to 3Com?",
+        "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 91,
-        "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+        "title": "500 Lines or Less A 3D Modeller",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://orcasairband.com/",
-        "timestamp": "03:39 UTC"
+        "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 92,
-        "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+        "title": "Why get an expensive Pi when I have an old phone?",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-        "timestamp": "03:39 UTC"
+        "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 93,
-        "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+        "title": "Oxford Molecular Motors",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
-        "timestamp": "03:39 UTC"
+        "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+        "timestamp": "03:14 UTC"
     },
     {
         "id": 94,
-        "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+        "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
         "summary": "Comments",
         "category": "TECH",
         "source": "Hacker News",
-        "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 95,
-        "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://grounds.top/",
-        "timestamp": "03:39 UTC"
-    },
-    {
-        "id": 96,
-        "title": "Found: A protein that drives ageing without unleashing inflammation",
-        "summary": "Comments",
-        "category": "TECH",
-        "source": "Hacker News",
-        "url": "https://www.nature.com/articles/d41586-026-03638-3",
-        "timestamp": "03:39 UTC"
+        "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
+        "timestamp": "03:14 UTC"
     }
 ]

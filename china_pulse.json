@@ -3,14 +3,14 @@
         "INDIA",
         "CAPITAL",
         "TAIWAN",
-        "NVIDIA",
-        "WARNS",
-        "DEFENSE"
+        "DEFENSE",
+        "CHIEF",
+        "CRACKDOWN"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "58"
     },
-    "last_updated": "03:14 UTC"
+    "last_updated": "03:17 UTC"
 }

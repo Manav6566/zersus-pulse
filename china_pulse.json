@@ -1,16 +1,16 @@
 {
     "social_pulse": [
-        "INDIA",
         "SUMMIT",
-        "CAPITAL",
+        "INDIA",
         "TRUMP",
-        "BANGLADESH",
-        "TAIWAN"
+        "AHEAD",
+        "CAPITAL",
+        "PUTIN"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "58"
     },
-    "last_updated": "04:45 UTC"
+    "last_updated": "04:36 UTC"
 }

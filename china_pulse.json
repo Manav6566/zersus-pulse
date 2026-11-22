@@ -1,16 +1,16 @@
 {
     "social_pulse": [
         "INDIA",
-        "SECURITY",
         "SUMMIT",
-        "TRUMP",
+        "CAPITAL",
         "BANGLADESH",
-        "TALKS"
+        "SECURITY",
+        "TRUMP"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "58"
     },
-    "last_updated": "04:20 UTC"
+    "last_updated": "03:35 UTC"
 }

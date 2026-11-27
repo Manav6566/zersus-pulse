@@ -1,16 +1,16 @@
 {
     "social_pulse": [
         "INDIA",
-        "JAPAN",
-        "SECURITY",
-        "CAPITAL",
         "NVIDIA",
-        "CORRUPTION"
+        "TAIWAN",
+        "PARTY",
+        "JAPAN",
+        "TRUMP"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "58"
     },
-    "last_updated": "05:33 UTC"
+    "last_updated": "05:27 UTC"
 }

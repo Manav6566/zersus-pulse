@@ -1,111 +1,111 @@
 [
     {
         "id": 1,
+        "title": "Taiwan is expanding its military draft. Will those troops make a difference?",
+        "summary": "Taiwan’s move to toughen up on exemptions to military service has sparked anxiety among some young men facing conscription and rai...",
+        "category": "DIPLOMACY",
+        "source": "SCMP Diplomacy",
+        "url": "https://www.scmp.com/news/china/politics/article/3376027/taiwan-expanding-its-military-draft-will-those-troops-make-difference",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 2,
+        "title": "How Xi’s party discipline playbook signals strict vetting ahead of the 2027 congress",
+        "summary": "China’s newly released supplementary reading for the fifth plenary session of the 20th Central Committee offers a clear window int...",
+        "category": "DIPLOMACY",
+        "source": "SCMP Diplomacy",
+        "url": "https://www.scmp.com/news/china/politics/article/3376004/how-xis-party-discipline-playbook-signals-strict-vetting-ahead-2027-congress",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 3,
+        "title": "No warning, no mercy: why China moved fast to topple Chen Jining",
+        "summary": "Just days after President Xi Jinping returned to Beijing from the Asia-Pacific Economic Cooperation (Apec) leaders’ meeting and bi...",
+        "category": "DIPLOMACY",
+        "source": "SCMP Diplomacy",
+        "url": "https://www.scmp.com/news/china/politics/article/3376088/no-warning-no-mercy-why-china-moved-fast-topple-chen-jining",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 4,
         "title": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
         "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that reson...",
         "category": "DIPLOMACY",
         "source": "SCMP Diplomacy",
         "url": "https://www.scmp.com/news/world/article/3375979/huawei-guilty-10-counts-us-trial-nvidias-jensen-huang-returns-scmps-7-highlights",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "What will Taiwan local elections reveal about 2028 race and cross-strait shifts?",
         "summary": "The local elections in Taiwan on Saturday will offer Beijing a window into shifting public sentiment and the island’s political tr...",
         "category": "DIPLOMACY",
         "source": "SCMP Diplomacy",
         "url": "https://www.scmp.com/news/china/politics/article/3375904/what-will-taiwan-local-elections-reveal-about-2028-race-and-cross-strait-shifts",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Will Taiwan’s referendum bring back nuclear power as chips and AI strain the grid?",
         "summary": "Taiwan’s growing demand for electricity to sustain its semiconductor and AI industries has thrust a nuclear power referendum into ...",
         "category": "DIPLOMACY",
         "source": "SCMP Diplomacy",
         "url": "https://www.scmp.com/news/china/politics/article/3375975/will-taiwans-referendum-bring-back-nuclear-power-chips-and-ai-strain-grid",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 4,
+        "id": 7,
         "title": "China busts cross-border blood smuggling ring over biosecurity fears",
         "summary": "China has cracked down on the smuggling of blood samples from pregnant women, highlighting what authorities describe as a threat t...",
         "category": "DIPLOMACY",
         "source": "SCMP Diplomacy",
         "url": "https://www.scmp.com/news/china/politics/article/3375953/china-busts-cross-border-blood-smuggling-ring-over-biosecurity-fears",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 5,
+        "id": 8,
         "title": "Shanghai party chief’s downfall shows reach of anti-corruption drive",
         "summary": "Shanghai’s Communist Party chief, Chen Jining, was placed under investigation for corruption as China’s widening anti-corruption d...",
         "category": "DIPLOMACY",
         "source": "SCMP Diplomacy",
         "url": "https://www.scmp.com/plus/news/china/politics/article/3375916/shanghai-party-chiefs-downfall-shows-reach-anti-corruption-drive",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 6,
+        "id": 9,
         "title": "What others can learn from China’s effective governance",
         "summary": "To understand China today, one must understand the Communist Party of China. The close attention the world paid to the fifth plenu...",
         "category": "DIPLOMACY",
         "source": "SCMP Diplomacy",
         "url": "https://www.scmp.com/opinion/china-opinion/article/3375562/what-others-can-learn-chinas-effective-governance",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 7,
+        "id": 10,
         "title": "How China’s leadership will weigh its choices for picking Shanghai’s next party chief",
         "summary": "Beijing is considering its options for the next Shanghai Communist Party boss following the sudden downfall of Chen Jining.\nHis ou...",
         "category": "DIPLOMACY",
         "source": "SCMP Diplomacy",
         "url": "https://www.scmp.com/news/china/politics/article/3375898/how-chinas-leadership-will-weigh-its-choices-picking-shanghais-next-party-chief",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 8,
+        "id": 11,
         "title": "The uphill battle for the opposition Kuomintang in Taiwan’s local elections",
         "summary": "Taiwan’s main opposition Kuomintang (KMT) faces an uphill battle in Saturday’s local elections, with its goal of retaining 15 loca...",
         "category": "DIPLOMACY",
         "source": "SCMP Diplomacy",
         "url": "https://www.scmp.com/news/china/politics/article/3375867/taiwans-main-opposition-kuomintang-faces-uphill-battle-local-elections",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 9,
+        "id": 12,
         "title": "China’s anti-corruption campaign tracker",
         "summary": "China’s top graft-buster has ensnared 61 senior civilian officials so far this year, including two sitting Politburo members, acco...",
         "category": "DIPLOMACY",
         "source": "SCMP Diplomacy",
         "url": "https://www.scmp.com/plus/news/china/politics/article/3375860/chinas-anti-corruption-campaign-tracker",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 10,
-        "title": "From AI models to football: how China plans to expand defence education by 2030",
-        "summary": "Gig economy workers, intervillage sports contests and students across China are among targets for Beijing’s new five-year blueprin...",
-        "category": "DIPLOMACY",
-        "source": "SCMP Diplomacy",
-        "url": "https://www.scmp.com/news/china/politics/article/3375850/ai-models-football-how-china-plans-expand-defence-education-2030",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 11,
-        "title": "China sounds alarm on new and unseen tech risks, urges AI-driven security defence",
-        "summary": "China must significantly strengthen its ability to assess and prevent new and unseen security risks as technological revolutions, ...",
-        "category": "DIPLOMACY",
-        "source": "SCMP Diplomacy",
-        "url": "https://www.scmp.com/news/china/politics/article/3375786/china-sounds-alarm-new-and-unseen-tech-risks-urges-ai-driven-security-defence",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 12,
-        "title": "Grand gestures at Apec in Shenzhen. But what about the small things?",
-        "summary": "As soon as world leaders left the Apec venues in downtown Shenzhen last Thursday, food deliveries resumed in the area and it start...",
-        "category": "DIPLOMACY",
-        "source": "SCMP Diplomacy",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3375592/grand-gestures-apec-shenzhen-what-about-small-things",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "category": "DEFENCE",
         "source": "Defense News Asia",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/11/25/japan-to-use-indian-ranges-for-long-range-missile-training-under-new-pact/",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "category": "DEFENCE",
         "source": "Defense News Asia",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/11/24/from-horsepower-to-firepower-japan-draws-auto-suppliers-into-major-arms-buildup/",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "category": "DEFENCE",
         "source": "Defense News Asia",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/11/23/chinas-fourth-aircraft-carrier-bigger-than-others-and-nuclear-powered-nears-completion/",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "category": "DEFENCE",
         "source": "Defense News Asia",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/11/20/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says/",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "category": "DEFENCE",
         "source": "Defense News Asia",
         "url": "https://www.defensenews.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now/",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "category": "DEFENCE",
         "source": "Defense News Asia",
         "url": "https://www.defensenews.com/global/the-americas/2026/11/18/us-surges-power-projection-to-westernmost-island-chain-as-russia-china-loom/",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "category": "DEFENCE",
         "source": "Defense News Asia",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops/",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 20,
@@ -177,7 +177,7 @@
         "category": "DEFENCE",
         "source": "Defense News Asia",
         "url": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base/",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 21,
@@ -186,7 +186,7 @@
         "category": "DEFENCE",
         "source": "Defense News Asia",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/11/16/china-has-normalized-naval-presence-near-japan-since-political-spat-of-2025/",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 22,
@@ -195,7 +195,7 @@
         "category": "DEFENCE",
         "source": "Defense News Asia",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/11/06/us-air-force-eyes-reviving-wwii-air-bases-in-the-pacific/",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 23,
@@ -204,7 +204,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/opinion/china-opinion/article/3373304/midterm-swing-wont-change-trajectory-us-china-rivalry",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 24,
@@ -213,7 +213,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/news/china/money-wealth/article/3372235/icbc-makes-history-record-us19-billion-ipo-dual-listing-2006-scmp-archive",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 25,
@@ -222,7 +222,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/news/china/money-wealth/article/3372032/leading-chinese-economic-commentator-ren-zepings-social-media-account-restricted",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 26,
@@ -231,7 +231,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/opinion/china-opinion/article/3371259/chinas-offshore-tax-crackdown-could-inadvertently-fuel-digital-dollar-boom",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 27,
@@ -240,7 +240,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/opinion/china-opinion/article/3368293/chinas-industrial-strengths-must-also-benefit-its-trading-partners",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 28,
@@ -249,7 +249,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/opinion/china-opinion/article/3368285/chinas-top-priority-should-be-wages-not-ai",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 29,
@@ -258,7 +258,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 30,
@@ -267,7 +267,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/news/us/economy-trade-business/article/3359912/chinas-biggest-daily-us-soybean-order-confirmation-xi-trump-summit-pact",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 31,
@@ -276,7 +276,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/opinion/china-opinion/article/3358927/when-and-how-will-china-ease-capital-controls",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 32,
@@ -285,7 +285,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/news/china/money-wealth/article/3357971/european-central-banks-president-lagarde-urges-talks-yuan-undervaluation",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 33,
@@ -294,7 +294,7 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355567/hong-kong-emerging-leading-capital-hub-multipolar-era",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 34,
@@ -303,222 +303,222 @@
         "category": "MARKETS",
         "source": "SCMP Economy",
         "url": "https://www.scmp.com/business/banking-finance/article/3355729/chinas-tiger-brokers-reports-strong-results-no-mention-trading-crackdown",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 35,
+        "title": "The Chinese car champion turning to police and nurse robots",
+        "summary": "Jaecoo owner Chery tries to make up lost ground after coming late to EV revolution",
+        "category": "MARKETS",
+        "source": "Financial Times China",
+        "url": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 36,
+        "title": "The  ‘diehard separatist’ shaking up Taipei’s election",
+        "summary": "Local polls across Taiwan are a test of support for the governing DPP ahead of crucial presidential vote in 2028",
+        "category": "MARKETS",
+        "source": "Financial Times China",
+        "url": "https://www.ft.com/content/1953fdc7-b061-4a0c-86c5-5ffd00ebcec4?syn-25a6b1a6=1",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 37,
+        "title": "EU weighs tighter export controls to prevent battery waste going to China",
+        "summary": "‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe",
+        "category": "MARKETS",
+        "source": "Financial Times China",
+        "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 38,
+        "title": "Japanese carmakers’ sales collapse amid China market plunge",
+        "summary": "Nissan’s October sales in the country tumbled 67%, the lowest monthly figure since the Covid-19 pandemic",
+        "category": "MARKETS",
+        "source": "Financial Times China",
+        "url": "https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 39,
+        "title": "Chinese shares soar after Beijing signals more support",
+        "summary": "Biggest one-day rise for CSI 300 index in two years following months of weakness",
+        "category": "MARKETS",
+        "source": "Financial Times China",
+        "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 40,
+        "title": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
+        "summary": "Move comes after some global investors pulled out or scaled back teams in Asian financial hub",
+        "category": "MARKETS",
+        "source": "Financial Times China",
+        "url": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 41,
+        "title": "China’s super-rich have a new obsession: million-dollar fish",
+        "summary": "Collectors are spending fortunes on koi, but an economic slowdown and Beijing’s crackdown on conspicuous wealth are threatening th...",
+        "category": "MARKETS",
+        "source": "Financial Times China",
+        "url": "https://www.ft.com/content/5a8b6b3c-c293-4f38-9f14-f5cc6cf98a34?syn-25a6b1a6=1",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 42,
+        "title": "Rest of the world plays catch-up with China’s solar power dominance",
+        "summary": "Europe, India and the US are all investing in domestic manufacturing capacity but have a long way to go to reduce their reliance o...",
+        "category": "MARKETS",
+        "source": "Financial Times China",
+        "url": "https://www.ft.com/content/8aafaa00-9b46-4513-9be9-b5ec5c6d123f?syn-25a6b1a6=1",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 43,
+        "title": "China’s wind turbine makers look abroad as pressures grow at home",
+        "summary": "A highly competitive domestic market has driven a rapid international expansion in recent years with a focus on emerging markets d...",
+        "category": "MARKETS",
+        "source": "Financial Times China",
+        "url": "https://www.ft.com/content/f683c0d1-c48e-45fe-a0bb-666380299b31?syn-25a6b1a6=1",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 44,
+        "title": "Chinese households shed billions in consumer debt",
+        "summary": "A three-year decline in mortgages in China is now spreading to consumer loans",
+        "category": "MARKETS",
+        "source": "Financial Times China",
+        "url": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 45,
         "title": "Trafigura calls for greater European metals support after zinc shutdown",
         "summary": "The trading house will close Dutch zinc operations after calling for greater government help with power costs",
         "category": "MARKETS",
         "source": "Financial Times China",
         "url": "https://www.ft.com/content/bece6b13-2af4-4704-8511-ac460985582f?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 36,
+        "id": 46,
         "title": "China made Shenzhen a showcase for tech prowess at Apec summit",
         "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
         "category": "MARKETS",
         "source": "Financial Times China",
         "url": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 37,
-        "title": "China hits back at Trump tariff threat",
-        "summary": "Levies follow investigation into whether countries give their own companies unfair subsidies",
-        "category": "MARKETS",
-        "source": "Financial Times China",
-        "url": "https://www.ft.com/content/31ae0162-f946-4e2c-b656-1930baea19d0?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 38,
-        "title": "Nvidia halts chip shipments to south-east Asia",
-        "summary": "Move comes as US steps up export controls to prevent Chinese access to AI computing power",
-        "category": "MARKETS",
-        "source": "Financial Times China",
-        "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 39,
-        "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
-        "summary": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
-        "category": "MARKETS",
-        "source": "Financial Times China",
-        "url": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 40,
-        "title": "Nvidia fallout exposes China’s fragility on frontier AI",
-        "summary": "The lack of US-style capital markets and domestic commercial demand makes it difficult for Beijing to fuel innovation",
-        "category": "MARKETS",
-        "source": "Financial Times China",
-        "url": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 41,
-        "title": "Trump announces raft of new tariffs on major economies",
-        "summary": "China, the EU, Japan and South Korea to be hit by levies as US president doubles down on trade strategy",
-        "category": "MARKETS",
-        "source": "Financial Times China",
-        "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 42,
-        "title": "China issues list of demands to Brussels over EU trade talks",
-        "summary": "Also in this newsletter: Serbia’s deafening absence in Brussels",
-        "category": "MARKETS",
-        "source": "Financial Times China",
-        "url": "https://www.ft.com/content/b32f9488-aa02-47f8-bebf-a97805a076e4?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 43,
-        "title": "China launches first space mission with foreign astronaut",
-        "summary": "Pakistani fighter pilot arrives for week on Chinese space station in projection of Beijing’s outreach to Islamabad",
-        "category": "MARKETS",
-        "source": "Financial Times China",
-        "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 44,
-        "title": "Will the Nvidia fallout kill off Asia’s data centre boom?",
-        "summary": "Projects that touted chip access to Chinese customers face tighter US scrutiny",
-        "category": "MARKETS",
-        "source": "Financial Times China",
-        "url": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 45,
-        "title": "Huawei convicted of conspiracy to steal trade secrets and bank fraud in US trial",
-        "summary": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company",
-        "category": "MARKETS",
-        "source": "Financial Times China",
-        "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 46,
-        "title": "Shanghai’s powerful Communist Party boss toppled as Xi  escalates purge",
-        "summary": "Chen Jining under investigation over suspected ‘severe violations of discipline and laws’",
-        "category": "MARKETS",
-        "source": "Financial Times China",
-        "url": "https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
         "id": 47,
+        "title": "Indian police rescue 164 Malaysians and Indonesians from Delhi scam ring",
+        "summary": "Indian police said they had rescued 164 foreign nationals allegedly trafficked into the country and forced to commit online fraud,...",
+        "category": "SCIENCE",
+        "source": "SCMP Tech",
+        "url": "https://www.scmp.com/news/asia/south-asia/article/3376096/indian-police-rescue-164-malaysians-and-indonesians-delhi-scam-ring",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 48,
+        "title": "EU seeks bigger Indian Ocean security role without rattling India",
+        "summary": "The European Union’s push to strengthen its security role in the Indian Ocean could give smaller countries more options for defenc...",
+        "category": "SCIENCE",
+        "source": "SCMP Tech",
+        "url": "https://www.scmp.com/week-asia/politics/article/3375969/eu-seeks-bigger-indian-ocean-security-role-without-rattling-india",
+        "timestamp": "05:03 UTC"
+    },
+    {
+        "id": 49,
         "title": "Modi questions corporate India on jobs and wages. Will business leaders do more?",
         "summary": "Prime Minister Narendra Modi’s observation that Indian companies were failing to create more jobs and raise wages despite governme...",
         "category": "SCIENCE",
         "source": "SCMP Tech",
         "url": "https://www.scmp.com/week-asia/economics/article/3375959/modi-questions-corporate-india-jobs-and-wages-will-business-leaders-do-more",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 48,
+        "id": 50,
         "title": "India asks Netflix to keep Pakistani Urdu drama off local screens",
         "summary": "Prime Minister Narendra Modi’s government has asked ⁠global streaming ⁠giant Netflix not to air ⁠a Pakistani series in India, medi...",
         "category": "SCIENCE",
         "source": "SCMP Tech",
         "url": "https://www.scmp.com/news/asia/south-asia/article/3375924/modis-government-urges-netflix-keep-pakistani-urdu-drama-indian-screens",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 49,
+        "id": 51,
         "title": "Nepal starts legal process to declare 4,000 dead 3 months after fatal floods",
         "summary": "Nepal had begun a process to legally declare dead thousands of people still missing after its catastrophic summer floods, authorit...",
         "category": "SCIENCE",
         "source": "SCMP Tech",
         "url": "https://www.scmp.com/news/asia/south-asia/article/3375910/nepal-starts-legal-process-declare-4000-dead-3-months-after-fatal-floods",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 50,
+        "id": 52,
         "title": "Bangladesh garment workers win 36% minimum wage rise after protests",
         "summary": "Bangladesh’s garment workers won a 36 per cent minimum wage increase on Wednesday, officials said, after weeks of sometimes violen...",
         "category": "SCIENCE",
         "source": "SCMP Tech",
         "url": "https://www.scmp.com/news/asia/south-asia/article/3375787/bangladesh-garment-workers-win-36-minimum-wage-rise-after-protests",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 51,
+        "id": 53,
         "title": "Nepal hedges between ‘2 Asian giants’ as ties with India thaw",
         "summary": "Nepalese Prime Minister Balendra Shah’s rapprochement with India highlights what analysts call the Himalayan nation’s delicate bal...",
         "category": "SCIENCE",
         "source": "SCMP Tech",
         "url": "https://www.scmp.com/week-asia/politics/article/3375772/nepal-hedges-between-two-asian-giants-ties-india-thaw",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 52,
+        "id": 54,
         "title": "Meta officials meet India’s Congress party to calm social media takedown row",
         "summary": "Meta Platforms’ top executives in India held closed-door talks ⁠with the country’s opposition Congress party as the two sides try ...",
         "category": "SCIENCE",
         "source": "SCMP Tech",
         "url": "https://www.scmp.com/news/asia/south-asia/article/3375747/meta-officials-meet-indias-congress-party-calm-social-media-takedown-row",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 53,
+        "id": 55,
         "title": "Why Japan is taking its missile drills to Indian soil",
         "summary": "India’s decision to allow Japanese forces to conduct live-fire missile drills at its firing ranges signals a new level of cooperat...",
         "category": "SCIENCE",
         "source": "SCMP Tech",
         "url": "https://www.scmp.com/week-asia/politics/article/3375590/why-japan-taking-its-missile-drills-indian-soil",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 54,
+        "id": 56,
         "title": "India to test all bottled water brands after Bisleri sample found unsafe",
         "summary": "India’s food safety regulator has found a sample of Bisleri International’s packaged drinking water ‌unsafe in a major setback for...",
         "category": "SCIENCE",
         "source": "SCMP Tech",
         "url": "https://www.scmp.com/news/asia/south-asia/article/3375438/india-test-all-bottled-water-brands-after-bisleri-sample-found-unsafe",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 55,
+        "id": 57,
         "title": "India’s tech talent meets Singapore’s capital: match made in AI heaven?",
         "summary": "India may struggle to catch up with the United States and China in the race to develop cutting-edge artificial intelligence, but a...",
         "category": "SCIENCE",
         "source": "SCMP Tech",
         "url": "https://www.scmp.com/week-asia/economics/article/3375271/indias-tech-talent-meets-singapores-capital-match-made-ai-heaven",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     },
     {
-        "id": 56,
+        "id": 58,
         "title": "In India, tainted alcohol leaves 11 dead, over 180 hospitalised",
         "summary": "At least 11 people have died and more than 180 have been hospitalised after drinking suspected tainted alcohol in India’s northeas...",
         "category": "SCIENCE",
         "source": "SCMP Tech",
         "url": "https://www.scmp.com/news/asia/south-asia/article/3375332/india-tainted-alcohol-leaves-11-dead-over-180-hospitalised",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 57,
-        "title": "India wants the world’s pension billions. Will regulatory hurdles slow the bet?",
-        "summary": "Raghupati Mishra, a Mumbai-based management and financial consultant, is thrilled that the six-lane Shree Jagannath Expressway – b...",
-        "category": "SCIENCE",
-        "source": "SCMP Tech",
-        "url": "https://www.scmp.com/week-asia/economics/article/3375263/india-wants-worlds-pension-billions-will-regulatory-hurdles-slow-bet",
-        "timestamp": "05:27 UTC"
-    },
-    {
-        "id": 58,
-        "title": "Indian man jailed over US murder plot against Sikh separatist",
-        "summary": "An Indian man was sentenced to more than 19 years in US prison on Friday after admitting to orchestrating a failed Indian governme...",
-        "category": "SCIENCE",
-        "source": "SCMP Tech",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3375297/indian-man-jailed-over-us-murder-plot-against-sikh-separatist",
-        "timestamp": "05:27 UTC"
+        "timestamp": "05:03 UTC"
     }
 ]

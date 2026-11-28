@@ -1,16 +1,16 @@
 {
     "social_pulse": [
         "INDIA",
-        "NVIDIA",
         "TAIWAN",
         "PARTY",
         "JAPAN",
-        "TRUMP"
+        "INDIAN",
+        "CAPITAL"
     ],
     "daily_figurements": {
         "weibo_activity": "SURGING",
         "market_sentiment": "OPTIMISTIC",
         "data_nodes": "58"
     },
-    "last_updated": "05:27 UTC"
+    "last_updated": "05:03 UTC"
 }
